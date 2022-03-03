@@ -1,0 +1,25 @@
+[GameObjectClass]
+ClassParent         = "all_inf_default"
+
+[Properties]
+
+MaxHealth           	= 550.0
+
+MaxSpeed                = 6.0       // base forward speed
+MaxStrafeSpeed          = 4.5       // base right/left speed
+
+WEAPONSECTION = 1
+WeaponName         = "all_weap_inf_RT97C"
+WeaponAmmo         = 0
+
+WEAPONSECTION = 2
+WeaponName         = "com_weap_inf_autoturret_dispenser_base"
+WeaponAmmo         = 1
+WeaponChannel      = 1
+
+WEAPONSECTION = 3
+WeaponName         = "com_weap_inf_mine_dispenser_base"
+WeaponAmmo         = 2
+WeaponChannel      = 1
+
+

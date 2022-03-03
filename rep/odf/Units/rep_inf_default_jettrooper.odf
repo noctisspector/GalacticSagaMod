@@ -1,0 +1,40 @@
+[GameObjectClass]
+ClassParent         = "rep_inf_default"
+
+
+[Properties]
+WEAPONSECTION = 1
+WeaponName         = "rep_weap_inf_DC15A"
+WeaponAmmo         = 0
+
+WEAPONSECTION = 2
+WeaponName         = "rep_weap_inf_arccaster"
+WeaponAmmo         = 5
+//WeaponChannel      = 1
+
+VOUnitType        	= 121
+
+AISizeType          = "HOVER"
+
+JetJump             = "21.0"    //The initial jump-push given when enabling the jet
+JetPush             = "0.0"     //The constant push given while the jet is enabled (20 is gravity)
+JetAcceleration     = "10.0"
+JetEffect           = "rep_sfx_jetpack"
+JetFuelRechargeRate = "0.15"   //Additional fuel per second (fuel is 0 to 1)
+JetFuelCost         = "0.0"     //Cost per second when hovering (only used for jet-hovers)(fuel is 0 to 1)
+JetFuelInitialCost  = "0.5"     //initial cost when jet jumping(fuel is 0 to 1)
+JetFuelMinBorder    = "0.49"    //minimum fuel to perform a jet jump(fuel is 0 to 1)
+
+CAMERASECTION       = "STAND"
+
+EyePointOffset      = "0.0 1.8 0.0"
+TrackCenter         = "0.0 1.8 0.0
+TrackOffset         = "0.0 0.0 3.5"
+TiltValue           = "7.5"
+
+CollisionScale      = "0.0 0.0 0.0"
+
+EngineSound         = "rep_inf_Jetpack_engine_parameterized"
+TurnOnSound         = "rep_weap_jetpack_turnon"
+TurnOffSound        = "rep_weap_jetpack_turnoff"
+TurnOffTime         = 0.0

@@ -1,0 +1,689 @@
+Code:
+
+ViewPort("Transforms")
+{
+    EventNameFilter("player%")
+
+// First Weapons Section
+
+    TransformNameMesh("player1weapon1")
+   // add msh names of first weapons here and remove unused lines 
+    {
+        //NameMesh("gar_weap_inf_launcher", "com_inv_mesh")
+        //NameMesh("gar_weap_inf_fusioncutter", "com_inv_mesh")
+        //NameMesh("gar_weap_inf_pistol", "com_inv_mesh")
+        //NameMesh("gar_weap_inf_rifle", "com_inv_mesh")
+		
+		NameMesh("rep_weap_inf_new_rifle", "com_inv_mesh")
+		NameMesh("rep_weap_dc-15s_ashura", "com_inv_mesh")
+		NameMesh("waz_rep_weap_shotgun", "com_inv_mesh")
+		NameMesh("rep_weap_inf_pistol_mini_r", "com_inv_mesh")
+		NameMesh("RPS-6_rocket_launcher", "com_inv_mesh")
+		NameMesh("rep_weap_inf_valken38x", "com_inv_mesh")
+		NameMesh("rep_weap_inf_valken38", "com_inv_mesh")
+		NameMesh("umb_weap_z-6_rotary_blaster_cannon", "com_inv_mesh")
+		NameMesh("dc17s", "com_inv_mesh")
+		NameMesh("rep_weap_dc17blast", "com_inv_mesh")
+		NameMesh("rep_weap_dc17sniper", "com_inv_mesh")
+		NameMesh("rep_weap_dc17antia", "com_inv_mesh")
+		NameMesh("dcar", "com_inv_mesh")
+		
+		NameMesh("cis_weap_inf_e5", "com_inv_mesh")
+		NameMesh("E5S", "com_inv_mesh")
+		NameMesh("cis_weap_inf_rg4d", "com_inv_mesh")
+		NameMesh("weap_inf_DT57_grievous", "com_inv_mesh")
+		NameMesh("cis_weap_inf_e5c", "com_inv_mesh")
+		
+		NameMesh("all_weap_inf_rifle", "com_inv_mesh")
+		NameMesh("all_weap_inf_bowcaster", "com_inv_mesh")
+		NameMesh("cjbo_adjusted", "com_inv_mesh")
+		NameMesh("DC15LE", "com_inv_mesh")
+		NameMesh("all_weap_inf_defender", "com_inv_mesh")
+		NameMesh("all_weap_inf_pistol_dh17", "com_inv_mesh")
+		NameMesh("all_weap_inf_dl18", "com_inv_mesh")
+		NameMesh("all_weap_inf_dl44", "com_inv_mesh")
+		NameMesh("imp_weap_inf_dlt20a", "com_inv_mesh")
+		NameMesh("nt242", "com_inv_mesh")
+		NameMesh("rt97c", "com_inv_mesh")
+		NameMesh("trigun", "com_inv_mesh")
+		NameMesh("all_weap_inf_ca87", "com_inv_mesh")
+		
+		NameMesh("imp_weap_inf_dlt19", "com_inv_mesh")
+		NameMesh("all_weap_inf_dt12", "com_inv_mesh")
+		NameMesh("all_weap_inf_cycler", "com_inv_mesh")
+		NameMesh("imp_weap_inf_dlt19_deathtrooper", "com_inv_mesh")
+		NameMesh("imp_weap_inf_dlt19x", "com_inv_mesh")
+		NameMesh("imp_weap_inf_e11", "com_inv_mesh")
+		NameMesh("imp_weap_inf_e11C", "com_inv_mesh")
+		NameMesh("imp_weap_inf_e11d", "com_inv_mesh")
+		NameMesh("mnd_weap_inf_boba_rifle", "com_inv_mesh")
+		NameMesh("PlasmaCannon", "com_inv_mesh")
+		NameMesh("imp_weap_inf_pistol", "com_inv_mesh")
+		NameMesh("pim_inf_weap_se14c_pistol", "com_inv_mesh")
+		NameMesh("imp_T-21", "com_inv_mesh")
+		NameMesh("imp_heavy_repeater", "com_inv_mesh")
+		
+		NameMesh("com_weap_F-11D_Blaster_Rifle_A", "com_inv_mesh")
+		NameMesh("com_weap_F-11D_Blaster_Rifle_F", "com_inv_mesh")
+		NameMesh("F11D_STOCK", "com_inv_mesh")
+		NameMesh("com_weap_CE-44C_Blaster_Pistol_A", "com_inv_mesh")
+		NameMesh("fo_weap_d-93_incinerator_flamethrower", "com_inv_mesh")
+		NameMesh("com_weap_FWMB-10_Repeating_Blaster_A", "com_inv_mesh")
+		NameMesh("com_weap_SE-44C_Blaster_Pistol_A", "com_inv_mesh")
+		
+		NameMesh("all_weap_inf_a180_sniperrifle", "com_inv_mesh")
+		NameMesh("RES_weap_inf_EL-16", "com_inv_mesh")
+		NameMesh("RES_weap_inf_EL-16_HFE", "com_inv_mesh")
+		NameMesh("RES_weap_GLIE-44", "com_inv_mesh")
+		NameMesh("all_weap_inf_m45", "com_inv_mesh")
+		NameMesh("Rey_Pistol", "com_inv_mesh")
+		
+		NameMesh("wok_inf_blaster", "com_inv_mesh")
+		NameMesh("all_weap_inf_slug", "com_inv_mesh")
+		NameMesh("cis_weap_inf_acp_repeater", "com_inv_mesh")
+		NameMesh("acp_array_gun", "com_inv_mesh")
+		NameMesh("all_weap_inf_a280c_all_mods", "com_inv_mesh")
+		NameMesh("e22", "com_inv_mesh")
+		
+		NameMesh("com_weap_WESTAR-M5_D1", "com_inv_mesh")
+		NameMesh("com_weap_inf_mpl57_homingshot", "com_inv_mesh")
+		
+		NameMesh("imp_weap_inf_jumptrooper_rifle", "com_inv_mesh")
+		NameMesh("all_weap_inf_cr2", "com_inv_mesh")
+		NameMesh("all_weap_inf_elg3a", "com_inv_mesh")
+		NameMesh("all_weap_inf_fettrifle", "com_inv_mesh")
+		NameMesh("all_weap_inf_s5", "com_inv_mesh")
+		NameMesh("all_weap_inf_r65", "com_inv_mesh")
+		
+		NameMesh("com_weap_WESTAR-M5_D", "com_inv_mesh")
+		NameMesh("all_weap_inf_relbyv10", "com_inv_mesh")
+		NameMesh("westar34", "com_inv_mesh")
+		NameMesh("imp_weap_inf_valken38", "com_inv_mesh")
+        
+        EventInput("player1.weapon1.change")
+        EventOutput("player1.weapon1.mesh")
+    }
+    }
+    
+    Group("extraWeaponDisplay")
+{
+    PropagateAlpha(1)
+    Viewport(1)
+    Position(0.0000000, 1.000000, 0.000000, "Viewport")
+    ZOrder(255)
+    EventEnable("player1.weaponsEnable")
+    EventDisable("player1.weaponsDisable")
+
+     Group("extraWeaponIcon")
+{
+    Viewport(1)
+    Position(0.346161, -0.450412, 0.000000, "Viewport")
+    EventEnable("initialize")
+    
+    Model3D("player1.weapon1mesh")         
+{
+                EventMesh("player1.weapon1.change")
+                Viewport(1)
+                ZOrder(5)
+                EventEnable("player1.weapon1.mesh")
+                EventDisable("player1.weapon1.disable")
+                Position(500.000000, 500.000000, 500.000000, "Viewport")
+                Rotation(0.804269, 359.994110, 359.999695)
+                Scale(0.000000, 0.000000, 0.000000)
+                
+  //change position, rotation and scale of first weapon here, remove unused lines
+  
+			//Position(-0.258881, 0.364262, 0.013887, "Viewport")
+            //Rotation(0.804269, 90.747269, 359.999695)
+            //Scale(0.720000, 0.720000, 0.720000)
+               
+			MeshInfo("com_weap_F-11D_Blaster_Rifle_A")
+                {
+					Position(-0.258881, 0.364262, 0.023887, "Viewport")
+                    Rotation(0.804269, 90.747269, 359.999695)
+                    Scale(0.720000, 0.720000, 0.720000)
+                }
+			MeshInfo("westar34")
+                {
+					Position(-0.258881, 0.364262, 0.023887, "Viewport")
+                    Rotation(0.804269, 90.747269, 359.999695)
+                    Scale(0.720000, 0.720000, 0.720000)
+                }
+			MeshInfo("com_weap_WESTAR-M5_D")
+                {
+					Position(-0.258881, 0.364262, 0.023887, "Viewport")
+                    Rotation(0.804269, 90.747269, 359.999695)
+                    Scale(0.720000, 0.720000, 0.720000)
+                }
+			MeshInfo("imp_weap_inf_jumptrooper_rifle")
+                {
+					Position(-0.258881, 0.364262, 0.023887, "Viewport")
+                    Rotation(0.804269, 90.747269, 359.999695)
+                    Scale(0.720000, 0.720000, 0.720000)
+                }
+			MeshInfo("all_weap_inf_s5")
+                {
+					Position(-0.258881, 0.364262, 0.023887, "Viewport")
+                    Rotation(0.804269, 90.747269, 359.999695)
+                    Scale(0.720000, 0.720000, 0.720000)
+                }
+			MeshInfo("all_weap_inf_r65")
+                {
+					Position(-0.258881, 0.364262, 0.023887, "Viewport")
+                    Rotation(0.804269, 90.747269, 359.999695)
+                    Scale(0.720000, 0.720000, 0.720000)
+                }
+			MeshInfo("all_weap_inf_elg3a")
+                {
+					Position(-0.258881, 0.364262, 0.023887, "Viewport")
+                    Rotation(0.804269, 90.747269, 359.999695)
+                    Scale(0.720000, 0.720000, 0.720000)
+                }
+			MeshInfo("all_weap_inf_cr2")
+                {
+					Position(-0.258881, 0.364262, 0.023887, "Viewport")
+                    Rotation(0.804269, 90.747269, 359.999695)
+                    Scale(0.720000, 0.720000, 0.720000)
+                }
+			MeshInfo("all_weap_inf_ca87")
+                {
+					Position(-0.258881, 0.364262, 0.023887, "Viewport")
+                    Rotation(0.804269, 90.747269, 359.999695)
+                    Scale(0.720000, 0.720000, 0.720000)
+                }
+			MeshInfo("cis_weap_inf_acp_repeater")
+                {
+					Position(-0.258881, 0.364262, 0.023887, "Viewport")
+                    Rotation(0.804269, 90.747269, 359.999695)
+                    Scale(0.720000, 0.720000, 0.720000)
+                }
+			MeshInfo("acp_array_gun")
+                {
+					Position(-0.258881, 0.364262, 0.023887, "Viewport")
+                    Rotation(0.804269, 90.747269, 359.999695)
+                    Scale(0.720000, 0.720000, 0.720000)
+                }
+			MeshInfo("all_weap_inf_dt12")
+                {
+					Position(-0.258881, 0.364262, 0.023887, "Viewport")
+                    Rotation(0.804269, 90.747269, 359.999695)
+                    Scale(0.720000, 0.720000, 0.720000)
+                }
+			MeshInfo("RES_weap_GLIE-44")
+                {
+					Position(-0.258881, 0.364262, 0.023887, "Viewport")
+                    Rotation(0.804269, 90.747269, 359.999695)
+                    Scale(0.720000, 0.720000, 0.720000)
+                }
+			MeshInfo("Rey_Pistol")
+                {
+					Position(-0.258881, 0.364262, 0.023887, "Viewport")
+                    Rotation(0.804269, 90.747269, 359.999695)
+                    Scale(0.720000, 0.720000, 0.720000)
+                }
+			MeshInfo("com_weap_F-11D_Blaster_Rifle_F")
+                {
+					Position(-0.258881, 0.364262, 0.023887, "Viewport")
+                    Rotation(0.804269, 90.747269, 359.999695)
+                    Scale(0.720000, 0.720000, 0.720000)
+                }
+            MeshInfo("F11D_STOCK")
+                {
+					Position(-0.228881, 0.364262, 0.013887, "Viewport")
+                    Rotation(0.804269, 90.747269, 359.999695)
+                    Scale(0.720000, 0.720000, 0.720000)
+                }
+			MeshInfo("com_weap_inf_mpl57_homingshot")
+                {
+					Position(-0.228881, 0.364262, 0.013887, "Viewport")
+                    Rotation(0.804269, 90.747269, 359.999695)
+                    Scale(0.720000, 0.720000, 0.720000)
+                }
+			MeshInfo("all_weap_inf_relbyv10")
+                {
+					Position(-0.228881, 0.364262, 0.013887, "Viewport")
+                    Rotation(0.804269, 90.747269, 359.999695)
+                    Scale(0.720000, 0.720000, 0.720000)
+                }
+			MeshInfo("com_weap_SE-44C_Blaster_Pistol_A")
+                {
+					Position(-0.228881, 0.364262, 0.013887, "Viewport")
+                    Rotation(0.804269, 90.747269, 359.999695)
+                    Scale(0.720000, 0.720000, 0.720000)
+                }
+			MeshInfo("com_weap_CE-44C_Blaster_Pistol_A")
+                {
+					Position(-0.228881, 0.364262, 0.013887, "Viewport")
+                    Rotation(0.804269, 90.747269, 359.999695)
+                    Scale(0.720000, 0.720000, 0.720000)
+                }
+				
+				
+			MeshInfo("rep_weap_inf_new_rifle")
+                {
+					Position(-0.228881, 0.364262, 0.013887, "Viewport")
+                    Rotation(0.804269, 90.747269, 359.999695)
+                    Scale(0.720000, 0.720000, 0.720000)
+                }
+			MeshInfo("all_weap_inf_fettrifle")
+                {
+					Position(-0.228881, 0.364262, 0.013887, "Viewport")
+                    Rotation(0.804269, 90.747269, 359.999695)
+                    Scale(0.720000, 0.720000, 0.720000)
+                }
+			MeshInfo("e22")
+                {
+					Position(-0.228881, 0.364262, 0.013887, "Viewport")
+                    Rotation(0.804269, 90.747269, 359.999695)
+                    Scale(0.720000, 0.720000, 0.720000)
+                }
+			MeshInfo("com_weap_WESTAR-M5_D1")
+                {
+					Position(-0.228881, 0.364262, 0.013887, "Viewport")
+                    Rotation(0.804269, 90.747269, 359.999695)
+                    Scale(0.720000, 0.720000, 0.720000)
+                }
+			MeshInfo("all_weap_inf_a280c_all_mods")
+                {
+					Position(-0.228881, 0.364262, 0.013887, "Viewport")
+                    Rotation(0.804269, 90.747269, 359.999695)
+                    Scale(0.720000, 0.720000, 0.720000)
+                }
+			MeshInfo("wok_inf_blaster")
+                {
+					Position(-0.228881, 0.364262, 0.013887, "Viewport")
+                    Rotation(0.804269, 90.747269, 359.999695)
+                    Scale(0.720000, 0.720000, 0.720000)
+                }
+			MeshInfo("all_weap_inf_slug")
+                {
+					Position(-0.228881, 0.364262, 0.013887, "Viewport")
+                    Rotation(0.804269, 90.747269, 359.999695)
+                    Scale(0.720000, 0.720000, 0.720000)
+                }
+			MeshInfo("all_weap_inf_cycler")
+                {
+					Position(-0.228881, 0.364262, 0.013887, "Viewport")
+                    Rotation(0.804269, 90.747269, 359.999695)
+                    Scale(0.720000, 0.720000, 0.720000)
+                }
+			MeshInfo("all_weap_inf_m45")
+                {
+					Position(-0.228881, 0.364262, 0.013887, "Viewport")
+                    Rotation(0.804269, 90.747269, 359.999695)
+                    Scale(0.720000, 0.720000, 0.720000)
+                }
+			MeshInfo("RES_weap_inf_EL-16")
+                {
+					Position(-0.228881, 0.364262, 0.013887, "Viewport")
+                    Rotation(0.804269, 90.747269, 359.999695)
+                    Scale(0.720000, 0.720000, 0.720000)
+                }
+			MeshInfo("RES_weap_inf_EL-16_HFE")
+                {
+					Position(-0.228881, 0.364262, 0.013887, "Viewport")
+                    Rotation(0.804269, 90.747269, 359.999695)
+                    Scale(0.720000, 0.720000, 0.720000)
+                }
+			MeshInfo("all_weap_inf_a180_sniperrifle")
+                {
+					Position(-0.228881, 0.364262, 0.013887, "Viewport")
+                    Rotation(0.804269, 90.747269, 359.999695)
+                    Scale(0.720000, 0.720000, 0.720000)
+                }
+			MeshInfo("com_weap_FWMB-10_Repeating_Blaster_A")
+                {
+					Position(-0.228881, 0.364262, 0.013887, "Viewport")
+                    Rotation(0.804269, 90.747269, 359.999695)
+                    Scale(0.720000, 0.720000, 0.720000)
+                }
+			MeshInfo("fo_weap_d-93_incinerator_flamethrower")
+                {
+					Position(-0.228881, 0.364262, 0.013887, "Viewport")
+                    Rotation(0.804269, 90.747269, 359.999695)
+                    Scale(0.720000, 0.720000, 0.720000)
+                }
+			MeshInfo("dcar")
+                {
+					Position(-0.228881, 0.364262, 0.013887, "Viewport")
+                    Rotation(0.804269, 90.747269, 359.999695)
+                    Scale(0.720000, 0.720000, 0.720000)
+                }
+			MeshInfo("imp_heavy_repeater")
+                {
+					Position(-0.228881, 0.364262, 0.013887, "Viewport")
+                    Rotation(0.804269, 90.747269, 359.999695)
+                    Scale(0.720000, 0.720000, 0.720000)
+                }
+			MeshInfo("imp_T-21")
+                {
+					Position(-0.228881, 0.364262, 0.013887, "Viewport")
+                    Rotation(0.804269, 90.747269, 359.999695)
+                    Scale(0.720000, 0.720000, 0.720000)
+                }
+			MeshInfo("mnd_weap_inf_boba_rifle")
+                {
+					Position(-0.228881, 0.364262, 0.013887, "Viewport")
+                    Rotation(0.804269, 90.747269, 359.999695)
+                    Scale(0.720000, 0.720000, 0.720000)
+                }
+			MeshInfo("imp_weap_inf_dlt19")
+                {
+					Position(-0.228881, 0.364262, 0.013887, "Viewport")
+                    Rotation(0.804269, 90.747269, 359.999695)
+                    Scale(0.720000, 0.720000, 0.720000)
+                }
+			MeshInfo("imp_weap_inf_dlt19x")
+                {
+					Position(-0.228881, 0.364262, 0.013887, "Viewport")
+                    Rotation(0.804269, 90.747269, 359.999695)
+                    Scale(0.720000, 0.720000, 0.720000)
+                }
+			MeshInfo("imp_weap_inf_dlt19_deathtrooper")
+                {
+					Position(-0.228881, 0.364262, 0.013887, "Viewport")
+                    Rotation(0.804269, 90.747269, 359.999695)
+                    Scale(0.720000, 0.720000, 0.720000)
+                }
+			MeshInfo("trigun")
+                {
+					Position(-0.228881, 0.364262, 0.013887, "Viewport")
+                    Rotation(0.804269, 90.747269, 359.999695)
+                    Scale(0.720000, 0.720000, 0.720000)
+                }
+			MeshInfo("rt97c")
+                {
+					Position(-0.228881, 0.364262, 0.013887, "Viewport")
+                    Rotation(0.804269, 90.747269, 359.999695)
+                    Scale(0.720000, 0.720000, 0.720000)
+                }
+			MeshInfo("nt242")
+                {
+					Position(-0.228881, 0.364262, 0.013887, "Viewport")
+                    Rotation(0.804269, 90.747269, 359.999695)
+                    Scale(0.720000, 0.720000, 0.720000)
+                }
+			MeshInfo("imp_weap_inf_dlt20a")
+                {
+					Position(-0.228881, 0.364262, 0.013887, "Viewport")
+                    Rotation(0.804269, 90.747269, 359.999695)
+                    Scale(0.720000, 0.720000, 0.720000)
+                }
+			MeshInfo("DC15LE")
+                {
+					Position(-0.228881, 0.364262, 0.013887, "Viewport")
+                    Rotation(0.804269, 90.747269, 359.999695)
+                    Scale(0.720000, 0.720000, 0.720000)
+                }
+			MeshInfo("all_weap_inf_rifle")
+                {
+					Position(-0.228881, 0.364262, 0.013887, "Viewport")
+                    Rotation(0.804269, 90.747269, 359.999695)
+                    Scale(0.720000, 0.720000, 0.720000)
+                }
+			MeshInfo("cjbo_adjusted")
+                {
+					Position(-0.228881, 0.364262, 0.013887, "Viewport")
+                    Rotation(0.804269, 90.747269, 359.999695)
+                    Scale(0.720000, 0.720000, 0.720000)
+                }
+			MeshInfo("all_weap_inf_bowcaster")
+                {
+					Position(-0.228881, 0.364262, 0.013887, "Viewport")
+                    Rotation(0.804269, 90.747269, 359.999695)
+                    Scale(0.720000, 0.720000, 0.720000)
+                }
+			MeshInfo("E5S")
+                {
+					Position(-0.228881, 0.364262, 0.013887, "Viewport")
+                    Rotation(0.804269, 90.747269, 359.999695)
+                    Scale(0.720000, 0.720000, 0.720000)
+                }
+			MeshInfo("cis_weap_inf_e5c")
+                {
+					Position(-0.228881, 0.364262, 0.013887, "Viewport")
+                    Rotation(0.804269, 90.747269, 359.999695)
+                    Scale(0.720000, 0.720000, 0.720000)
+                }
+			MeshInfo("rep_weap_dc17blast")
+                {
+					Position(-0.228881, 0.364262, 0.013887, "Viewport")
+                    Rotation(0.804269, 90.747269, 359.999695)
+                    Scale(0.720000, 0.720000, 0.720000)
+                }
+			MeshInfo("rep_weap_dc17sniper")
+                {
+					Position(-0.228881, 0.364262, 0.013887, "Viewport")
+                    Rotation(0.804269, 90.747269, 359.999695)
+                    Scale(0.720000, 0.720000, 0.720000)
+                }
+			MeshInfo("imp_weap_inf_valken38")
+                {
+					Position(-0.228881, 0.364262, 0.013887, "Viewport")
+                    Rotation(0.804269, 90.747269, 359.999695)
+                    Scale(0.720000, 0.720000, 0.720000)
+                }
+			MeshInfo("rep_weap_dc17antia")
+                {
+					Position(-0.228881, 0.364262, 0.013887, "Viewport")
+                    Rotation(0.804269, 90.747269, 359.999695)
+                    Scale(0.720000, 0.720000, 0.720000)
+                }
+			MeshInfo("umb_weap_z-6_rotary_blaster_cannon")
+                {
+					Position(-0.258881, 0.364262, 0.013887, "Viewport")
+                    Rotation(0.804269, 90.747269, 359.999695)
+                    Scale(0.720000, 0.720000, 0.720000)
+                }
+			MeshInfo("PlasmaCannon")
+                {
+					Position(-0.258881, 0.364262, 0.013887, "Viewport")
+                    Rotation(0.804269, 90.747269, 359.999695)
+                    Scale(0.720000, 0.720000, 0.720000)
+                }
+			MeshInfo("rep_weap_inf_valken38x")
+                {
+					Position(-0.228881, 0.364262, 0.013887, "Viewport")
+                    Rotation(0.804269, 90.747269, 359.999695)
+                    Scale(0.720000, 0.720000, 0.720000)
+                }
+			MeshInfo("rep_weap_inf_valken38")
+                {
+					Position(-0.228881, 0.364262, 0.013887, "Viewport")
+                    Rotation(0.804269, 90.747269, 359.999695)
+                    Scale(0.720000, 0.720000, 0.720000)
+                }
+			MeshInfo("RPS-6_rocket_launcher")
+                {
+					Position(-0.228881, 0.364262, 0.013887, "Viewport")
+                    Rotation(0.804269, 90.747269, 359.999695)
+                    Scale(0.720000, 0.720000, 0.720000)
+                }
+			MeshInfo("waz_rep_weap_shotgun")
+                {
+					Position(-0.228881, 0.364262, 0.013887, "Viewport")
+                    Rotation(0.804269, 90.747269, 359.999695)
+                    Scale(0.720000, 0.720000, 0.720000)
+                }
+			MeshInfo("rep_weap_dc-15s_ashura")
+                {
+					Position(-0.258881, 0.364262, 0.023887, "Viewport")
+                    Rotation(0.804269, 90.747269, 359.999695)
+                    Scale(0.720000, 0.720000, 0.720000)
+                }
+			MeshInfo("cis_weap_inf_e5")
+                {
+					Position(-0.258881, 0.364262, 0.023887, "Viewport")
+                    Rotation(0.804269, 90.747269, 359.999695)
+                    Scale(0.720000, 0.720000, 0.720000)
+                }
+			MeshInfo("rep_weap_inf_pistol_mini_r")
+                {
+					Position(-0.258881, 0.364262, 0.023887, "Viewport")
+                    Rotation(0.804269, 90.747269, 359.999695)
+                    Scale(0.720000, 0.720000, 0.720000)
+                }
+			MeshInfo("dc17s")
+                {
+					Position(-0.258881, 0.364262, 0.023887, "Viewport")
+                    Rotation(0.804269, 90.747269, 359.999695)
+                    Scale(0.720000, 0.720000, 0.720000)
+                }
+			MeshInfo("cis_weap_inf_rg4d")
+                {
+					Position(-0.258881, 0.364262, 0.023887, "Viewport")
+                    Rotation(0.804269, 90.747269, 359.999695)
+                    Scale(0.720000, 0.720000, 0.720000)
+                }
+			MeshInfo("weap_inf_DT57_grievous")
+                {
+					Position(-0.258881, 0.364262, 0.023887, "Viewport")
+                    Rotation(0.804269, 90.747269, 359.999695)
+                    Scale(0.720000, 0.720000, 0.720000)
+                }
+			MeshInfo("all_weap_inf_defender")
+                {
+					Position(-0.258881, 0.364262, 0.023887, "Viewport")
+                    Rotation(0.804269, 90.747269, 359.999695)
+                    Scale(0.720000, 0.720000, 0.720000)
+                }
+			MeshInfo("all_weap_inf_pistol_dh17")
+                {
+					Position(-0.258881, 0.364262, 0.023887, "Viewport")
+                    Rotation(0.804269, 90.747269, 359.999695)
+                    Scale(0.720000, 0.720000, 0.720000)
+                }
+			MeshInfo("imp_weap_inf_e11")
+                {
+					Position(-0.258881, 0.364262, 0.023887, "Viewport")
+                    Rotation(0.804269, 90.747269, 359.999695)
+                    Scale(0.720000, 0.720000, 0.720000)
+                }
+			MeshInfo("imp_weap_inf_e11C")
+                {
+					Position(-0.258881, 0.364262, 0.023887, "Viewport")
+                    Rotation(0.804269, 90.747269, 359.999695)
+                    Scale(0.720000, 0.720000, 0.720000)
+                }
+			MeshInfo("imp_weap_inf_e11d")
+                {
+					Position(-0.258881, 0.364262, 0.023887, "Viewport")
+                    Rotation(0.804269, 90.747269, 359.999695)
+                    Scale(0.720000, 0.720000, 0.720000)
+                }
+			MeshInfo("all_weap_inf_dl18")
+                {
+					Position(-0.258881, 0.364262, 0.023887, "Viewport")
+                    Rotation(0.804269, 90.747269, 359.999695)
+                    Scale(0.720000, 0.720000, 0.720000)
+                }
+			MeshInfo("all_weap_inf_dl44")
+                {
+					Position(-0.258881, 0.364262, 0.023887, "Viewport")
+                    Rotation(0.804269, 90.747269, 359.999695)
+                    Scale(0.720000, 0.720000, 0.720000)
+                }
+			MeshInfo("imp_weap_inf_pistol")
+                {
+					Position(-0.258881, 0.364262, 0.023887, "Viewport")
+                    Rotation(0.804269, 90.747269, 359.999695)
+                    Scale(0.720000, 0.720000, 0.720000)
+                }
+			MeshInfo("pim_inf_weap_se14c_pistol")
+                {
+					Position(-0.258881, 0.364262, 0.023887, "Viewport")
+                    Rotation(0.804269, 90.747269, 359.999695)
+                    Scale(0.720000, 0.720000, 0.720000)
+                }
+				
+			
+
+                }
+                }
+		}
+
+// Second Weapons Section
+		
+  TransformNameMesh("player1weapon2")
+    // add names of second weapons here 
+    {
+
+			
+			NameMesh("hud_thermaldetonator", "com_inv_mesh")
+			NameMesh("hud_thermaldetonat_e", "com_inv_mesh")
+			NameMesh("hud_thermaldetonat_f", "com_inv_mesh")
+			NameMesh("hud_thermaldetonat_g", "com_inv_mesh")
+
+                
+        EventInput("player1.weapon2.change")
+        EventOutput("player1.weapon2.mesh")
+    }
+  
+      Group("extraWeaponDisplay")
+{
+    PropagateAlpha(1)
+    Viewport(1)
+    Position(0.0000000, 1.000000, 0.000000, "Viewport")
+    ZOrder(255)
+    EventEnable("player1.weaponsEnable")
+    EventDisable("player1.weaponsDisable")
+    
+      Group("extraWeaponIcon")
+{
+    Viewport(1)
+    Position(0.346161, -0.450412, 0.000000, "Viewport")
+    EventEnable("initialize")
+    
+    Model3D("player1.weapon2mesh")         
+{
+                EventMesh("player1.weapon2.change")
+                Viewport(1)
+                ZOrder(5)
+                EventEnable("player1.weapon2.mesh")
+                EventDisable("player1.weapon2.disable")
+                Position(500.000000, 500.000000, 500.000000, "Viewport")
+                Rotation(0.804269, 359.994110, 359.999695)
+                Scale(0.000000, 0.000000, 0.000000)
+                
+// adjust position, rotation and scale of second weapon here
+               
+           
+				
+				
+			//Grenades
+				
+			MeshInfo("hud_thermaldetonator")
+                {
+					Position(-0.284209, 0.280243, 0.006280, "Viewport")
+                    Rotation(0.056783, 359.996582, 359.999695)
+                    Scale(0.610000, 0.610000, 0.610000)
+                }
+			MeshInfo("hud_thermaldetonat_e")
+                {
+					Position(-0.284209, 0.280243, 0.006280, "Viewport")
+                    Rotation(0.056783, 359.996582, 359.999695)
+                    Scale(0.610000, 0.610000, 0.610000)
+                }
+			MeshInfo("hud_thermaldetonat_f")
+                {
+					Position(-0.284209, 0.280243, 0.006280, "Viewport")
+                    Rotation(0.056783, 359.996582, 359.999695)
+                    Scale(0.610000, 0.610000, 0.610000)
+                }
+			MeshInfo("hud_thermaldetonat_g")
+                {
+					Position(-0.284209, 0.280243, 0.006280, "Viewport")
+                    Rotation(0.056783, 359.996582, 359.999695)
+                    Scale(0.610000, 0.610000, 0.610000)
+                }
+				
+				
+				
+                }
+                }
+                }
+                
+                
+                
+               
+               

@@ -1,0 +1,12 @@
+[OrdnanceClass]
+ClassParent     	= "com_weap_inf_sniperrifle_base_ord"
+
+[Properties]
+
+MaxDamage           	= "170"
+DamageFinalDamage       = "100"
+
+LaserLength         = "10.0"
+LaserWidth          = "0.18"
+GlowLength          = "10"
+BlurLength          = "0"

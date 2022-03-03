@@ -1,0 +1,4 @@
+[OrdnanceClass]
+ClassParent     	= "com_weap_inf_sniperrifle_base_ord"
+
+[Properties]

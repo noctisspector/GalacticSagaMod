@@ -1,0 +1,21 @@
+ucft
+{
+    REQN
+    {
+        "class"
+		"cis_inf_rifleman"
+		"cis_inf_rocketeer"
+		"cis_inf_rocketeer_radiation"
+		"cis_inf_medic"
+		"cis_inf_sniper"
+		"cis_inf_heavy"
+		"cis_inf_commando"
+		"cis_inf_officer"
+		"cis_inf_officer_o"
+		"cis_tread_hailfire"
+		"cis_hero_dooku"
+		"cis_inf_magnaguard_ptc"
+		"cis_hover_stap"
+		"cis_hero_jango"
+    }
+}

@@ -1,0 +1,25 @@
+[WeaponClass]
+ClassParent     	= "com_weap_veh_laser"
+
+[Properties]
+OrdnanceName 			= "cis_weap_hover_tread_cannonshotgun_ord"
+
+HeatRecoverRate			= "0.5"
+HeatThreshold			= "0.05"
+HeatPerShot			= "0.01"
+
+HUDTag 		    = "hud_vehicle_mortar"
+
+ShotDelay 			= "4.0"
+
+PitchSpread         = "1.8"
+YawSpread           = "1.8"
+
+SalvoCount          = "1"
+ShotsPerSalvo       = "14"
+SalvoDelay          = "0.0"
+InitialSalvoDelay   = "0.0"
+
+
+
+FireSound      	 		= "com_weap_inf_turbolaser1_fire"

@@ -1,0 +1,28 @@
+[GameObjectClass]
+ClassParent         = "all_inf_default"
+
+[Properties]
+GeometryName        = "all_inf_wedge"
+GeometryLowRes      = "all_inf_wedge"
+FirstPerson     = "all\alltroop;all_1st_trooper"
+
+//SkeletonName            = "swbfiii"
+
+PointsToUnlock          = 0
+
+MaxHealth           	= 800.0
+
+WEAPONSECTION = 1
+WeaponName         = "all_weap_inf_A280C"
+WeaponAmmo         = 0
+
+WEAPONSECTION = 2
+WeaponName         = "com_weap_inf_defense"
+WeaponAmmo         = 2
+WeaponChannel      = 1
+
+WEAPONSECTION = 3
+WeaponName         = "com_weap_inf_V1det"
+WeaponAmmo         = 3
+WeaponChannel      = 1
+

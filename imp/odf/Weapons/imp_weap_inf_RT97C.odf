@@ -1,0 +1,30 @@
+[WeaponClass]
+ClassParent         = "com_weap_inf_lmg_base"
+GeometryName        = "rt97c.msh"
+
+[Properties]
+GeometryName        = "rt97c"
+HighResGeometry     = "rt97c"
+OrdnanceName        = "imp_weap_inf_RT97C_ord"
+FirePointName       = "hp_fire"
+
+HUDtag              = "rt97c"
+
+//******************************************************
+//***************   SOUND       ****************
+//******************************************************
+
+FireSound           = "com_weap_inf_rt97c_fire"
+FireEmptySound      = "com_weap_inf_ammo_empty"
+FireLoopSound       = ""
+ReloadSound         = "com_weap_inf_reload_med"
+ChargeSound         = ""
+ChargeSoundPitch    = ""
+ChangeModeSound     = "com_weap_inf_equip_med"
+WeaponChangeSound   = "com_weap_inf_equip_med"
+JumpSound           = "com_weap_inf_rifle_mvt_jump"
+LandSound           = "com_weap_inf_rifle_mvt_land"
+RollSound           = "com_weap_inf_rifle_mvt_roll"
+//ProneSound          = "com_weap_inf_rifle_mvt_lie"
+SquatSound          = "com_weap_inf_rifle_mvt_squat"
+//StandSound          = "com_weap_inf_rifle_mvt_getup"

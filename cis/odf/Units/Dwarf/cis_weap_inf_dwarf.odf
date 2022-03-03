@@ -1,0 +1,14 @@
+[WeaponClass]
+ClassParent         = "com_weap_inf_sniperrifle_base"
+
+[Properties]
+OrdnanceName        = "cis_weap_inf_dwarf_ord"
+//FirePointName       = "hp_fire"
+
+InstantPlayFireAnim 	= 1
+OffhandWeapon 		= 1
+
+HUDTag              = "hud_vehicle_missile"
+
+
+FireSound           = "com_weap_inf_dwarfcrab_fire"

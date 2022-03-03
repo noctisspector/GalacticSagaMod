@@ -1,0 +1,23 @@
+[GameObjectClass]
+ClassParent         = "all_inf_default_rifleman"
+
+[Properties]
+GeometryName        = "all_inf_trandoshan"
+GeometryLowRes      = "all_inf_trandoshan"
+FirstPerson     = "all\alltroop;all_1st_trooper"
+
+//SkeletonName            = "swbfiii"
+
+WEAPONSECTION = 1
+WeaponName         = "all_weap_inf_ACP"
+WeaponAmmo         = 0
+
+WEAPONSECTION = 2
+WeaponName         = "all_weap_inf_buckshot"
+WeaponAmmo         = 0
+WeaponChannel      = 0
+
+WEAPONSECTION = 3
+WeaponName         = "com_weap_inf_frag"
+WeaponAmmo         = 2
+WeaponChannel      = 1

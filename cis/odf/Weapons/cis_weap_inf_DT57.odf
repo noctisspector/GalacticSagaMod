@@ -1,0 +1,29 @@
+[WeaponClass]
+ClassParent         = "com_weap_inf_pistol_base"
+GeometryName        = "weap_inf_DT57_grievous.msh"
+
+[Properties]
+GeometryName        = "weap_inf_DT57_grievous"
+HighResGeometry         = "weap_inf_DT57_grievous"
+OrdnanceName        = "cis_weap_inf_DT57_ord"
+FirePointName       = "hp_fire"
+
+HUDtag              = "weap_inf_DT57_grievous"
+
+//******************************************************
+//***************   SOUND       ****************
+//******************************************************
+
+
+
+FireSound           = "com_weap_inf_dl44_fire"
+ReloadSound         = "com_weap_inf_reload_med"
+ChangeModeSound     = "com_weap_inf_equip_med"
+FireEmptySound      = "com_weap_inf_ammo_empty"
+WeaponChangeSound   = "com_weap_inf_equip_med"
+JumpSound           = "com_weap_inf_rifle_mvt_jump"
+LandSound           = "com_weap_inf_rifle_mvt_land"
+RollSound           = "com_weap_inf_rifle_mvt_roll"
+//ProneSound          = "com_weap_inf_rifle_mvt_lie"
+SquatSound          = "com_weap_inf_rifle_mvt_squat"
+//StandSound          = "com_weap_inf_rifle_mvt_getup"

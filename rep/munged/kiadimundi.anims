@@ -1,0 +1,12 @@
+ucft
+{
+	ANIM
+	{
+		"kiadimundi_sabre_jumpattack_end_full"
+		"kiadimundi_sabre_jumpattack_fall_full"
+		"kiadimundi_sabre_jumpattack_land_full"
+		"kiadimundi_sabre_stand_dashattack_end_full"
+		"kiadimundi_sabre_stand_dashflip2_full"
+		"kiadimundi_sabre_stand_dashflip_full"
+	}
+}

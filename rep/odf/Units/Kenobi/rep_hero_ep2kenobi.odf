@@ -1,0 +1,12 @@
+[GameObjectClass]
+ClassParent             = "rep_hero_kenobi"
+GeometryName            = "rep_inf_ep2obiwan.msh"
+
+[Properties]
+
+GeometryName            = "rep_inf_ep2obiwan"
+GeometryLowRes          = "rep_inf_ep2obiwan"
+AnimationName           = "obiwan"
+ClothODF                = "rep_inf_ep3obiwan_skirt"
+
+

@@ -1,0 +1,13 @@
+[WeaponClass]
+ClassParent         = "com_weap_veh_fly_bombs"
+
+[Properties]
+OrdnanceName            = "all_weap_fly_ywing_bomb_ord"
+
+//************************************************
+//**********************SOUND*********************
+//************************************************
+
+FireSound               = "all_weap_fly_ywing_bomb_fire"
+FireSoundStop = "0"
+//ReloadSound           = "vehicle_reload"

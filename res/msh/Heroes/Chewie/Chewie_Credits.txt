@@ -1,0 +1,3 @@
+Credits to:
+Disney Studio's Star Wars app for the model and textures
+Calrissian97 for rigging the model

@@ -1,0 +1,33 @@
+[OrdnanceClass]
+ClassLabel          = "sticky"
+
+[Properties]
+GeometryName        = "weap_inf_sonicdetonator"
+ExplosionTrigger        = "com_weap_inf_sonicg_exp"
+ExplosionDeath          = "com_weap_inf_sonicg_exp"
+ExplosionExpire         = "com_weap_inf_sonicg_exp"
+LightColor          = "61 252 56 100"
+LightRadius         = "4.0"
+
+ImpactEffectWater   = "com_sfx_watersplash_sm"
+//ImpactEffect        = "com_sfx_explosion_lg"
+TrailEffect         = "com_sfx_mineblink_green"
+
+LifeSpan            = "0.3"
+Velocity            = "35.0"
+Gravity             = "1.25"
+Rebound             = "0.2"
+Friction            = "2.0"
+
+StickPerson         = 1
+StickAnimal         = 1
+StickDroid          = 1
+StickVehicle        = 0
+StickBuilding       = 0
+StickBuildingDead   = 0
+StickBuildingUnbuilt= 0
+StickTerrain        = 0
+
+CollisionOtherSound     = "com_weap_inf_grenade_bounce"
+CollisionWaterSound     = "imp_inf_trooper_land_water"
+CollisionFoliageSound   = ""

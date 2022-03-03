@@ -1,0 +1,19 @@
+[GameObjectClass]
+ClassParent         = "rep_inf_default_sniper"
+
+[Properties]
+GeometryName        = "gar_inf_nabooguard"
+GeometryLowRes      = "gar_inf_nabooguard"
+FirstPerson         = "REP\reptroop;rep_1st_trooper"
+
+OverrideTexture     = "gar_inf_naboo_guard_red"
+
+WEAPONSECTION = 1
+WeaponName         = "rep_weap_inf_fettrifle"
+WeaponAmmo         = 0
+WeaponChannel      = 0
+
+WEAPONSECTION = 2
+WeaponName         = "rep_weap_inf_S5"
+WeaponAmmo         = 0
+WeaponChannel      = 0

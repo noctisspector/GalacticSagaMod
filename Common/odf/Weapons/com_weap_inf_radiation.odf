@@ -1,0 +1,122 @@
+[WeaponClass]
+ClassLabel      = "launcher"
+
+[Properties]
+ScoreForMedalsType = 2
+
+//AnimationBank   = "bazooka"
+AnimationBank   = "rifle"
+
+OrdnanceName        = "com_weap_inf_radiation_ord"
+
+//***********************************************
+//************* TARGET & RANGE VALUES  **********
+//***********************************************
+
+TargetEnemy         = "1"
+TargetNeutral       = "0"
+TargetFriendly      = "0"
+
+TargetPerson        = "1"
+TargetAnimal        = "1"
+TargetDroid         = "1"
+TargetVehicle       = "1"
+TargetBuilding      = "1"
+
+AITargetPerson        = "1"
+AITargetAnimal        = "1"
+AITargetDroid         = "1"
+AITargetVehicle       = "1"
+AITargetBuilding      = "1"
+
+MinRange            = "15"
+OptimalRange        = "75"
+MaxRange            = "150"
+
+LockOnRange     = "40.0"
+LockTime        = "0.4"
+lockOnAngle     = "1.0"
+
+ZoomMin             = "2.0"
+ZoomMax             = "2.0"
+ZoomRate            = "0.0"
+
+PitchSpread         = "1.0"
+YawSpread           = "1.0"
+
+SpreadPerShot       = "1.1"
+SpreadRecoverRate   = "4.8"
+SpreadThreshold     = "1.6"
+SpreadLimit         = "6.0"
+
+StandStillSpread    = "0.0"
+StandMoveSpread     = "0.0"
+CrouchStillSpread   = "0.0"
+CrouchMoveSpread    = "0.0"
+ProneStillSpread    = "0.0"
+ProneMoveSpread     = "0.0"
+
+//***********************************************
+//*********** WEAPON PERFORMANCE VALUES *********
+//***********************************************
+
+//HeatPerShot         = "0.56"
+HeatPerShot         = "0.0"
+HeatRecoverRate     = "0.2"
+HeatThreshold       = "0.2"
+
+HUDtag              = "com_weap_inf_torpedo"
+
+RoundsPerClip       = "6"
+ReloadTime          = "2.5"
+ShotDelay           = "0.08"
+TriggerSingle       = "1"
+MaxPressedTime      	= "2.8"
+
+SalvoCount          = "6"
+SalvoDelay          = "0.15"
+InitialSalvoDelay   = "0.0"
+SalvoTime           = "0.0"
+
+//ShotsPerSalvo       = "6"
+
+ShotElevate         	= "0.5"
+
+//***********************************************
+//***********  HUD & CONTROLLER VALUES  *********
+//***********************************************
+    
+ScopeTexture            = "weapon_scope2"
+
+MuzzleFlash             = "small_muzzle_flash"
+FlashColor              = "255 198 62"
+FlashLength             = "0.075"
+FlashLightColor         = "255 198 62 175"
+
+FlashLightRadius        = "5.0"
+FlashLightDuration      = "0.25"
+Discharge               = "small_smoke_effect"
+
+ChargeRateLight         = "0.0"
+MaxChargeStrengthLight  = "0.0"
+ChargeDelayLight        = "0.0"
+ChargeRateHeavy         = "0.0"
+MaxChargeStrengthHeavy  = "0.0"
+ChargeDelayHeavy        = "0.0"
+
+RecoilLengthHeavy       = "1.5"
+RecoilStrengthHeavy     = "1"
+RecoilDecayHeavy        = "0.75"
+
+YawSpread       = "8.0"
+PitchSpread     = "8.0"
+
+//ChargeSound = "com_weap_inf_rocket_launcher_tracking"
+
+MinRange            	= "10"
+OptimalRange        	= "35"
+MaxRange            	= "80"
+ExtremeRange        	= "96.0"
+
+
+

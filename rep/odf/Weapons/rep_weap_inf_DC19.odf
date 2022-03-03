@@ -1,0 +1,48 @@
+[WeaponClass]
+ClassParent         = "com_weap_inf_smg_base"
+GeometryName        = "dcar.msh"
+
+[Properties]
+GeometryName        = "dcar"
+HighResGeometry         = "dcar"
+OrdnanceName        = "rep_weap_inf_DC19_ord"
+FirePointName       = "hp_fire"
+
+HUDtag              = "dcar"
+
+ShotDelay           = "0.23"
+
+HeatPerShot         = "0.21"
+HeatRecoverRate     = "0.5"
+HeatThreshold       = "0.2"
+
+YawSpread       = "0.55"
+PitchSpread     = "0.55"
+
+//******************************************************
+//***************   SOUND       ****************
+//******************************************************
+
+MuzzleFlash         = "small_muzzle_flash"
+MuzzleFlashEffect		= "gunkit_blue"
+FlashColor          = "80 80 255 255"     
+FlashLength         = 0.025               
+FlashColor          = "100 100 255 255"   
+FlashLength         = 0.025               
+FlashLightColor     = "220 220 255 175"   
+FlashLightRadius    = "2.0"               
+FlashLightDuration  = "0.25"              
+Discharge           = "small_smoke_effect"
+
+
+FireSound           = "com_weap_inf_ee3_fire"
+ReloadSound         = "com_weap_inf_reload_med"
+ChangeModeSound     = "com_weap_inf_equip_med"
+FireEmptySound      = "com_weap_inf_ammo_empty"
+WeaponChangeSound   = "com_weap_inf_equip_med"
+JumpSound           = "com_weap_inf_rifle_mvt_jump"
+LandSound           = "com_weap_inf_rifle_mvt_land"
+RollSound           = "com_weap_inf_rifle_mvt_roll"
+//ProneSound          = "com_weap_inf_rifle_mvt_lie"
+SquatSound          = "com_weap_inf_rifle_mvt_squat"
+//StandSound          = "com_weap_inf_rifle_mvt_getup"

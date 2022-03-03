@@ -1,0 +1,27 @@
+[WeaponClass]
+ClassParent         = "com_weap_inf_rifle_base"
+
+
+[Properties]
+
+//SniperScope         = 1
+//ZoomFirstPerson     = 1
+//ZoomMin             = "2.0"
+//ZoomMax             = "8.0"
+//ZoomRate            = "0.0"
+
+AnimationBank   = "pistol"
+
+YawSpread       = "0.7"
+PitchSpread     = "0.7"
+
+TriggerSingle       = "1"
+
+HeatPerShot         = "0.32"
+HeatRecoverRate     = "0.5"
+HeatThreshold       = "0.2"
+
+KickStrength        = "5.0"
+KickBuildup     = "60.0"
+
+ShotDelay           = "0.4"

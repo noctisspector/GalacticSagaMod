@@ -1,0 +1,13 @@
+ucft
+{
+    REQN
+    {
+        "class"
+        "imp_hero_boba_np"
+		"imp_hero_greedo_np"
+		"imp_hero_darthvader_np"
+		"imp_hero_iden_np"
+		"imp_hero_dengar_np"
+		"imp_hero_bossc_np"
+    }
+}

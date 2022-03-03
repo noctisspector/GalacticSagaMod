@@ -1,0 +1,14 @@
+[GameObjectClass]
+ClassParent         = "rep_inf_default_heavy"
+
+[Properties]
+
+AnimationName		= "z6gunner"
+
+GeometryName        = "rep_inf_clonecommander_212"
+GeometryLowRes      = "rep_inf_clonecommander_212"
+
+
+FirstPerson         = "REP\reptroop;rep_1st_trooper"
+
+//SkeletonName            = "swbfiii"

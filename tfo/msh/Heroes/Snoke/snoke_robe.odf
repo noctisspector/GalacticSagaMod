@@ -1,0 +1,6 @@
+[GameObjectClass]       
+ClassLabel          = "cloth"
+
+[Properties]
+attachedmesh    = "FO_hero_Snoke" //"first_inf_snoke"
+priority = 1.0

@@ -1,0 +1,9 @@
+ucft
+{
+	ANIM
+	{
+		"sidiouslz_sabre_stand_idle_emote"
+		"sidiouslz_sabre_stand_runforward"
+		"sidiouslz_sabre_stand_useforce"
+	}
+}

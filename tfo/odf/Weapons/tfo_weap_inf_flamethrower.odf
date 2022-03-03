@@ -1,0 +1,11 @@
+[WeaponClass]
+ClassParent         = "com_weap_inf_flamethrower"
+GeometryName        = "fo_weap_d-93_incinerator_flamethrower.msh"
+
+[Properties]
+GeometryName        = "fo_weap_d-93_incinerator_flamethrower"
+HighResGeometry     = "fo_weap_d-93_incinerator_flamethrower"
+
+FirePointName       = "hp_fire"
+
+HUDtag              = "fo_weap_d-93_incinerator_flamethrower"

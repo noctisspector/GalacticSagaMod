@@ -1,0 +1,10 @@
+[OrdnanceClass]
+ClassParent     	= "com_weap_veh_laser_ord"
+
+[Properties]
+
+LaserTexture		= "laser_texture_gold"
+LaserGlowColor		= "224 224 160 100"
+LightColor              = "224 224 160 100"
+
+MaxDamage 				= "410"

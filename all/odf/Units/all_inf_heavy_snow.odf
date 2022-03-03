@@ -1,0 +1,17 @@
+[GameObjectClass]
+ClassParent         = "all_inf_default_heavy"
+
+[Properties]
+GeometryName        = "all_inf_soldier_snow"
+GeometryLowRes      = "all_inf_soldier_snow"
+FirstPerson     = "all\alltroop;all_1st_trooper"
+
+SkeletonName            = "swbfiii"
+
+AnimatedAddon = "pack" 
+GeometryAddon = "all_addon_soldier_backpack_white" 
+AddonAttachJoint = "bone_ribcage"
+
+WEAPONSECTION = 1
+WeaponName         = "all_weap_inf_trigun"
+WeaponAmmo         = 0

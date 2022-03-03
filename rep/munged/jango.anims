@@ -1,0 +1,14 @@
+ucft
+{
+	ANIM
+	{
+		"jango_pistol_crouchalert_idle_emote"
+		"jango_pistol_crouch_reload"
+		"jango_pistol_crouch_shoot"
+		"jango_pistol_jetpack_hover"
+		"jango_pistol_standalert_idle_emote"
+		"jango_pistol_stand_idle_emote"
+		"jango_pistol_stand_reload"
+		"jango_pistol_stand_shoot"
+	}
+}

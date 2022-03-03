@@ -1,0 +1,16 @@
+[OrdnanceClass]
+ClassParent     	= "com_weap_inf_rifle_base_ord"
+
+[Properties]
+
+MaxDamage           	= "125"
+DamageTransitionDelay   = "0.1"
+DamageTransitionPeriod  = "0.2"
+DamageFinalDamage       = "83"
+
+Velocity            	= "400.0"
+
+LaserLength         	= "15"
+LaserWidth          	= "0.19"
+GlowLength          	= "15"
+BlurLength          	= "0"

@@ -1,0 +1,17 @@
+ucft
+{
+	ANIM
+	{
+		"bdroid_pistol_sprint_full"
+		"bdroid_rifle_sprint_full"
+		"bdroid_rifle_standalert_idle_emote"
+		"bdroid_rifle_standalert_runforward"
+		"bdroid_rifle_standalert_walkforward"
+		"bdroid_rifle_stand_idle_emote"
+		"bdroid_rifle_stand_reload"
+		"bdroid_rifle_stand_runforward"
+		"bdroid_rifle_stand_shoot"
+		"bdroid_rifle_stand_walkforward"
+		"bdroid_stap_ride"
+	}
+}

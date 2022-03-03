@@ -1,0 +1,23 @@
+[OrdnanceClass]
+ClassParent     	= "com_weap_inf_rifle_base_ord"
+
+[Properties]
+
+MaxDamage           	= "95"
+DamageTransitionDelay   = "0.05"
+DamageTransitionPeriod  = "0.1"
+DamageFinalDamage       = "80"
+
+Velocity            	= "350.0"
+
+LaserTexture        	= "laser_texture_gold"
+LaserGlowColor      	= "254 254 18 200"
+LightColor          	= "254 254 18 200"
+EndLaserGlowColor       = "254 254 18 200" //What color the laser glow will be by the end of the transition. Varies over DamageTransitionPeriod. (only for lasers.)
+EndLightColor           = "254 254 18 200" //What color light will be applied by the end of the transition.  Varies over DamageTransitionPeriod.
+LightRadius         	= "10.0"
+
+LaserLength         	= "8"
+LaserWidth          	= "0.12"
+GlowLength          	= "8"
+BlurLength          	= "0"

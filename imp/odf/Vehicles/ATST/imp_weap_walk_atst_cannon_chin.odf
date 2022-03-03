@@ -1,0 +1,23 @@
+[WeaponClass]
+ClassParent     	= "com_weap_veh_laser"
+
+[Properties]
+FireSound       		= "imp_weap_walk_atst_cannon_chin_fire"
+
+OrdnanceName 			= "imp_weap_walk_atst_cannon_chin1_ord"
+
+SalvoCount          = "2"
+ShotsPerSalvo       = "1"
+SalvoDelay          = "0.1"
+InitialSalvoDelay   = "0.05"
+SalvoTime           = "0.0"
+
+HeatPerShot			= "0.15"
+HeatRecoverRate			= "0.38"
+HeatThreshold			= "0.02"
+
+ShotDelay 			= "0.4"
+
+FlashLightColor 		= "255 192 192 175"
+FlashLightRadius 		= "4.0"
+FlashLightDuration 		= "0.25"

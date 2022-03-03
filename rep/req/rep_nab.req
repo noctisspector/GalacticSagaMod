@@ -1,0 +1,15 @@
+ucft
+{
+    REQN
+    {
+        "class"
+		"rep_inf_padme"
+		"rep_inf_ep3_rifleman_nab"
+		"rep_inf_ep3_rocketeer_nab"
+		"rep_inf_ep3_medic_nab"
+		"rep_inf_ep3_sniper_nab"
+		"rep_inf_ep3_heavy_nab"
+		"rep_inf_guard"
+		"rep_inf_guard_nab"
+    }
+}

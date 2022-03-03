@@ -1,0 +1,7 @@
+[OrdnanceClass]
+ClassParent     	= "com_weap_inf_MPL_ord"
+
+[Properties]
+
+TrailEffect		= "com_sfx_weap_rockettrail_blue"
+LightColor              = "3 3 253 150"

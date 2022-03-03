@@ -1,0 +1,26 @@
+[GameObjectClass]
+ClassParent     	= "cis_inf_default_rifleman"
+
+
+[Properties]
+UnitType            	= "trooper"
+
+GeometryName        	= "cis_inf_b1_battledroid_pilor"
+GeometryLowRes      	= "cis_inf_b1_battledroid_pilor"
+SkeletonName            = "bdroid"
+SkeletonLowRes          = "bdroidlz"
+
+FirstPerson             = "CIS\cisbdrd;cis_1st_bdroid"
+
+PointsToUnlock          = 18
+
+MaxHealth           	= 1200.0
+
+WEAPONSECTION = 1
+WeaponName     	= "com_weap_inf_radiationminigun"
+WeaponAmmo     	= 0
+
+WEAPONSECTION = 2
+WeaponName     	= "com_weap_inf_radiationlauncher"
+WeaponAmmo     	= 10
+WeaponChannel	= 0

@@ -1,0 +1,9 @@
+[OrdnanceClass]
+ClassParent     	= "com_weap_veh_fly_multilasers_minigun_ord"
+
+[Properties]
+ExplosionName = "imp_weap_fly_trooptrans_turret_exp"
+
+LaserTexture        	= "laser_texture_red"
+LaserGlowColor      	= "254 6 18 200"
+LightColor          	= "254 6 18 200"

@@ -1,0 +1,13 @@
+ucft
+{
+    REQN
+    {
+        "class"
+		"all_hero_han_np"
+		"all_inf_chewie_np"
+		"all_hero_wedge_np"
+		"all_hero_nien_np"
+		"all_hero_leia_np"
+		"all_hero_luke_jedi_np"
+    }
+}

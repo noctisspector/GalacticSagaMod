@@ -1,0 +1,42 @@
+[WeaponClass]
+ClassParent         = "com_weap_inf_scattergun_base"
+GeometryName        = "all_weap_inf_seeker.msh"
+
+[Properties]
+GeometryName        = "all_weap_inf_seeker"
+HighResGeometry     = "all_1st_weap_inf_seeker"
+OrdnanceName        = "all_weap_inf_scattergun_ord"
+FirePointName       = "hp_fire"
+
+//HUDtag              = "all_weap_inf_rifle"
+
+//******************************************************
+//***************   SOUND       ****************
+//******************************************************
+
+WarmUpSound         = "rep_weap_inf_chaingun_spin"
+WarmUpSoundStartPitch   = 0.5
+WarmUpSoundFadeInTime   = 0.2
+WarmUpSoundFadeOutTime  = 0.2
+
+BarrelSound         = "rep_weap_inf_chaingun_fire"
+BarrelSoundFadeInTime   = 0.2
+BarrelSoundFadeOutTime  = 0.1
+
+FireEmptySound      = "com_weap_inf_ammo_empty"
+FireLoopSound       = ""
+ReloadSound         = "com_weap_inf_reload_med"
+ChargeSound         = ""
+ChargeSoundPitch    = ""
+ChangeModeSound     = "com_weap_inf_equip_med"
+WeaponChangeSound   = "com_weap_inf_equip_med"
+JumpSound           = "com_weap_inf_rifle_mvt_jump"
+LandSound           = "com_weap_inf_rifle_mvt_land"
+RollSound           = "com_weap_inf_rifle_mvt_roll"
+//ProneSound          = "com_weap_inf_rifle_mvt_lie"
+SquatSound          = "com_weap_inf_rifle_mvt_squat"
+//StandSound          = "com_weap_inf_rifle_mvt_getup"
+
+MuzzleFlashEffect		= "gunkit_yellow"
+FlashColor 		= "224 224 160 100"
+FlashLightColor 	= "224 224 160 100"

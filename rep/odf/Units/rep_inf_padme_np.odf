@@ -1,0 +1,13 @@
+[GameObjectClass]
+ClassParent         = "rep_inf_default_padme"
+
+[Properties]
+GeometryName        = "gar_inf_nabooqueen"
+GeometryLowRes      = "gar_inf_nabooqueen"
+
+
+FirstPerson         = "REP\reptroop;rep_1st_trooper"
+
+//SkeletonName            = "swbfiii"
+
+PointsToUnlock          = 0

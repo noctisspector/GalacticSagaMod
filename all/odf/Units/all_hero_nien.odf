@@ -1,0 +1,28 @@
+[GameObjectClass]
+ClassParent         = "all_inf_default"
+
+[Properties]
+GeometryName        = "nien_nunb"
+GeometryLowRes      = "nien_nunb"
+FirstPerson     = "all\alltroop;all_1st_trooper"
+
+//SkeletonName            = "swbfiii"
+
+PointsToUnlock          = 14
+
+MaxHealth           	= 800.0
+
+WEAPONSECTION = 1
+WeaponName         = "all_weap_inf_DLT20A"
+WeaponAmmo         = 0
+
+WEAPONSECTION = 2
+WeaponName         = "rep_weap_inf_orbital_attack"
+WeaponAmmo         = 1
+
+WEAPONSECTION = 3
+WeaponName         = "com_weap_inf_mine_dispenser_base"
+WeaponAmmo         = 3
+WeaponChannel      = 1
+
+

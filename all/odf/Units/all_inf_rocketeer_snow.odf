@@ -1,0 +1,18 @@
+[GameObjectClass]
+ClassParent         = "all_inf_default_rocketeer"
+
+[Properties]
+GeometryName        = "all_inf_vanguard"
+GeometryLowRes      = "all_inf_vanguard"
+FirstPerson     = "all\alltroop;all_1st_trooper"
+
+SkeletonName            = "swbfiii"
+
+WEAPONSECTION = 1
+WeaponName         = "all_weap_inf_DLT20A"
+WeaponAmmo         = 0
+
+
+WEAPONSECTION = 2
+WeaponName         = "all_weap_inf_launcher"
+WeaponAmmo         = 5

@@ -1,0 +1,23 @@
+[GameObjectClass]
+ClassParent         = "imp_inf_default_rifleman"
+
+[Properties]
+GeometryName        = "imp_bf3_sandtrooper_black"
+GeometryLowRes      = "imp_bf3_sandtrooper_black"
+FirstPerson         = "IMP\impstrp;imp_1st_stormtrooper"
+
+SkeletonName            = "swbfiii"
+
+WEAPONSECTION = 1
+WeaponName         = "imp_weap_inf_RT97C"
+WeaponAmmo         = 0
+
+WEAPONSECTION = 2
+WeaponName         = "com_weap_inf_frag"
+WeaponAmmo         = 2
+WeaponChannel      = 1
+
+WEAPONSECTION = 3
+WeaponName         = "com_weap_inf_powerup"
+WeaponAmmo         = 2
+WeaponChannel      = 1

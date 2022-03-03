@@ -1,0 +1,9 @@
+[GameObjectClass]
+ClassParent         = "all_inf_default_medic"
+
+[Properties]
+GeometryName        = "all_inf_pilot"
+GeometryLowRes      = "all_inf_pilot"
+FirstPerson     = "all\allpilot;all_1st_pilot"
+
+SkeletonName            = "swbfiii"

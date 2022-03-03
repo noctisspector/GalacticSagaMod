@@ -1,0 +1,11 @@
+[WeaponClass]
+ClassParent 		= "com_weap_inf_force_push"
+
+[Properties]
+OrdnanceName        	= "mag_weap_force_barrage_ord"
+HUDTag     		= "pol1_prop_asteroid_01"
+Label               	= ""
+EnergyDrain             = 100.0
+InitialSalvoDelay 	= "0.8"
+FireSound		= "force_pull_fire"
+

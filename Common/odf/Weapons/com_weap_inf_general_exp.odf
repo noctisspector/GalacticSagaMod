@@ -1,0 +1,30 @@
+[ExplosionClass]
+ClassLabel = "explosion"
+
+[Properties]
+LifeSpan        = "0.0"
+Damage          = "0.0"
+DamageRadiusInner   = "2.0"
+DamageRadiusOuter   = "4.0"
+Push            = "0.0"
+PushRadius      = "0.0"
+
+
+Shake               = "0.15"
+ShakeLength         = "0.5"
+ShakeRadiusInner    = "2.0"
+ShakeRadiusOuter    = "4.0"
+Effect          = "com_sfx_weap_redbolt_exp_md"
+
+//imp_sfx_weap_concussionr_exp - sonic exp?
+//imp_sfx_weap_stun - Shield Impact
+//com_sfx_concussiveblast_exp - purple/blue sonic (very bright)
+//com_sfx_weap_redbolt_exp_md
+
+VehicleScale    = "1.0"
+PersonScale     = "1.0"
+DroidScale  = "1.0"
+BuildingScale   = "0.0"
+AnimalScale = "1.0"
+
+SoundProperty   = "com_weap_ord_exp_lg"

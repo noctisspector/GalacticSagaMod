@@ -1,0 +1,17 @@
+[GameObjectClass]
+ClassParent         = "imp_inf_default_deathtrooper"
+
+[Properties]
+GeometryName        = "emp_inf_deathtrooper"
+GeometryLowRes      = "emp_inf_deathtrooper"
+FirstPerson         = "IMP\impstrp;imp_1st_stormtrooper"
+
+//SkeletonName            = "swbfiii"
+
+WEAPONSECTION = 1
+WeaponName         = "imp_weap_inf_DLT19D_sniper"
+WeaponAmmo         = 0
+
+WEAPONSECTION = 2
+WeaponName         = "imp_weap_inf_DLT19D"
+WeaponAmmo         = 0

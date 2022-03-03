@@ -1,0 +1,17 @@
+[GameObjectClass]
+ClassParent         = "rep_inf_default_rocketeer"
+
+[Properties]
+GeometryName        = "rep_inf_trooper_1"
+GeometryLowRes      = "rep_inf_trooper_1"
+FirstPerson         = "REP\reptroop;rep_1st_trooper"
+
+SkeletonName            = "swbfiii"
+
+WEAPONSECTION = 1
+WeaponName         = "rep_weap_inf_launcher"
+WeaponAmmo         = 5
+
+WEAPONSECTION = 2
+WeaponName         = "rep_weap_inf_DC17"
+WeaponAmmo         = 0

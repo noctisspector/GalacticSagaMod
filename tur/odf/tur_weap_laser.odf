@@ -1,0 +1,25 @@
+[WeaponClass]
+ClassParent             = "com_weap_veh_laser"
+
+[Properties]
+HUDTag			= "hud_vehicle_lasers"
+OrdnanceName            = "tur_weap_laser_ord"
+
+LaserTexture        	= "laser_texture_red"
+LaserGlowColor      	= "254 6 18 200"
+LightColor          	= "254 6 18 200"
+LightRadius         	= "10.0"
+
+HeatRecoverRate         = "0.25"
+HeatThreshold           = "0.2"
+HeatPerShot         = "0.09"
+
+ShotDelay           = "0.15"
+
+FireSound           = "com_weap_turret_fire_small"
+
+ZoomMin             = "2.0"
+ZoomMax             = "16.0"
+ZoomRate            = "1.0"
+
+ScopeTexture        = "weapon_scope4"

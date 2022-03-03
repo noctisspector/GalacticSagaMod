@@ -1,0 +1,9 @@
+[GameObjectClass]
+ClassParent         = "tfo_inf_default_rocketeer"
+
+[Properties]
+GeometryName        = "fo_new_inf_heavytrooper"
+GeometryLowRes      = "fo_new_inf_heavytrooper"
+FirstPerson         = "IMP\impstrp;imp_1st_stormtrooper"
+
+//SkeletonName            = "swbfiii"

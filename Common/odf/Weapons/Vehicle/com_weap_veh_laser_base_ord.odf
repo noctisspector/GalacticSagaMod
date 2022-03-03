@@ -1,0 +1,43 @@
+[OrdnanceClass]
+ClassLabel 		= "bolt"
+
+[Properties]
+
+LaserTexture        	= "laser_texture_red"
+LaserGlowColor      	= "254 6 18 200"
+LightColor          	= "254 6 18 200"
+LightRadius         	= "10.0"
+
+LaserLength         = "8.5"
+LaserWidth          = "0.25"
+
+ImpactEffectStatic            = "com_sfx_weap_redbolt_exp_md"
+ImpactEffectRigid            = "com_sfx_weap_redbolt_exp_md"
+ImpactEffectSoft            = "com_sfx_weap_redbolt_exp_md"
+ImpactEffectTerrain = "com_sfx_weap_redbolt_exp_md"
+ImpactEffectWater   = "com_sfx_watersplash_ord"
+ImpactEffectShield  = "com_sfx_weap_redbolt_exp_md"
+
+DamageTransitionDelay   = "0.75"     //How long in seconds before the damage change begins.
+DamageTransitionPeriod  = "0.5"     //How long in seconds the damage change lasts.
+DamageFinalDamage       = "160"    //What the damage would be at the end of the transition period.  A negative value means that no change is applied.
+
+LifeSpan = "2"
+Velocity = "550"
+Gravity = "1"
+Rebound = "0"
+
+VehicleScale = "0.3"
+ShieldScale = "1"
+PersonScale = "1"
+AnimalScale = "1"
+DroidScale = "1"
+BuildingScale = "0.1"
+
+MaxDamage = "200"
+
+ExpireEffect        = "com_sfx_weap_redbolt_exp_md"
+
+//*****SOUND*****//
+OrdnanceSound = "com_weap_inf_ord_hum_lg"
+CollisionSound = "imp_weap_ord_exp_lg"

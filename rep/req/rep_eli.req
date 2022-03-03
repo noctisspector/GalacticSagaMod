@@ -1,0 +1,19 @@
+ucft
+{
+    REQN
+    {
+        "class"
+		"rep_inf_cody_np"
+		"rep_inf_bacara_np"
+		"rep_hero_kenobi_np"
+		"rep_inf_bly_np"
+		"rep_hero_mace_np"
+		"rep_hero_aalya_mod_np"
+		"rep_hero_anakin_np"
+		"rep_hero_palp_np"
+		"rep_hero_kiyadi_np"
+		"rep_hero_jinn_np"
+		"rep_inf_padme_np"
+		"rep_hero_masteryoda_np"
+    }
+}

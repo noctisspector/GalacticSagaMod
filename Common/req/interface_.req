@@ -1,0 +1,17 @@
+ucft
+{
+	REQN
+    {
+    "model"
+    "com_inv_mesh"
+	"hud_thermaldetonator"
+	"hud_thermaldetonat_e"
+	"hud_thermaldetonat_f"
+	"hud_thermaldetonat_g"
+    }
+    REQN
+    {
+    "config"
+    "extraweapons"
+    }
+}

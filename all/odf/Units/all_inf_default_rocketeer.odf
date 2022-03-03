@@ -1,0 +1,13 @@
+[GameObjectClass]
+ClassParent         = "all_inf_default"
+
+[Properties]
+WEAPONSECTION = 1
+WeaponName         = "all_weap_inf_DH17"
+WeaponAmmo         = 0
+
+
+WEAPONSECTION = 2
+WeaponName         = "all_weap_inf_launcher"
+WeaponAmmo         = 5
+

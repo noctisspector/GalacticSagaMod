@@ -1,0 +1,13 @@
+[GameObjectClass]
+ClassParent         = "imp_hero_default_boba"
+
+[Properties]
+GeometryName        = "imp_inf_bobafett"
+GeometryLowRes      = "imp_inf_bobafett"
+
+ClothODF            = "imp_inf_bobafett_cape"
+FirstPerson         = "IMP\impboba;imp_1st_bobafett"
+
+AnimationName = "fett"
+
+//SkeletonName            = "swbfiii"

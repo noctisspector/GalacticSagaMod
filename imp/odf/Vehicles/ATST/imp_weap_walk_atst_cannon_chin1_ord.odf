@@ -1,0 +1,13 @@
+[OrdnanceClass]
+ClassParent = "com_weap_veh_laser_ord"
+
+[Properties]
+//ExplosionName           = "imp_weap_walk_atst_cannon_chin1_exp"
+
+DamageFinalDamage       = "300"
+MaxDamage = "450"
+
+Velocity = "750"
+
+LaserLength         = "14.5"
+LaserWidth          = "0.4"

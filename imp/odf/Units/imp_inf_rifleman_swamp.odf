@@ -1,0 +1,15 @@
+[GameObjectClass]
+ClassParent         = "imp_inf_default_rifleman"
+
+[Properties]
+//AnimationName		= "z6gunner"
+
+GeometryName        = "imp_inf_The_Force_Unleashed_EVO_Trooper"
+GeometryLowRes      = "imp_inf_The_Force_Unleashed_EVO_Trooper"
+FirstPerson         = "IMP\impstrp;imp_1st_stormtrooper"
+
+//SkeletonName            = "swbfiii"
+
+WEAPONSECTION = 1
+WeaponName         = "imp_weap_inf_E10"
+WeaponAmmo         = 0

@@ -1,0 +1,15 @@
+ucft
+{
+    REQN
+    {
+        "class"
+		"res_inf_rifleman"
+		"res_inf_rocketeer"
+		"res_inf_medic"
+		"res_inf_sniper"
+		"res_inf_heavy"
+		"res_inf_jettrooper"
+		"res_hero_han"
+		"res_hero_rey_TFA"
+    }
+}

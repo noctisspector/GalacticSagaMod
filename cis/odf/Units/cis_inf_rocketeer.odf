@@ -1,0 +1,17 @@
+[GameObjectClass]
+ClassParent     	= "cis_inf_default_rocketeer"
+
+
+[Properties]
+UnitType            	= "trooper"
+
+GeometryName        	= "cis_inf_sbdroid"
+GeometryLowRes      	= "cis_inf_sbdroid_low1"
+SkeletonName        	= "sbdroid"
+SkeletonLowRes      	= "sbdroidlz"
+SkeletonRootScale   	= "1.2"
+CollisionRootScale  	= "1.2"
+
+CollisionHeadOffset = "0.0 -0.2 0.0"
+
+FirstPerson         	= "CIS\cissbdrd;cis_1st_sbdroid"

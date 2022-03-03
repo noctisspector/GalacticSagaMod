@@ -1,0 +1,28 @@
+ucft
+{
+    REQN
+    {
+        "class"
+		"cis_inf_destroyer"
+    }
+	REQN
+	{
+		"zafbin"
+		"droidekafp"
+	}
+	REQN
+	{
+		"zaabin"
+		"droidekafp"
+	}
+    REQN
+    {
+       	"model"
+        "hud_droideka_shield"
+    }
+    REQN
+    {
+        "texture"
+        "hud_droideka_shield"
+    }
+}

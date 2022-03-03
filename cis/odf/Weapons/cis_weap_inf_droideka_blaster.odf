@@ -1,0 +1,43 @@
+[WeaponClass]
+ClassParent         = "com_weap_inf_rifle_base"
+
+
+[Properties]
+
+OrdnanceName        = "cis_weap_inf_droideka_blaster_ord"
+//FirePointName       = "hp_fire"
+
+ShotsPerSalvo       = "4"
+
+HeatPerShot         = "0.04"
+
+ShotDelay           = "0.2" 
+
+ShotPatternCount    = "4"
+ShotPatternPitchYaw     = "-0.1 -0.3"
+ShotPatternPitchYaw     = "-0.1 0.3"
+ShotPatternPitchYaw     = "-0.1 0.6"
+ShotPatternPitchYaw     = "-0.1 -0.6"
+
+KickStrength        = "0.8"
+KickBuildup     = "200.0"
+
+HUDtag              = "hud_vehicle_recoiless"
+
+//******************************************************
+//***************   SOUND       ****************
+//******************************************************
+
+
+
+FireSound           = "cis_weap_inf_droideka_fire"
+ReloadSound         = "com_weap_inf_reload_med"
+ChangeModeSound     = "com_weap_inf_equip_med"
+FireEmptySound      = "com_weap_inf_ammo_empty"
+WeaponChangeSound   = "com_weap_inf_equip_med"
+JumpSound           = "com_weap_inf_rifle_mvt_jump"
+LandSound           = "com_weap_inf_rifle_mvt_land"
+RollSound           = "com_weap_inf_rifle_mvt_roll"
+//ProneSound          = "com_weap_inf_rifle_mvt_lie"
+SquatSound          = "com_weap_inf_rifle_mvt_squat"
+//StandSound          = "com_weap_inf_rifle_mvt_getup"

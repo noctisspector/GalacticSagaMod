@@ -1,0 +1,10 @@
+ucft
+{
+	ANIM
+	{
+		"gamlz_rifle_diveforward"
+		"gamlz_rifle_stand_death_backward"
+		"gamlz_rifle_stand_idle_emote"
+		"gamlz_rifle_stand_runforward"
+	}
+}

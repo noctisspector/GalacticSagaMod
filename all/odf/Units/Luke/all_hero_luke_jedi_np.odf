@@ -1,0 +1,7 @@
+[GameObjectClass]
+ClassParent         = "all_hero_luke_jedi"
+
+[Properties]
+
+PointsToUnlock          = 0
+

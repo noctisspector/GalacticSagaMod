@@ -1,0 +1,10 @@
+[GameObjectClass]
+ClassParent             = "rep_hero_mace"
+
+[Properties]
+
+PointsToUnlock          = 0
+
+
+
+

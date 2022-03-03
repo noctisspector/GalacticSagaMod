@@ -1,0 +1,11 @@
+[GameObjectClass]
+ClassParent         = "imp_inf_default_medic"
+
+[Properties]
+GeometryName        = "emp_inf_groundcrew"
+GeometryLowRes      = "emp_inf_groundcrew"
+FirstPerson         = "IMP\impstrp;imp_1st_stormtrooper"
+
+WEAPONSECTION = 1
+WeaponName         = "imp_weap_inf_SE44C"
+WeaponAmmo         = 0

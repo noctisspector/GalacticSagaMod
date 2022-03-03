@@ -1,0 +1,15 @@
+[GameObjectClass]
+ClassParent         = "all_inf_default_chewie"
+
+[Properties]
+
+GeometryName        = "RES_hero_Chewie"
+GeometryLowRes      = "RES_hero_Chewie"
+
+PointsToUnlock          = 0
+
+SkeletonName        = "wookie"
+SkeletonLowRes      = "wookielz"
+SkeletonRootScale   = "1.15"
+CollisionRootScale  = "1.15"
+FirstPerson         = "all\allwook;all_1st_wookie"

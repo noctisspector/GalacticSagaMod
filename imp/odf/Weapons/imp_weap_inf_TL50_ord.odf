@@ -1,0 +1,9 @@
+[OrdnanceClass]
+ClassParent     	= "com_weap_inf_repeater_base_ord"
+
+[Properties]
+
+MaxDamage           	= "62"
+DamageTransitionDelay   = "0.1"
+DamageTransitionPeriod  = "0.2"
+DamageFinalDamage       = "42"

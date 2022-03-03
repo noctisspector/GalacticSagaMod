@@ -1,0 +1,13 @@
+ucft
+{
+    REQN
+    {
+        "lvl"
+        "imp_all"
+		"imp_eli"
+		"interface_"
+		"imp_atat"
+		"imp_atst"
+		"imp_spa"
+    }
+}

@@ -1,0 +1,5 @@
+[GameObjectClass]       
+ClassLabel          = "cloth"
+
+[Properties]
+attachedmesh    = "RES_hero_Luke_Crait"

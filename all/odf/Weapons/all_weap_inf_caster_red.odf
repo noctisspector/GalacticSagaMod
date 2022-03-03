@@ -1,0 +1,73 @@
+[WeaponClass]
+ClassParent         = "com_weap_inf_caster_base"
+GeometryName        = "all_weap_inf_bowcaster.msh"
+
+[Properties]
+GeometryName        = "all_weap_inf_bowcaster"
+HighResGeometry         = "all_1st_weap_inf_bowcaster"
+OrdnanceName        = "all_weap_inf_caster_red_ord"
+FirePointName       = "hp_fire"
+
+HUDtag              = "all_weap_inf_bowcaster"
+
+//******************************************************
+//***************   SOUND       ****************
+//******************************************************
+
+MuzzleFlash         = "small_muzzle_flash"
+MuzzleFlashEffect		= "gunkit_red"
+FlashColor          = "255 80 80 255"
+FlashLength         = 0.025
+FlashColor          = "255 100 100 255"
+FlashLength         = 0.025
+FlashLightColor     = "255 220 220 175"
+FlashLightRadius    = "2.0"
+FlashLightDuration  = "0.25"
+Discharge           = "small_smoke_effect"
+
+KickStrength        = "5.0"
+
+FireSound           = "all_weap_inf_bowcaster_fire"
+ReloadSound         = "com_weap_inf_reload_med"
+ChangeModeSound     = "com_weap_inf_equip_med"
+FireEmptySound      = "com_weap_inf_ammo_empty"
+WeaponChangeSound   = "com_weap_inf_equip_med"
+JumpSound           = "com_weap_inf_rifle_mvt_jump"
+LandSound           = "com_weap_inf_rifle_mvt_land"
+RollSound           = "com_weap_inf_rifle_mvt_roll"
+//ProneSound          = "com_weap_inf_rifle_mvt_lie"
+SquatSound          = "com_weap_inf_rifle_mvt_squat"
+//StandSound          = "com_weap_inf_rifle_mvt_getup"
+
+ShotsPerSalvo           = 1
+ChargeSound         = "all_weap_inf_bowcaster_charge"
+
+HeatPerShot         = "0.3"
+
+ChargeSoundPitch    = "0.05"
+
+NextCharge              = 0.3
+HeatPerShot         = "0.15"
+KickStrength        = "1.6"
+ShotsPerSalvo           = 3
+ShotPatternCount        = 3
+ShotPatternPitchYaw     = "0.0 0.0"
+ShotPatternPitchYaw     = "0.0 -1.0"
+ShotPatternPitchYaw     = "0.0 1.0"
+ChargeSound         = "all_weap_inf_bowcaster_charge"
+ChargeSoundPitch    = "0.05"
+
+NextCharge              = 0.6
+HeatPerShot         = "0.1"
+KickStrength        = "1"
+ShotsPerSalvo           = 5
+ShotPatternCount        = 5
+ShotPatternPitchYaw     = "0.0 0.0"
+ShotPatternPitchYaw     = "0.0 -1.6"
+ShotPatternPitchYaw     = "0.0 1.6"
+ShotPatternPitchYaw     = "1.6 0.0"
+ShotPatternPitchYaw     = "-1.6 0.0"
+ChargeSound         = "all_weap_inf_bowcaster_charge"
+ChargeSoundPitch    = "0.05"
+
+

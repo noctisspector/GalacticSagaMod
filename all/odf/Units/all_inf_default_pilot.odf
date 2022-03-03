@@ -1,0 +1,20 @@
+[GameObjectClass]
+ClassParent         = "all_inf_default"
+
+[Properties]
+UnitType        = "pilot"
+
+WEAPONSECTION = 1
+WeaponName         = "all_weap_inf_DL18"
+WeaponAmmo         = 0
+
+WEAPONSECTION = 2
+WeaponName         = "com_weap_inf_repair"
+WeaponAmmo         = 0
+
+WEAPONSECTION = 3
+WeaponName         = "com_weap_inf_V1det"
+WeaponAmmo         = 3
+WeaponChannel      = 1
+
+

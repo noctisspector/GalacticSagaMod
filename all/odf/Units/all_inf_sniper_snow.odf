@@ -1,0 +1,13 @@
+[GameObjectClass]
+ClassParent         = "all_inf_default_sniper"
+
+[Properties]
+GeometryName        = "all_inf_marksperson_white"
+GeometryLowRes      = "all_inf_marksperson_white"
+FirstPerson     = "all\alltroop;all_1st_trooper"
+
+SkeletonName            = "swbfiii"
+
+WEAPONSECTION = 1
+WeaponName         = "all_weap_inf_NT242"
+WeaponAmmo         = 0

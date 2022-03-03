@@ -1,0 +1,67 @@
+[GameObjectClass]
+ClassParent         = "all_inf_default"
+GeometryName 		= "all_inf_bothanspy2.msh"
+
+[Properties]
+GeometryName        = "all_inf_bothanspy2"
+GeometryLowRes      = "all_inf_bothanspy2"
+FirstPerson     = "all\alltroop;all_1st_trooper"
+
+
+
+//SkeletonName            = "swbfiii"
+
+//PointsToUnlock          = 10
+
+//MaxHealth           	= 800.0
+
+MaxSpeed        = 8.0
+MaxStrafeSpeed  = 6.0
+
+WEAPONSECTION = 1
+WeaponName         = "all_weap_inf_scattergun"
+WeaponAmmo         = 0
+
+WEAPONSECTION = 2
+WeaponName         = "com_weap_inf_stealth"
+WeaponAmmo         = 0
+WeaponChannel      = 1
+
+WEAPONSECTION = 3
+WeaponName         = "com_weap_inf_sonicg"
+WeaponAmmo         = 3
+WeaponChannel      = 1
+
+CAMERASECTION 		= "STAND"
+
+EyePointOffset 		= "0.0 2.0 0.0"
+TrackOffset 		= "0.0 -0.25 3.5"
+TiltValue			= "10"
+
+CAMERASECTION 		= "CROUCH"
+
+EyePointOffset 		= "0.0 1.6 0.0"
+TrackOffset 		= "0.0 -0.25 3.5"
+TiltValue			= "10"
+
+CAMERASECTION 		= "PRONE"
+
+EyePointOffset 		= "0.0 1.0 0.0"
+TrackOffset 		= "0.0 -0.25 3.0"
+TiltValue			= "10"
+
+MaxHealth 			= 350.0
+
+Acceleraton 		= 30.0
+MaxSpeed 			= 7.0
+MaxStrafeSpeed 		= 5.0
+MaxTurnSpeed 		= 2.25
+
+
+
+AimFactorPostureSpecial = 50
+AimFactorPostureStand 	= 100
+AimFactorPostureCrouch 	= 140
+AimFactorPostureProne 	= 160
+AimFactorStrafe 		= 60
+AimFactorMove 			= 70

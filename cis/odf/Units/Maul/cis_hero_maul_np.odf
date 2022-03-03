@@ -1,0 +1,7 @@
+[GameObjectClass]
+ClassParent             = "cis_hero_maul"
+
+[Properties]
+PointsToUnlock          = 0
+
+

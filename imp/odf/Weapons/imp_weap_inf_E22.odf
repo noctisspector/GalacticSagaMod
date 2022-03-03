@@ -1,0 +1,52 @@
+[WeaponClass]
+ClassParent         = "com_weap_inf_rifle_base"
+GeometryName        = "imp_weap_inf_e11.msh"
+
+[Properties]
+GeometryName        = "e22"
+HighResGeometry     = "e22"
+//imp_weap_inf_e11
+OrdnanceName        = "imp_weap_inf_E22_ord"
+FirePointName       = "hp_fire"
+
+HUDtag              = "e22"
+
+SalvoCount          = "2"
+SalvoDelay          = "0.106"
+ShotPatternCount        = 2
+ShotPatternPitchYaw     = "0.6 0.0"
+ShotPatternPitchYaw     = "-0.6 0.0"
+
+
+KickStrength        = "1.3"
+
+ShotDelay           = "0.106" 
+
+YawSpread       = "0.1"
+PitchSpread     = "0.1"
+
+SpreadPerShot       = "0"
+SpreadRecoverRate   = "0.05"
+SpreadThreshold     = "1.0"
+SpreadLimit         = "1.25"
+
+HeatPerShot         = "0.079"
+
+//******************************************************
+//***************   SOUND       ****************
+//******************************************************
+
+FireSound           = "com_weap_inf_e22_fire"
+FireEmptySound      = "com_weap_inf_ammo_empty"
+FireLoopSound       = ""
+ReloadSound         = "com_weap_inf_reload_med"
+ChargeSound         = ""
+ChargeSoundPitch    = ""
+ChangeModeSound     = "com_weap_inf_equip_med"
+WeaponChangeSound   = "com_weap_inf_equip_med"
+JumpSound           = "com_weap_inf_rifle_mvt_jump"
+LandSound           = "com_weap_inf_rifle_mvt_land"
+RollSound           = "com_weap_inf_rifle_mvt_roll"
+//ProneSound          = "com_weap_inf_rifle_mvt_lie"
+SquatSound          = "com_weap_inf_rifle_mvt_squat"
+//StandSound          = "com_weap_inf_rifle_mvt_getup"

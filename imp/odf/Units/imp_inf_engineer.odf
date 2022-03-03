@@ -1,0 +1,13 @@
+[GameObjectClass]
+ClassParent         = "imp_inf_default_engineer"
+
+[Properties]
+GeometryName        = "imp_bf3_stormtrooper"
+GeometryLowRes      = "imp_bf3_stormtrooper"
+FirstPerson         = "IMP\impstrp;imp_1st_stormtrooper"
+
+SkeletonName            = "swbfiii"
+
+AnimatedAddon = "pack" 
+GeometryAddon = "rep_addon_backpack" 
+AddonAttachJoint = "bone_ribcage"

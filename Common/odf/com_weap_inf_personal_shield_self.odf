@@ -1,0 +1,24 @@
+[WeaponClass]
+ClassLabel          = "shield"
+
+[Properties]
+HUDTag     = "hud_droideka_shield"
+Label               = "Shield"
+
+RoundsPerClip       = "1"
+ReloadTime          = "0.0"
+
+MaxShield           = 500
+AddShield           = -20
+AddShieldOff        = 100
+
+ShieldOffset        = "0.0 1.0 0.125"
+ShieldRadius        = "1.5 1.5"
+
+FireSound           = "cis_droideka_shield_on"
+//ShieldSound           = "cis_droideka_shield"
+//ShieldSound         = "droid_fx7_hum"
+
+ShieldEffect        = "fambee_shield_generator_self"
+
+

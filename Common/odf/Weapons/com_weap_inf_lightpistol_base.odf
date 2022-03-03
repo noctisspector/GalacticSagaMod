@@ -1,0 +1,20 @@
+[WeaponClass]
+ClassParent         = "com_weap_inf_rifle_base"
+
+
+[Properties]
+
+AnimationBank   = "pistol"
+
+YawSpread       = "0.3"
+PitchSpread     = "0.3"
+
+TriggerSingle       = "1"
+
+HeatPerShot         = "0.2"
+HeatRecoverRate     = "0.5"
+HeatThreshold       = "0.2"
+
+KickBuildup     = "60.0"
+
+ShotDelay           = "0.14"

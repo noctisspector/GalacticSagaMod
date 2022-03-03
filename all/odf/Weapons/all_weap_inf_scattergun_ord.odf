@@ -1,0 +1,11 @@
+[OrdnanceClass]
+ClassParent     	= "com_weap_inf_scattergun_base_ord"
+
+[Properties]
+
+LaserTexture		= "laser_texture_gold"
+LaserGlowColor      	= "254 254 18 200"
+LightColor          	= "254 254 18 200"
+EndLaserGlowColor       = "254 254 18 200" 
+EndLightColor           = "254 254 18 200" 
+LightRadius         	= "10.0"

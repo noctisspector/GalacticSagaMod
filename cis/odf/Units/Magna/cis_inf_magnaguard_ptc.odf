@@ -1,0 +1,112 @@
+[GameObjectClass]
+ClassParent           = "com_jedi_default"
+GeometryName            = "mag.msh"
+
+[Properties]
+
+PointsToUnlock          = 10
+
+MaxHealth           	= 1300.0
+
+AISizeType      	= "hover"
+
+ClothODF            = "mag_cape"
+
+GeometryName            = "mag"
+GeometryLowRes          = "mag"
+
+SkeletonName            = "grievousguard"
+SkeletonLowRes          = "magnaguardlz"
+SkeletonRootScale       = "1.24"
+
+ControlSpeed            = "sprint 3.00 0.20 0.20"
+
+MaxSpeed                = 7.0
+MaxStrafeSpeed          = 6.5
+MaxTurnSpeed            = 5.0
+JumpHeight              = 3.5
+JumpForwardSpeedBoost   = 1.5
+RecoverFromTumble       = "1"
+
+CollisionScale      = "0.0 0.0 0.0"
+
+CollisionHeadOffset = "0.0 0.0 0.0"
+
+CAMERASECTION           = "STAND"
+EyePointOffset          = "0.0 1.8 0.0"
+TrackCenter             = "0.0 1.8 0.0
+TrackOffset             = "0.0 0.0 4"
+TiltValue               = "10.0"
+
+CAMERASECTION           = "STANDZOOM"
+EyePointOffset          = "0.0 1.8 0.0"
+TrackCenter             = "0.0 1.8 0.0
+TrackOffset             = "0.4 0.05 2.8"
+TiltValue               = "3.5"
+
+CAMERASECTION           = "CROUCH"
+EyePointOffset          = "0.0 1.3 0.0"
+TrackCenter             = "0.0 1.3 0.0
+TrackOffset             = "0.0 0.15 3.5"
+TiltValue               = "10.0"
+CameraBlendTime         = "0.75"
+
+CAMERASECTION           = "CROUCHZOOM"
+EyePointOffset          = "0.0 1.3 0.0"
+TrackCenter             = "0.0 1.3 0.0
+TrackOffset             = "0.4 0.2 2.8"
+TiltValue               = "3.5"
+
+CAMERASECTION           = "SPRINT"
+EyePointOffset          = "0.0 1.8 0.0"
+TrackCenter             = "0.0 1.8 0.0
+TrackOffset             = "0.0 0.0 5.0"
+TiltValue               = "10.0"
+CameraBlendTime         = "0.75"
+
+ExplosionName       	= "cis_inf_droid_exp"
+HealthType                  = "droid"
+MaxHealth           	= 1000.0
+
+WEAPONSECTION = 1
+WeaponName     	= "cis_weap_inf_electrostaff"
+WeaponAmmo     	= 0
+
+FleeLikeAHero 		= 0
+
+ChunkFrequency              = 0.6
+
+
+
+VOUnitType      	= 093
+
+MinFootHeight = 0.3
+
+VOSound = "cis1_inf_pc_com_hostile      SpottedVO"
+VOSound = "cis1_inf_pc_com_bacta      NeedMedicVO"
+VOSound = "cis1_inf_pc_com_mechanic      NeedRepairVO"
+VOSound = "cis1_inf_pc_com_ammo      NeedAmmoVO"
+VOSound = "cis1_inf_pc_com_transport      NeedPickupVO"
+VOSound = "cis1_inf_pc_com_backup      NeedBackupVO"
+VOSound = "cis1_inf_pc_com_clear_area      AttackPositionVO"
+VOSound = "cis1_inf_pc_com_defend     DefendPositionVO"
+
+VOSound = "cis1_inf_pc_com_hostile_inVehicle      SpottedVO +InVehicle"
+VOSound = "cis1_inf_pc_com_bacta_inVehicle      NeedMedicVO +InVehicle"
+VOSound = "cis1_inf_pc_com_mechanic_inVehicle      NeedRepairVO +InVehicle"
+VOSound = "cis1_inf_pc_com_ammo_inVehicle      NeedAmmoVO +InVehicle"
+VOSound = "cis1_inf_pc_com_transport_inVehicle      NeedPickupVO +InVehicle"
+VOSound = "cis1_inf_pc_com_backup_inVehicle      NeedBackupVO +InVehicle"
+VOSound = "cis1_inf_pc_com_clear_area_inVehicle      AttackPositionVO +InVehicle"
+VOSound = "cis1_inf_pc_com_defend_inVehicle     DefendPositionVO +InVehicle"
+
+HurtSound                   = "magna_hurt"
+DeathSound                  = "magna_death"
+DamageRegionSound           = "cis_inf_com_chatter_wound"
+ShockFadeOutTime            = ""
+ShockFadeInTime             = ""
+ShockFadeOutGain            = ""
+ShockSound                  = ""
+ClothingRustleSound         = ""
+LowHealthSound              = ""
+FoleyFXClass                = "cis_inf_droid"

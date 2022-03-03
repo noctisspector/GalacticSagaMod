@@ -1,0 +1,15 @@
+[GameObjectClass]
+ClassParent         = "cis_hero_default_jango"
+
+[Properties]
+GeometryName        = "com_inf_Jango_Fett"
+GeometryLowRes      = "com_inf_Jango_Fett"
+
+//ClothODF            = "imp_inf_bobafett_cape"
+FirstPerson         = "cis\cisfett;cis_1st_jangofett"
+
+AnimationName = "fett"
+
+//SkeletonName            = "swbfiii"
+
+PointsToUnlock          = 0

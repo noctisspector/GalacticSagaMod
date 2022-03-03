@@ -1,0 +1,18 @@
+[GameObjectClass]
+ClassParent         = "rep_inf_default_heavy"
+
+[Properties]
+
+GeometryName        = "gar_inf_nabooguard"
+GeometryLowRes      = "gar_inf_nabooguard"
+
+OverrideTexture     = "gar_inf_naboo_guard_yellow"
+
+FirstPerson         = "REP\reptroop;rep_1st_trooper"
+
+//SkeletonName            = "swbfiii"
+
+WEAPONSECTION = 1
+WeaponName         = "rep_weap_inf_S5_heavy"
+WeaponAmmo         = 0
+WeaponChannel      = 0

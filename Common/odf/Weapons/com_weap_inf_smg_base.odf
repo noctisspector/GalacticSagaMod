@@ -1,0 +1,16 @@
+[WeaponClass]
+ClassParent         = "com_weap_inf_rifle_base"
+
+
+[Properties]
+
+YawSpread       = "0.9"
+PitchSpread     = "0.9"
+
+HeatPerShot         = "0.13"
+HeatRecoverRate     = "0.5"
+HeatThreshold       = "0.2"
+
+KickBuildup     = "60.0"
+
+ShotDelay           = "0.16"

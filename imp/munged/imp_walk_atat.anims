@@ -1,0 +1,31 @@
+ucft
+{
+	ANIM
+	{
+		"death01"
+		"idle"
+		"idle_leftup"
+		"idle_rightup"
+		"idle_to_leftfoot"
+		"idle_to_leftfoot_leftup"
+		"idle_to_leftfoot_rightup"
+		"leftfoot_to_idle"
+		"leftfoot_to_idle_leftup"
+		"leftfoot_to_idle_rightup"
+		"rightfoot_to_idle"
+		"rightfoot_to_idle_leftup"
+		"rightfoot_to_idle_rightup"
+		"turnl"
+		"turnl_leftup"
+		"turnl_rightup"
+		"turnr"
+		"turnr_leftup"
+		"turnr_rightup"
+		"walk_leftfoot_rightfoot"
+		"walk_leftfoot_rightfoot_leftup"
+		"walk_leftfoot_rightfoot_rightup"
+		"walk_rightfoot_leftfoot"
+		"walk_rightfoot_leftfoot_leftup"
+		"walk_rightfoot_leftfoot_rightup"
+	}
+}

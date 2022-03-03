@@ -1,0 +1,36 @@
+[OrdnanceClass]
+ClassLabel 		= "beacon"
+
+[Properties]
+//GeometryName        	= "rep_weap_inf_grenadethermal.msh"
+
+LightColor          = "252 67 67 150"
+LightRadius         = "4.0"
+
+//TrailEffect         = "com_sfx_weap_orbital_attack"
+
+LifeSpan            = "1.0"
+Velocity            = "1000.0"
+Gravity             = "1.25"
+Rebound             = "0.2"
+Friction            = "2.0"
+
+StickPerson         = 1
+StickAnimal         = 1
+StickDroid          = 1
+StickVehicle        = 1
+StickBuilding       = 1
+StickBuildingDead   = 1
+StickBuildingUnbuilt= 1
+StickTerrain        = 1
+
+SalvoCount = "4" 
+SalvoDelay = "0.25" 
+
+ScatterDistance = "20.0" 
+
+OrdnanceName = "rep_weap_inf_orbital_attack_salvo_ord"
+
+CollisionOtherSound     = "com_weap_inf_grenade_bounce"
+CollisionWaterSound     = "imp_inf_trooper_land_water"
+CollisionFoliageSound   = ""

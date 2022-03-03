@@ -1,0 +1,19 @@
+ucft
+{
+    REQN
+    {
+        "lvl"
+        "cis_all"
+		"cis_eli"
+		"cis_destroyer"
+		"cis_hover_aat"
+		"cis_walk_spider"
+		"interface_"
+		"cis_walk_dwarfspider"
+		"cis_inf_crabdroid"
+		"cis_hero_grievous_mod"
+		"cis_tread_snailtank"
+		"cis_hero_maul"
+		"cis_inf_rifleman_all"
+    }
+}

@@ -1,0 +1,12 @@
+[GameObjectClass]
+ClassParent         = "imp_hero_default_dengar"
+
+[Properties]
+GeometryName        = "imp_inf_dengar"
+GeometryLowRes      = "imp_inf_dengar"
+
+PointsToUnlock          = 16
+
+FirstPerson         = "IMP\impboba;imp_1st_bobafett"
+
+//SkeletonName            = "swbfiii"

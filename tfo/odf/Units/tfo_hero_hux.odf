@@ -1,0 +1,9 @@
+[GameObjectClass]
+ClassParent         = "tfo_hero_default_hux"
+
+[Properties]
+GeometryName        = "FO_hero_Hux_Coat"
+GeometryLowRes      = "FO_hero_Hux_Coat"
+FirstPerson         = "IMP\impstrp;imp_1st_stormtrooper"
+
+//SkeletonName            = "swbfiii"

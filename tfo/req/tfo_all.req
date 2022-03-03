@@ -1,0 +1,16 @@
+ucft
+{
+    REQN
+    {
+        "class"
+		"tfo_inf_rifleman"
+		"tfo_inf_rocketeer"
+		"tfo_inf_medic"
+		"tfo_inf_sniper"
+		"tfo_inf_heavy"
+		"tfo_inf_flametrooper"
+		"tfo_hero_hux"
+		"tfo_hero_kylo"
+		"tfo_hero_phasma"
+    }
+}

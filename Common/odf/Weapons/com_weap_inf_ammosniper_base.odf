@@ -1,0 +1,110 @@
+
+[WeaponClass]
+ClassLabel 		= "cannon"
+
+[Properties]
+ScoreForMedalsType = 1
+//MedalsTypeToLock = 1
+
+AnimationBank   = "rifle"
+
+//***********************************************
+//************* TARGET & RANGE VALUES  **********
+//***********************************************
+
+
+
+TargetEnemy     = "1"
+TargetNeutral   = "0"
+TargetFriendly  = "0"
+
+TargetPerson    = "1"
+TargetAnimal    = "1"
+TargetDroid     = "1"
+TargetVehicle   = "1"
+TargetBuilding  = "1"
+
+MinRange            = "8"
+OptimalRange        = "64"
+MaxRange            = "128"
+AIUseBubbleCircle	= "1"
+AIBubbleSizeMultiplier	= "0.6"
+
+LockOnRange     = "40.0"
+LockTime        = "0.4"
+lockOnAngle     = "1.0"
+
+ReticuleInAimingOnly = 0
+SniperScope         = 0
+ZoomFirstPerson     = 1
+ZoomMin             = "8.0"
+ZoomMax             = "8.0"
+ZoomRate            = "0.0"
+
+YawSpread       = "0.0"
+PitchSpread     = "0.0"
+
+SpreadPerShot       = "1.1"
+SpreadRecoverRate   = "4.8"
+SpreadThreshold     = "1.6"
+SpreadLimit         = "6.0"
+
+StandStillSpread    = "0.0"
+StandMoveSpread     = "0.0"
+CrouchStillSpread   = "0.0"
+CrouchMoveSpread    = "0.0"
+ProneStillSpread    = "0.0"
+ProneMoveSpread     = "0.0"
+
+HeatPerShot         = "0.0"
+HeatRecoverRate     = "0.25"
+HeatThreshold       = "0.3"
+
+KickSpread      = "3.0"
+SpreadRecover       = "5.0"
+
+KickStrength        = "5.0"
+KickBuildup     = "200.0"
+
+//***********************************************
+//*********** WEAPON PERFORMANCE VALUES *********
+//***********************************************
+
+HUDtag              = "com_weap_inf_torpedo"
+ScopeTexture        = "weapon_scope3"
+
+RoundsPerClip       = "5"
+ReloadTime          = "1.6"
+
+ShotDelay           = "0.4"
+TriggerSingle       = "1"
+
+DisplayRefire 	    = "0"
+
+SalvoCount          = "1"
+SalvoDelay          = "0.0"
+InitialSalvoDelay   = "0.1"
+SalvoTime           = "0.0"
+
+
+//***********************************************
+//***********  HUD & CONTROLLER VALUES  *********
+//***********************************************
+
+MuzzleFlash         = "small_muzzle_flash"
+MuzzleFlashEffect		= "gunkit_red"
+FlashColor          = "255 80 80 255"
+FlashLength         = 0.025
+FlashColor          = "255 100 100 255"
+FlashLength         = 0.025
+FlashLightColor     = "255 220 220 175"
+FlashLightRadius    = "2.0"
+FlashLightDuration  = "0.25"
+Discharge           = "small_smoke_effect"
+
+RecoilLengthLight   = "0.1"
+RecoilLengthHeavy   = "0.1"
+RecoilStrengthLight = "1.0"
+RecoilStrengthHeavy = "0.2"
+RecoilDecayLight    = "0.0"
+RecoilDecayHeavy    = "0.0"

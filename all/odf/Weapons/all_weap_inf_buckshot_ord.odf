@@ -1,0 +1,11 @@
+[OrdnanceClass]
+ClassParent     	= "com_weap_inf_shotgun_base_ord"
+
+[Properties]
+
+LaserTexture		= "laser_texture_gold"
+LaserGlowColor		= "224 224 160 100"
+LightColor              = "224 224 160 100"
+
+EndLaserGlowColor       = "224 224 160 100" //What color the laser glow will be by the end of the transition. Varies over DamageTransitionPeriod. (only for lasers.)
+EndLightColor           = "224 224 160 100" //What color light will be applied by the end of the transition.  Varies over DamageTransitionPeriod.

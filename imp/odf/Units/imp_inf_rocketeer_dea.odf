@@ -1,0 +1,9 @@
+[GameObjectClass]
+ClassParent         = "imp_inf_default_rocketeer"
+
+[Properties]
+GeometryName        = "imp_inf_navy_rifleman"
+GeometryLowRes      = "imp_inf_navy_rifleman"
+FirstPerson         = "IMP\impstrp;imp_1st_stormtrooper"
+
+SkeletonName            = "swbfiii"

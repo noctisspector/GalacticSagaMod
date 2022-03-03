@@ -1,0 +1,23 @@
+[GameObjectClass]
+ClassParent         = "cis_inf_default"
+
+[Properties]
+
+PointsToUnlock          = 10
+
+MaxHealth           	= 800.0
+
+MaxSpeed        = 8.0
+MaxStrafeSpeed  = 6.0
+
+WEAPONSECTION = 1
+WeaponName         = "cis_weap_inf_E5"
+WeaponAmmo         = 0
+
+WEAPONSECTION = 2
+WeaponName         = "cis_weap_inf_vibro_sword"
+WeaponAmmo         = 0
+
+
+VOUnitType           = 42
+

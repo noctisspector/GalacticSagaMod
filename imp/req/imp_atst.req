@@ -1,0 +1,10 @@
+ucft
+{
+    REQN
+    {
+        "class"
+		"imp_walk_atst"
+		"imp_walk_atst_jungle"
+		"imp_walk_atst_snow"
+    }
+}

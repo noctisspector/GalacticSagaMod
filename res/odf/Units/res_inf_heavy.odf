@@ -1,0 +1,13 @@
+[GameObjectClass]
+ClassParent         = "res_inf_default_heavy"
+
+[Properties]
+GeometryName        = "RES_inf_Assault"
+GeometryLowRes      = "RES_inf_Assault"
+FirstPerson     = "all\alltroop;all_1st_trooper"
+
+//SkeletonName            = "swbfiii"
+
+//AnimatedAddon = "pack" 
+//GeometryAddon = "all_addon_soldier_backpack" 
+//AddonAttachJoint = "bone_ribcage"

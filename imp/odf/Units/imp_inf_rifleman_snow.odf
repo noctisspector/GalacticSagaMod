@@ -1,0 +1,9 @@
+[GameObjectClass]
+ClassParent         = "imp_inf_default_rifleman"
+
+[Properties]
+GeometryName        = "imp_inf_snowtrooper"
+GeometryLowRes      = "imp_inf_snowtrooper"
+FirstPerson         = "IMP\impstrp;imp_1st_stormtrooper"
+
+//SkeletonName            = "swbfiii"

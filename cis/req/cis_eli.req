@@ -1,0 +1,11 @@
+ucft
+{
+    REQN
+    {
+        "class"
+		"cis_hero_jango_np"
+		"cis_hero_dooku_np"
+		"cis_hero_maul_np"
+		"cis_hero_grievous_mod_np"
+    }
+}

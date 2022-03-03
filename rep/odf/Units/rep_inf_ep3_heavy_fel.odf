@@ -1,0 +1,18 @@
+[GameObjectClass]
+ClassParent         = "rep_inf_default_heavy"
+
+[Properties]
+
+AnimationName		= "z6gunner"
+
+GeometryName        = "rep_inf_clonecommander_fel"
+GeometryLowRes      = "rep_inf_clonecommander_fel"
+
+
+FirstPerson         = "REP\reptroop;rep_1st_trooper"
+
+//SkeletonName            = "swbfiii"
+
+AnimatedAddon = "pack" 
+GeometryAddon = "arc_red_pauldron" 
+AddonAttachJoint = "bone_ribcage"

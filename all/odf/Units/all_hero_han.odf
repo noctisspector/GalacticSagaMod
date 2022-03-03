@@ -1,0 +1,33 @@
+[GameObjectClass]
+ClassParent         = "all_inf_default"
+
+[Properties]
+GeometryName        = "all_inf_tatooinehansolo"
+GeometryLowRes      = "all_inf_tatooinehansolo"
+FirstPerson     = "all\alltroop;all_1st_trooper"
+
+AnimationName	    = "hansolo"
+
+//SkeletonName            = "swbfiii"
+
+PointsToUnlock          = 10
+
+MaxHealth           	= 800.0
+
+WEAPONSECTION = 1
+WeaponName         = "all_weap_inf_DL44"
+WeaponAmmo         = 0
+
+WEAPONSECTION = 2
+WeaponName         = "com_weap_inf_repair"
+WeaponAmmo         = 0
+
+WEAPONSECTION = 3
+WeaponName         = "com_weap_inf_V1det"
+WeaponAmmo         = 2
+WeaponChannel      = 1
+
+WEAPONSECTION = 4
+WeaponName         = "com_weap_inf_EMP"
+WeaponAmmo         = 2
+WeaponChannel      = 1

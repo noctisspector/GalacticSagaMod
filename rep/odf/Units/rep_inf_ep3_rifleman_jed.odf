@@ -1,0 +1,17 @@
+[GameObjectClass]
+ClassParent         = "rep_inf_default_rifleman"
+GeometryName        = "com_inf_Jedi_Master_B.msh"
+
+[Properties]
+GeometryName        = "com_inf_Jedi_Master_B"
+GeometryLowRes      = "com_inf_Jedi_Master_B"
+
+ClothODF	    = "com_inf_Jedi_Master_B_Cloth"
+
+FirstPerson         = "REP\reptroop;rep_1st_trooper"
+
+//SkeletonName            = "swbfiii"
+
+WEAPONSECTION = 1
+WeaponName         = "rep_weap_inf_A280C"
+WeaponAmmo         = 0

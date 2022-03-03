@@ -1,0 +1,21 @@
+[GameObjectClass]
+ClassParent         = "imp_inf_default"
+
+[Properties]
+
+PointsToUnlock          = 10
+
+MaxHealth           	= 800.0
+
+WEAPONSECTION = 1
+WeaponName         = "imp_weap_inf_DT12"
+WeaponAmmo         = 0
+
+WEAPONSECTION = 2
+WeaponName         = "com_weap_inf_therm"
+WeaponAmmo         = 3
+WeaponChannel      = 1
+
+
+
+VOUnitType           = 42

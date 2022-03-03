@@ -1,0 +1,12 @@
+[GameObjectClass]
+ClassParent         = "cis_inf_default_officer_o"
+
+[Properties]
+GeometryName        = "cis_inf_b1_battledroid_commander"
+GeometryLowRes      = "cis_inf_b1_battledroid_commander"
+SkeletonName            = "bdroid"
+SkeletonLowRes          = "bdroidlz"
+FirstPerson             = "CIS\cisbdrd;cis_1st_bdroid"
+
+
+//SkeletonName            = "swbfiii"

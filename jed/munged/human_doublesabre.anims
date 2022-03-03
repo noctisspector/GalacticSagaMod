@@ -1,0 +1,29 @@
+ucft
+{
+	ANIM
+	{
+		"human_doublesabre_jumpattack_end_full"
+		"human_doublesabre_jumpattack_fall_full"
+		"human_doublesabre_jumpattack_land_full"
+		"human_doublesabre_jump_backward_full"
+		"human_doublesabre_jump_left_full"
+		"human_doublesabre_jump_right_full"
+		"human_doublesabre_sprint_upper"
+		"human_doublesabre_stand_attack1a_end_full"
+		"human_doublesabre_stand_attack1a_full"
+		"human_doublesabre_stand_attack1b_end_full"
+		"human_doublesabre_stand_attack1b_full"
+		"human_doublesabre_stand_attack1c_full"
+		"human_doublesabre_stand_block_front1_full"
+		"human_doublesabre_stand_block_front2_full"
+		"human_doublesabre_stand_block_idle_full"
+		"human_doublesabre_stand_block_left1_full"
+		"human_doublesabre_stand_block_left2_full"
+		"human_doublesabre_stand_block_right1_full"
+		"human_doublesabre_stand_block_right2_full"
+		"human_doublesabre_stand_dashattack_full"
+		"human_doublesabre_stand_idle_emote_full"
+		"human_doublesabre_stand_walkbackwards_full"
+		"human_doublesabre_stand_walkforward_full"
+	}
+}

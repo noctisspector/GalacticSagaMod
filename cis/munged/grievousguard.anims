@@ -1,0 +1,31 @@
+ucft
+{
+	ANIM
+	{
+		"grievousguard_sabre_jumpattack_end_full"
+		"grievousguard_sabre_jumpattack_fall_full"
+		"grievousguard_sabre_jumpattack_land_full"
+		"grievousguard_sabre_jump_backward_full"
+		"grievousguard_sabre_jump_left_full"
+		"grievousguard_sabre_jump_right_full"
+		"grievousguard_sabre_sprint_upper"
+		"grievousguard_sabre_stand_attack1a_end_full"
+		"grievousguard_sabre_stand_attack1a_full"
+		"grievousguard_sabre_stand_attack1b_end_full"
+		"grievousguard_sabre_stand_attack1b_full"
+		"grievousguard_sabre_stand_attack1c_full"
+		"grievousguard_sabre_stand_attack2c_full"
+		"grievousguard_sabre_stand_attack_backwards"
+		"grievousguard_sabre_stand_block_front1_full"
+		"grievousguard_sabre_stand_block_front2_full"
+		"grievousguard_sabre_stand_block_idle_full"
+		"grievousguard_sabre_stand_block_left1_full"
+		"grievousguard_sabre_stand_block_left2_full"
+		"grievousguard_sabre_stand_block_right1_full"
+		"grievousguard_sabre_stand_block_right2_full"
+		"grievousguard_sabre_stand_dashattack_full"
+		"grievousguard_sabre_stand_idle_emote_full"
+		"grievousguard_sabre_stand_walkbackwards_full"
+		"grievousguard_sabre_stand_walkforward_full"
+	}
+}

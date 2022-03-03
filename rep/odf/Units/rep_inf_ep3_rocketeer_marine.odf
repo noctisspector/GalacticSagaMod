@@ -1,0 +1,12 @@
+[GameObjectClass]
+ClassParent         = "rep_inf_default_rocketeer"
+
+[Properties]
+GeometryName        = "rep_inf_Galactic_Marine"
+GeometryLowRes      = "rep_inf_Galactic_Marine"
+FirstPerson             = "REP\repcomm;rep_1st_clonecommander"
+ClothODF            = "rep_inf_Galactic_Marine_Kama"
+
+OverrideTexture     = "rep_inf_Galactic_Marine_Clone"
+
+//SkeletonName            = "swbfiii"

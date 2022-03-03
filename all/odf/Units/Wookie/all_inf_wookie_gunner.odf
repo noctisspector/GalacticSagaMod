@@ -1,0 +1,20 @@
+[GameObjectClass]
+ClassParent         = "all_inf_wookie"
+
+[Properties]
+
+WEAPONSECTION = 1
+WeaponName         = "all_weap_inf_longgun"
+WeaponAmmo         = 0
+
+WEAPONSECTION = 2
+WeaponName         = "com_weap_inf_autoturret_dispenser_base"
+WeaponAmmo         = 1
+WeaponChannel      = 1
+
+WEAPONSECTION = 3
+WeaponName         = "com_weap_inf_mine_dispenser_base"
+WeaponAmmo         = 2
+WeaponChannel      = 1
+
+MaxHealth           = 500.0

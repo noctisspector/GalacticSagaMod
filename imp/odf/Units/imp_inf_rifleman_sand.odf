@@ -1,0 +1,11 @@
+[GameObjectClass]
+ClassParent         = "imp_inf_default_rifleman"
+
+[Properties]
+//AnimationName		= "z6gunner"
+
+GeometryName        = "imp_bf3_stormtrooper_sand"
+GeometryLowRes      = "imp_bf3_stormtrooper_sand"
+FirstPerson         = "IMP\impstrp;imp_1st_stormtrooper"
+
+SkeletonName            = "swbfiii"

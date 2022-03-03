@@ -1,0 +1,7 @@
+[OrdnanceClass]
+ClassParent     	= "com_weap_veh_laser_ord"
+
+[Properties]
+MaxDamage 				= "450"
+
+FadeOutTime         = "1.5"

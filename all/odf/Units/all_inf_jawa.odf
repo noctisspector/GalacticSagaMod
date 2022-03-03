@@ -1,0 +1,80 @@
+[GameObjectClass]
+ClassParent         = "all_inf_default_rifleman"
+
+[Properties]
+GeometryName 			= "tat_inf_jawa"
+GeometryLowRes 			= "tat_inf_jawa_low1"
+SkeletonName			= "jawa"
+SkeletonLowRes			= "jawalz"
+FirstPerson     = "all\alltroop;all_1st_trooper"
+
+SkeletonRootScale		= "0.6"
+SkeletonRootScaleLowRes		= "0.6"
+CollisionRootScale		= "0.6"
+
+// these are correct for the dudes running around in Tat 2.....but not if you play as one, WTF?
+CollisionHeadOffset 		= "0.0 0.85 0.1"
+CollisionTorsoOffset 		= "0.0 0.7 0.0"
+
+CAMERASECTION 			= "STAND"
+
+EyePointOffset 			= "0.0 2.0 0.0"
+TrackOffset 			= "0.0 -0.75 3.5"
+TiltValue			= "7"
+
+CAMERASECTION 			= "CROUCH"
+
+EyePointOffset 			= "0.0 2.0 0.0"
+TrackOffset 			= "0.0 -0.75 3.5"
+TiltValue			= "7"
+
+CAMERASECTION       	= "SPRINT"
+
+EyePointOffset 			= "0.0 2.0 0.0"
+TrackOffset 			= "0.0 -0.75 5.0"
+TiltValue			= "7"
+CameraBlendTime     	= "0.75"
+
+Acceleraton 			= 30.0
+MaxSpeed 			= 5.0
+MaxStrafeSpeed 			= 4.0
+MaxTurnSpeed 			= 3.0
+
+WEAPONSECTION = 1
+WeaponName1         = "all_weap_inf_CA87"
+WeaponAmmo1         = 0
+
+WEAPONSECTION = 2
+WeaponName2         = "com_weap_inf_EMP"
+WeaponAmmo2         = 2
+WeaponChannel2      = 1
+
+//SOUND
+HurtSound			= "tat_inf_jawa_hurt"
+DeathSound              	= "tat_inf_jawa_death"
+//LeftFootstepSound       	= "soldierstepleft"
+//RightFootstepSound      	= "soldierstepright"
+AcquiredTargetSound     	= "tat_inf_jawa_chatter"
+HidingSound             	= "tat_inf_jawa_chatter"
+ApproachingTargetSound  	= "tat_inf_jawa_chatter"
+FleeSound               	= "tat_inf_jawa_chatter"
+PreparingForDamageSound 	= "tat_inf_jawa_chatter"
+HeardEnemySound         	= "tat_inf_jawa_heard"
+//WaterWadingSound        	= "com_inf_wading"
+//ShockFadeOutTime        	= "0.8"
+//ShockFadeInTime         	= "2.0"
+//RollSound               	= "com_inf_roll"
+JumpSound               	= ""
+LandSound               	= ""
+ClothingRustleSound     	= ""
+LowHealthSound                  = "tat_inf_jawa_chatter"
+LowHealthThreshold              = "1.1"
+
+
+VOUnitType                      = 172
+
+VOSound = "jawa_inf_chatter_AcquiredTarget    AcquiredTarget"
+VOSound = "jawa_inf_chatter_NearbyFriendlySlaughter      NearbyFriendlySlaughter"
+VOSound = "jawa_inf_chatter_KillingSpree4      KillingSpree4"
+VOSound = "jawa_inf_chatter_Grenade      Grenade"
+VOSound = "jawa_inf_chatter_FriendlyFire      FriendlyFire"

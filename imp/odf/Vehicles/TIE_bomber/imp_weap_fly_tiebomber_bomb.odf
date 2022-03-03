@@ -1,0 +1,14 @@
+[WeaponClass]
+ClassParent     = "com_weap_veh_fly_bombs"
+
+[Properties]
+OrdnanceName    = "imp_weap_fly_tiebomber_bomb_ord"
+
+
+
+//************************************************
+//**********************SOUND*********************
+//************************************************
+
+FireSound               = "imp_weap_fly_tiebomber_bomb_fire"
+//ReloadSound           = "vehicle_reload"

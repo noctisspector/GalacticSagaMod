@@ -1,0 +1,9 @@
+[WeaponClass]
+ClassParent     = "com_weap_veh_fly_torpedo"
+
+[Properties]
+
+OrdnanceName    = "all_weap_fly_xwing_ptorpedo_ord"
+
+FireSound       = "all_weap_fly_xwing_ptorpedo_fire"
+FireSoundStop   = "0"

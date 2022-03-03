@@ -1,0 +1,20 @@
+ucft
+{
+	ANIM
+	{
+		"z6gunner_rifle_crouch_idle_emote_full"
+		"z6gunner_rifle_crouch_idle_kneebreak_full"
+		"z6gunner_rifle_standalert_idle_emote_upper"
+		"z6gunner_rifle_standalert_runforward_upper"
+		"z6gunner_rifle_standalert_walkforward_upper"
+		"z6gunner_rifle_stand_idle_emote_upper"
+		"z6gunner_rifle_stand_reload_upper"
+		"z6gunner_rifle_stand_runbackward"
+		"z6gunner_rifle_stand_runforward"
+		"z6gunner_rifle_stand_shoot2_upper"
+		"z6gunner_rifle_stand_shoot_secondary2_upper"
+		"z6gunner_rifle_stand_shoot_secondary_upper"
+		"z6gunner_rifle_stand_shoot_upper"
+		"z6gunner_rifle_stand_walkforward"
+	}
+}

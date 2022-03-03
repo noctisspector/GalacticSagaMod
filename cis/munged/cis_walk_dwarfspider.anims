@@ -1,0 +1,14 @@
+ucft
+{
+	ANIM
+	{
+		"idle"
+		"idle_to_leftfoot"
+		"leftfoot_to_idle"
+		"rightfoot_to_idle"
+		"turnl"
+		"turnr"
+		"walk_leftfoot_rightfoot"
+		"walk_rightfoot_leftfoot"
+	}
+}

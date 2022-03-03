@@ -1,0 +1,6 @@
+[GameObjectClass]       
+ClassLabel          = "cloth"
+
+[Properties]
+attachedmesh    = "com_inf_Jedi_Master_Anakin_Skywalker_Cloaked"
+priority = 1.0

@@ -1,0 +1,26 @@
+[GameObjectClass]
+ClassParent         = "imp_inf_default"
+
+[Properties]
+
+PointsToUnlock          = 10
+
+MaxHealth           	= 500.0
+AddHealth           = 20.0
+
+WEAPONSECTION = 1
+WeaponName         = "imp_weap_inf_relby"
+WeaponAmmo         = 0
+
+WEAPONSECTION = 2
+WeaponName         = "com_weap_inf_mine_dispenser_base"
+WeaponAmmo         = 5
+WeaponChannel      = 1
+
+VOUnitType           = 42
+
+MaxSpeed                = 9.0       // base forward speed
+MaxStrafeSpeed          = 6.6       // base right/left speed
+MaxTurnSpeed            = 6.0       // base turn speed
+JumpHeight              = 3.5	    // base jump height in meters
+RecoverFromTumble       = "1"

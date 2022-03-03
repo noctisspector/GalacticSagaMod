@@ -1,0 +1,30 @@
+[WeaponClass]
+ClassParent         = "com_weap_inf_rifle_base"
+
+
+[Properties]
+
+PitchSpread         = "4.1"
+YawSpread           = "4.1"
+
+HeatPerShot         = "0.045"
+HeatRecoverRate     = "0.3"
+HeatThreshold       = "0.3"
+
+MinRange        = "0"
+OptimalRange    = "12"
+MaxRange        = "30"
+
+KickSpread      = "0.5"
+SpreadRecover       = "5.0"
+
+KickStrength        = "0.45"
+KickBuildup     = "70.0"
+
+TriggerSingle       = "1"
+ShotDelay           = "0.8"
+
+SalvoCount          = "1"
+ShotsPerSalvo       = "15"
+SalvoDelay          = "0.0"
+InitialSalvoDelay   = "0.0"

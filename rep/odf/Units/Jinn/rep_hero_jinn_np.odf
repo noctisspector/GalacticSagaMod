@@ -1,0 +1,10 @@
+[GameObjectClass]
+ClassParent             = "rep_hero_jinn"
+
+[Properties]
+
+PointsToUnlock          = 0
+
+
+
+

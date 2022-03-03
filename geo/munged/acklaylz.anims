@@ -1,0 +1,9 @@
+ucft
+{
+	ANIM
+	{
+		"acklaylz_rifle_stand_death_backward"
+		"acklaylz_rifle_stand_idle_emote"
+		"acklaylz_rifle_stand_runforward"
+	}
+}

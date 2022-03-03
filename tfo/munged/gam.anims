@@ -1,0 +1,24 @@
+ucft
+{
+	ANIM
+	{
+		"gam_sabre_diveforward"
+		"gam_sabre_stand_attack1a"
+		"gam_sabre_stand_death_backward"
+		"gam_sabre_stand_death_forward"
+		"gam_sabre_stand_death_left"
+		"gam_sabre_stand_death_right"
+		"gam_sabre_stand_getupback"
+		"gam_sabre_stand_getupfront"
+		"gam_sabre_stand_hitback"
+		"gam_sabre_stand_hitfront"
+		"gam_sabre_stand_hitleft"
+		"gam_sabre_stand_hitright"
+		"gam_sabre_stand_idle_emote"
+		"gam_sabre_stand_landhard"
+		"gam_sabre_stand_landsoft"
+		"gam_sabre_stand_runbackward"
+		"gam_sabre_stand_runforward"
+		"gam_sabre_stand_walkforward"
+	}
+}

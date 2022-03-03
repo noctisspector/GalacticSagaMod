@@ -1,0 +1,9 @@
+[GameObjectClass]
+ClassParent         = "all_inf_default_medic"
+
+[Properties]
+GeometryName        = "com_inf_Weequay_Skiff_Guard"
+GeometryLowRes      = "com_inf_Weequay_Skiff_Guard"
+FirstPerson     = "all\allpilot;all_1st_pilot"
+
+SkeletonName            = "swbfiii"

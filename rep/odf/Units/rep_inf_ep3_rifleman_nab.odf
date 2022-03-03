@@ -1,0 +1,14 @@
+[GameObjectClass]
+ClassParent         = "rep_inf_default_rifleman"
+
+[Properties]
+GeometryName        = "gar_inf_nabooguard"
+GeometryLowRes      = "gar_inf_nabooguard"
+
+OverrideTexture     = "gar_inf_naboo_guard_blue"
+
+FirstPerson         = "REP\reptroop;rep_1st_trooper"
+
+WEAPONSECTION = 1
+WeaponName         = "rep_weap_inf_CR2"
+WeaponAmmo         = 0

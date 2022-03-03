@@ -1,0 +1,24 @@
+[GameObjectClass]
+ClassParent         = "rep_inf_default"
+
+[Properties]
+WEAPONSECTION = 1
+WeaponName         = "rep_weap_inf_DC19"
+WeaponAmmo         = 0
+
+WEAPONSECTION = 2
+WeaponName         = "com_weap_inf_stealth"
+WeaponAmmo         = 0
+WeaponChannel      = 1
+
+WEAPONSECTION = 3
+WeaponName         = "com_weap_inf_EMP"
+WeaponAmmo         = 2
+WeaponChannel      = 1
+
+EnergyRestore           = 12.0      // energy regained per second if moving
+
+ScanningRange       = 30.0
+TransmitRange       = 300.0
+
+

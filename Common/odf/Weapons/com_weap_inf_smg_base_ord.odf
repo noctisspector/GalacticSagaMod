@@ -1,0 +1,9 @@
+[OrdnanceClass]
+ClassParent     	= "com_weap_inf_rifle_base_ord"
+
+[Properties]
+
+MaxDamage           	= "105"
+DamageTransitionDelay   = "0.1"
+DamageTransitionPeriod  = "0.15"
+DamageFinalDamage       = "80"

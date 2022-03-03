@@ -1,0 +1,11 @@
+[OrdnanceClass]
+ClassParent     	= "com_weap_inf_caster_base_ord"
+
+[Properties]
+LaserTexture        	= "laser_texture_green"
+LaserGlowColor      	= "61 252 56 100"
+LightColor          	= "61 252 56 100"
+EndLaserGlowColor       = "61 252 56 100" 
+EndLightColor           = "61 252 56 100"
+	
+ExplosionName = "com_weap_inf_general_exp_GREEN"

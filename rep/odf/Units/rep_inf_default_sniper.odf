@@ -1,0 +1,23 @@
+[GameObjectClass]
+ClassParent         = "rep_inf_default"
+
+
+[Properties]
+
+MaxSpeed                = 8.0
+MaxStrafeSpeed          = 6.0
+
+WEAPONSECTION = 1
+WeaponName         = "rep_weap_inf_Valken"
+WeaponAmmo         = 0
+
+WEAPONSECTION = 2
+WeaponName         = "rep_weap_inf_DC17"
+WeaponAmmo         = 0
+
+WEAPONSECTION = 3
+WeaponName         = "com_weap_inf_probe"
+WeaponAmmo         = 2
+WeaponChannel	   = 1
+
+VOUnitType        	= 121

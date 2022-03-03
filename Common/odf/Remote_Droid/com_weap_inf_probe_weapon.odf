@@ -1,0 +1,7 @@
+[WeaponClass]
+ClassParent         = "com_weap_inf_pistol_base"
+
+
+[Properties]
+OrdnanceName        = "com_weap_inf_probe_weapon_ord"
+FireSound           = "com_weap_inf_dc15s_fire"

@@ -1,0 +1,37 @@
+ucft
+{
+    REQN
+    {
+        "class"
+		"all_inf_rifleman"
+		"all_inf_rifleman_fleet"
+		"all_inf_rocketeer"
+		"all_inf_medic"
+		"all_inf_medic_merc"
+		"all_inf_sniper"
+		"all_inf_heavy"
+		"all_inf_heavy_militia"
+		"all_inf_spy"
+		"all_inf_wookie"
+		"all_inf_wookie_warrior"
+		"all_inf_wookie_gunner"
+		"all_inf_wookie_sapper"
+		"all_inf_rifleman_snow"
+		"all_inf_rocketeer_snow"
+		"all_inf_sniper_snow"
+		"all_inf_heavy_snow"
+		"all_inf_wookie_snow"
+		"all_hover_combatspeeder"
+		"all_hero_wedge"
+		"all_hero_nien"
+		"all_hero_han"
+		"all_hero_luke_jedi"
+		"all_hero_luke_jedi_snow"
+		"all_hero_leia"
+		"all_fly_snowspeeder"
+		"all_inf_jawa"
+		"all_inf_chewie"
+		"all_inf_katarn"
+		"all_hero_bothan"
+    }
+}

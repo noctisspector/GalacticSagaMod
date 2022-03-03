@@ -1,0 +1,11 @@
+[GameObjectClass]
+ClassParent         = "tfo_inf_default_flametrooper"
+
+[Properties]
+//AnimationName		= "z6gunner"
+
+GeometryName        = "ep7_flametrooper"
+GeometryLowRes      = "ep7_flametrooper"
+FirstPerson         = "IMP\impstrp;imp_1st_stormtrooper"
+
+//SkeletonName            = "swbfiii"

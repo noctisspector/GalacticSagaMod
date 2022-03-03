@@ -1,0 +1,26 @@
+[GameObjectClass]
+ClassParent         = "rep_inf_default_rifleman"
+
+[Properties]
+GeometryName        = "gar_inf_nabooguard"
+GeometryLowRes      = "gar_inf_nabooguard"
+
+OverrideTexture     = "gar_inf_naboo_guard_yellow"
+
+FirstPerson         = "REP\reptroop;rep_1st_trooper"
+
+//SkeletonName            = "swbfiii"
+
+WEAPONSECTION = 1
+WeaponName         = "com_weap_inf_MPLlauncher"
+WeaponAmmo         = 4
+
+WEAPONSECTION = 2
+WeaponName         = "rep_weap_inf_S5"
+WeaponAmmo         = 0
+WeaponChannel      = 0
+
+WEAPONSECTION = 3
+WeaponName         = "com_weap_inf_frag"
+WeaponAmmo         = 2
+WeaponChannel      = 1

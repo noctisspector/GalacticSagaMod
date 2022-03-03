@@ -1,0 +1,13 @@
+[GameObjectClass]
+ClassParent         = "imp_inf_default_medic"
+
+[Properties]
+GeometryName        = "imp_inf_gunner"
+GeometryLowRes      = "imp_inf_gunner"
+FirstPerson         = "IMP\impstrp;imp_1st_stormtrooper"
+
+//SkeletonName            = "swbfiii"
+
+//AnimatedAddon = "pack" 
+//GeometryAddon = "rep_addon_backpack" 
+//AddonAttachJoint = "bone_ribcage"

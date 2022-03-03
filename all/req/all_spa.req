@@ -1,0 +1,12 @@
+ucft
+{
+    REQN
+    {
+        "class"
+		"all_inf_pilot"
+		"all_inf_marine"
+		"all_inf_engineer"
+		"all_fly_xwing_sc"
+		"all_fly_ywing_sc"
+    }
+}

@@ -1,0 +1,1 @@
+-keep cis_tank_tread_tracks aimer_left aimer_right -keepmaterial cis_tank_tread_tracks -shadowOn

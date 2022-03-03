@@ -1,0 +1,29 @@
+[WeaponClass]
+
+ClassLabel      = "melee"
+ClassParent     = "com_weap_inf_lightsaber"
+
+[Properties]
+
+GeometryName    = "for_kylo_saber_hilt"
+//ComboAnimationBank  = "human_sabre melee cis_hero_countdooku"
+ComboAnimationBank  = "human_sabre melee cis_hero_countdooku"
+
+NumDamageEdges			= "3"
+FirePointName       = "hp_fire_1"
+LightSaberLength	= "1.1"
+LightSaberWidth		= "0.07"
+LightSaberTexture 	= "darkredlightsabre"
+LightSaberTrailColor = "255 0 0 128"
+
+FirePointName       = "hp_fire_2"
+LightSaberLength	= "0.1"
+LightSaberWidth		= "0.06"
+LightSaberTexture 	= "darkredlightsabre"
+LightSaberTrailColor = "255 0 0 128"
+
+FirePointName       = "hp_fire_3"
+LightSaberLength	= "0.1"
+LightSaberWidth		= "0.06"
+LightSaberTexture 	= "darkredlightsabre"
+LightSaberTrailColor = "255 0 0 128"

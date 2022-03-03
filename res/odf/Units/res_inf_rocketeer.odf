@@ -1,0 +1,10 @@
+[GameObjectClass]
+ClassParent         = "res_inf_default_rocketeer"
+
+[Properties]
+GeometryName        = "RES_inf_Assault"
+GeometryLowRes      = "RES_inf_Assault"
+FirstPerson     = "all\alltroop;all_1st_trooper"
+
+//SkeletonName            = "swbfiii"
+

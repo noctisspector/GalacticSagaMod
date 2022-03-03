@@ -1,0 +1,14 @@
+ucft
+{
+    REQN
+    {
+        "class"
+        "imp_inf_pilot"
+		"imp_inf_marine"
+		"imp_inf_engineer"
+		"imp_fly_tiefighter_sc"
+		"imp_fly_tiebomber_sc"
+		"imp_fly_tieinterceptor"
+		"imp_fly_trooptrans"
+    }
+}

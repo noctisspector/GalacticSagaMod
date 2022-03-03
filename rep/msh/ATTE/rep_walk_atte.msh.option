@@ -1,0 +1,2 @@
+-bump Rep_walk_sixleg
+-keep aimer_Fgun_1 aimer_Fgun_2 aimer_Fgun_3 aimer_Fgun_4 aimer_maincannon_x aimer_maincannon_y aimer_Rgun_1 aimer_Rgun_2 -nocollision -lodgroup bigmodel  -donotmergeskins 

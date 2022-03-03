@@ -1,0 +1,64 @@
+[WeaponClass]
+ClassParent         = "com_weap_inf_lmg_base"
+GeometryName        = "PlasmaCannon.msh"
+
+[Properties]
+GeometryName        = "PlasmaCannon"
+HighResGeometry     = "PlasmaCannon"
+OrdnanceName        = "imp_weap_inf_lobber_minigun_ord"
+FirePointName       = "hp_fire"
+
+HUDtag              = "PlasmaCannon"
+
+WarmUpTime 		= 0.13
+CoolDownTime 		= 0.0
+
+WarmUpSound         = "com_weap_inf_chargeup_fire"
+WarmUpSoundStartPitch   = 1.0
+WarmUpSoundFadeInTime   = 0.0
+WarmUpSoundFadeOutTime  = 0.0
+
+RecoilLengthLight   = "0.1"
+RecoilLengthHeavy   = "0.1"
+RecoilStrengthLight = "1.0"
+RecoilStrengthHeavy = "0.2"
+RecoilDecayLight    = "0.0"
+RecoilDecayHeavy    = "0.0"
+
+//******************************************************
+//***************   SOUND       ****************
+//******************************************************
+
+MuzzleFlash         = "small_muzzle_flash"
+MuzzleFlashEffect		= "gunkit_blue"
+FlashColor          = "80 80 255 255"     
+FlashLength         = 0.025               
+FlashColor          = "100 100 255 255"   
+FlashLength         = 0.025               
+FlashLightColor     = "220 220 255 175"   
+FlashLightRadius    = "2.0"               
+FlashLightDuration  = "0.25"              
+Discharge           = "small_smoke_effect"
+
+WarmUpSound         = "rep_weap_inf_chaingun_spin"
+WarmUpSoundStartPitch   = 0.5
+WarmUpSoundFadeInTime   = 0.2
+WarmUpSoundFadeOutTime  = 0.2
+
+BarrelSound         = "rep_weap_inf_chaingun_fire"
+BarrelSoundFadeInTime   = 0.2
+BarrelSoundFadeOutTime  = 0.1
+
+FireEmptySound      = "com_weap_inf_ammo_empty"
+FireLoopSound       = ""
+ReloadSound         = "com_weap_inf_reload_med"
+ChargeSound         = ""
+ChargeSoundPitch    = ""
+ChangeModeSound     = "com_weap_inf_equip_med"
+WeaponChangeSound   = "com_weap_inf_equip_med"
+JumpSound           = "com_weap_inf_rifle_mvt_jump"
+LandSound           = "com_weap_inf_rifle_mvt_land"
+RollSound           = "com_weap_inf_rifle_mvt_roll"
+//ProneSound          = "com_weap_inf_rifle_mvt_lie"
+SquatSound          = "com_weap_inf_rifle_mvt_squat"
+//StandSound          = "com_weap_inf_rifle_mvt_getup"

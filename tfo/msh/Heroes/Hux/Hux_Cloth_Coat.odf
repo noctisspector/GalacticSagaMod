@@ -1,0 +1,7 @@
+[GameObjectClass]       
+ClassLabel          = "cloth"
+
+[Properties]
+attachedmesh	= "FO_hero_Hux_Coat"
+Dampening = 0.8
+Priority = 1

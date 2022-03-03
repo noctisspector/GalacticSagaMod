@@ -1,0 +1,30 @@
+[WeaponClass]
+ClassParent         = "com_weap_inf_explmg_base"
+GeometryName        = "imp_T-21.msh"
+
+[Properties]
+GeometryName        = "imp_T-21"
+HighResGeometry     = "imp_1st_T-21"
+OrdnanceName        = "imp_weap_inf_T21_ord"
+FirePointName       = "hp_fire"
+
+//HUDtag              = "imp_T-21"
+
+//******************************************************
+//***************   SOUND       ****************
+//******************************************************
+
+FireSound           = "com_weap_inf_t21_fire"
+FireEmptySound      = "com_weap_inf_ammo_empty"
+FireLoopSound       = ""
+ReloadSound         = "com_weap_inf_reload_med"
+ChargeSound         = ""
+ChargeSoundPitch    = ""
+ChangeModeSound     = "com_weap_inf_equip_med"
+WeaponChangeSound   = "com_weap_inf_equip_med"
+JumpSound           = "com_weap_inf_rifle_mvt_jump"
+LandSound           = "com_weap_inf_rifle_mvt_land"
+RollSound           = "com_weap_inf_rifle_mvt_roll"
+//ProneSound          = "com_weap_inf_rifle_mvt_lie"
+SquatSound          = "com_weap_inf_rifle_mvt_squat"
+//StandSound          = "com_weap_inf_rifle_mvt_getup"

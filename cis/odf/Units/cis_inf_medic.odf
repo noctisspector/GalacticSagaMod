@@ -1,0 +1,13 @@
+[GameObjectClass]
+ClassParent     	= "cis_inf_default_medic"
+
+
+[Properties]
+UnitType            	= "trooper"
+
+GeometryName        	= "cis_inf_b1_battledroid_pilot"
+GeometryLowRes      	= "cis_inf_b1_battledroid_pilot"
+SkeletonName            = "bdroid"
+SkeletonLowRes          = "bdroidlz"
+
+FirstPerson             = "CIS\cisbdrd;cis_1st_bdroid"

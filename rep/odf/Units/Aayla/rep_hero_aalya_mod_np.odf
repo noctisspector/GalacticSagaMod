@@ -1,0 +1,10 @@
+[GameObjectClass]
+ClassParent             = "rep_hero_aalya_mod"
+
+[Properties]
+
+PointsToUnlock          = 0
+
+
+
+

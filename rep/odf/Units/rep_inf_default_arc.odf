@@ -1,0 +1,31 @@
+[GameObjectClass]
+ClassParent         = "rep_inf_default"
+
+[Properties]
+
+PointsToUnlock          = 10
+
+MaxHealth           	= 800.0
+
+//"
+//AnimatedAddon         = "left_gun"
+//GeometryAddon         = "rep_weap_inf_pistol_mini_r" // the pistols meshname
+//AddonAttachJoint      = "hp_weapons_1"
+//"
+//AnimationName            = "jango"
+
+WEAPONSECTION = 1
+WeaponName         = "rep_weap_inf_DC17_dual"
+WeaponAmmo         = 0
+
+WEAPONSECTION = 2
+WeaponName         = "rep_weap_inf_orbital_attack"
+WeaponAmmo         = 2
+
+WEAPONSECTION = 3
+WeaponName         = "com_weap_inf_EMP"
+WeaponAmmo         = 3
+WeaponChannel      = 1
+
+VOUnitType           = 42
+

@@ -1,0 +1,9 @@
+[GameObjectClass]
+ClassParent         = "all_inf_default_engineer"
+
+[Properties]
+GeometryName        = "all_inf_engineer"
+GeometryLowRes      = "all_inf_engineer"
+FirstPerson     = "all\alltroop;all_1st_trooper"
+
+//SkeletonName            = "swbfiii"

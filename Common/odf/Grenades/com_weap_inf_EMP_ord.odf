@@ -1,0 +1,35 @@
+[OrdnanceClass]
+ClassLabel          = "haywire"
+
+[Properties]
+GeometryName        = "weap_inf_ECdetonator"
+ExplosionTrigger        = "com_weap_inf_EMP_exp"
+ExplosionDeath          = "com_weap_inf_EMP_exp"
+ExplosionExpire         = "com_weap_inf_EMP_exp"
+LightColor          = "3 3 253 150"
+LightRadius         = "4.0"
+
+DisableTime = "6"
+
+ImpactEffectWater   = "com_sfx_watersplash_sm"
+//ImpactEffect        = "com_sfx_explosion_lg"
+TrailEffect         = "com_sfx_mineblink_blue"
+
+LifeSpan            = "0.3"
+Velocity            = "25.0"
+Gravity             = "1.25"
+Rebound             = "0.2"
+Friction            = "2.0"
+
+StickPerson         = 0
+StickAnimal         = 0
+StickDroid          = 0
+StickVehicle        = 1
+StickBuilding       = 1
+StickBuildingDead   = 0
+StickBuildingUnbuilt= 0
+StickTerrain        = 0
+
+CollisionOtherSound     = "com_weap_inf_grenade_bounce"
+CollisionWaterSound     = "imp_inf_trooper_land_water"
+CollisionFoliageSound   = ""

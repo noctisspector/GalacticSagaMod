@@ -1,0 +1,6 @@
+[GameObjectClass]
+ClassParent             = "cis_hero_grievous_mod"
+
+[Properties]
+PointsToUnlock          = 0
+

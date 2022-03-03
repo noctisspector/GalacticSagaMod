@@ -1,0 +1,15 @@
+[GameObjectClass]
+ClassParent         = "rep_inf_default_medic"
+
+[Properties]
+GeometryName        = "rep_inf_TCW_ARF_Recon_Trooper"
+GeometryLowRes      = "rep_inf_TCW_ARF_Recon_Trooper"
+
+
+FirstPerson         = "REP\reptroop;rep_1st_trooper"
+
+//SkeletonName            = "swbfiii"
+
+//AnimatedAddon = "pack" 
+//GeometryAddon = "rep_addon_backpack" 
+//AddonAttachJoint = "bone_ribcage"

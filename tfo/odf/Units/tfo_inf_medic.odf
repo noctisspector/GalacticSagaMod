@@ -1,0 +1,13 @@
+[GameObjectClass]
+ClassParent         = "tfo_inf_default_medic"
+
+[Properties]
+GeometryName        = "fo_new_inf_officer_sgt"
+GeometryLowRes      = "fo_new_inf_officer_sgt"
+FirstPerson         = "IMP\impstrp;imp_1st_stormtrooper"
+
+//SkeletonName            = "swbfiii"
+
+//AnimatedAddon = "pack" 
+//GeometryAddon = "rep_addon_backpack" 
+//AddonAttachJoint = "bone_ribcage"

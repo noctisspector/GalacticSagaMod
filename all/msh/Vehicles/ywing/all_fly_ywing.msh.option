@@ -1,0 +1,1 @@
+-lodgroup bigmodel -keep gun_R gun_L cannon_R cannon_L turret_base turret_back -bump all_fly_ywing

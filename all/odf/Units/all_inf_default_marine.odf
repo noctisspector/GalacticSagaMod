@@ -1,0 +1,20 @@
+[GameObjectClass]
+ClassParent         = "all_inf_default"
+
+[Properties]
+WEAPONSECTION = 1
+WeaponName         = "all_weap_inf_A280C"
+WeaponAmmo         = 0
+
+WEAPONSECTION = 2
+WeaponName         = "all_weap_inf_launcher"
+WeaponAmmo         = 5
+
+WEAPONSECTION = 3
+WeaponName         = "com_weap_inf_frag"
+WeaponAmmo         = 2
+WeaponChannel      = 1
+
+
+
+

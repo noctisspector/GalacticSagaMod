@@ -1,0 +1,1 @@
+-keep aimer_y_head aimer_x_gun -scale 0.15 -vertexlighting -shadowOn -bump CIS_walk_dwarf

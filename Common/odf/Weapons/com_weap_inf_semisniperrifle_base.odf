@@ -1,0 +1,61 @@
+[WeaponClass]
+ClassParent         = "com_weap_inf_rifle_base"
+
+
+[Properties]
+
+MinRange            = "8"
+OptimalRange        = "64"
+MaxRange            = "128"
+AIUseBubbleCircle	= "1"
+AIBubbleSizeMultiplier	= "0.6"
+
+ReticuleInAimingOnly = 0
+SniperScope         = 0
+ZoomFirstPerson     = 1
+ZoomMin             = "8.0"
+ZoomMax             = "8.0"
+ZoomRate            = "0.0"
+
+YawSpread       = "0.0"
+PitchSpread     = "0.0"
+
+HeatPerShot         = "0.2"
+HeatRecoverRate     = "0.25"
+HeatThreshold       = "0.3"
+
+KickSpread      = "3.0"
+SpreadRecover       = "5.0"
+
+KickStrength        = "3.0"
+KickBuildup     = "200.0"
+
+SpreadPerShot       = "1.1"
+
+MuzzleFlash         = "small_muzzle_flash"
+MuzzleFlashEffect		= "gunkit_red"
+FlashColor          = "255 80 80 255"
+FlashLength         = 0.025
+FlashColor          = "255 100 100 255"
+FlashLength         = 0.025
+FlashLightColor     = "255 220 220 175"
+FlashLightRadius    = "2.0"
+FlashLightDuration  = "0.25"
+Discharge           = "small_smoke_effect"
+
+RecoilLengthLight   = "0.1"
+RecoilLengthHeavy   = "0.1"
+RecoilStrengthLight = "1.0"
+RecoilStrengthHeavy = "0.2"
+RecoilDecayLight    = "0.0"
+RecoilDecayHeavy    = "0.0"
+SpreadRecoverRate   = "4.8"
+SpreadThreshold     = "1.6"
+SpreadLimit         = "6.0"
+
+ShotDelay           = "0.2"
+TriggerSingle       = "1"
+
+InitialSalvoDelay   = "0.05"
+
+ScopeTexture        = "weapon_scope3"

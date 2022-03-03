@@ -1,0 +1,10 @@
+[GameObjectClass]
+ClassParent         = "res_inf_default_jettrooper"
+
+[Properties]
+GeometryName        = "RES_Jet_Trooper"
+GeometryLowRes      = "RES_Jet_Trooper"
+FirstPerson         = "IMP\impstrp;imp_1st_stormtrooper"
+
+//SkeletonName            = "swbfiii"
+

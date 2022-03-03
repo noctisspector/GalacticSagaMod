@@ -1,0 +1,15 @@
+[WeaponClass]
+ClassParent     = "com_weap_veh_fly_multilasers_minigun"
+
+
+[Properties]
+OrdnanceName    = "imp_weap_fly_tiebomber_cannon_ord"
+
+WarmUpSound         = "tur_weap_fly_chaingun_spin"
+WarmUpSoundStartPitch   = 0.5
+WarmUpSoundFadeInTime   = 0.2
+WarmUpSoundFadeOutTime  = 0.2
+
+BarrelSound         = "tur_weap_fly_chaingun_fire"
+BarrelSoundFadeInTime   = 0.2
+BarrelSoundFadeOutTime  = 0.1

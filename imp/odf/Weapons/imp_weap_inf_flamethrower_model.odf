@@ -1,0 +1,12 @@
+[WeaponClass]
+ClassParent         = "com_weap_inf_flamethrower"
+GeometryName        = "rep_weap_inf_flamethrower_underhand.msh"
+
+[Properties]
+GeometryName        = "rep_weap_inf_flamethrower_underhand"
+HighResGeometry     = "rep_weap_inf_flamethrower_underhand"
+//imp_weap_inf_e11
+
+FirePointName       = "hp_fire"
+
+HUDtag              = "imp_weap_inf_e11"

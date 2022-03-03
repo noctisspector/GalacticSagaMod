@@ -1,0 +1,1 @@
+-keep aimer_missle_y aimer_missle_x  -lodgroup bigmodel -shadowOn 

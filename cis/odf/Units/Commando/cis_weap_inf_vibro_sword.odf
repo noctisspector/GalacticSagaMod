@@ -1,0 +1,18 @@
+[WeaponClass]
+
+ClassLabel          = "melee"
+ClassParent			= "com_weap_inf_lightsaber"
+
+[Properties]
+
+GeometryName        = "bx_sword"
+ComboAnimationBank	= "human_sabre melee cis_hero_countdooku"
+
+FirePointName       = "hp_blade"
+LightSaberLength	= "1.0"
+LightSaberWidth		= "0.08"
+//LightSaberTexture 	= "greenlightsabre"
+LightSaberTrailColor = "224 224 160 100"
+
+TurnOnSound			= ""
+TurnOffSound		= ""

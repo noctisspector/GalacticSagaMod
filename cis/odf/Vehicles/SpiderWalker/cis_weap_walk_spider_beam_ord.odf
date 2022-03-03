@@ -1,0 +1,9 @@
+[OrdnanceClass]
+ClassParent 			= "com_weap_veh_beam_ord"
+
+[Properties]
+MaxDamage = "6000"
+
+LaserTexture		= "laser_texture_red"
+LaserWidth			= "0.55"
+LaserGlowColor			= "254 6 18 200"

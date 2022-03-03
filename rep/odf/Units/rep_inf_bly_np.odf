@@ -1,0 +1,17 @@
+[GameObjectClass]
+ClassParent         = "rep_inf_default_bly"
+
+[Properties]
+GeometryName        = "rep_inf_clonecommander_bly"
+GeometryLowRes      = "rep_inf_clonecommander_bly"
+
+
+FirstPerson         = "REP\reptroop;rep_1st_trooper"
+
+SkeletonName            = "swbfiii"
+
+AnimatedAddon = "pack" 
+GeometryAddon = "arc_red_pauldron" 
+AddonAttachJoint = "bone_ribcage"
+
+PointsToUnlock          = 0

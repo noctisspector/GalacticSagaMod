@@ -1,0 +1,13 @@
+ucft
+{
+    REQN
+    {
+        "lvl"
+        "all_all"
+		"all_eli"
+		"all_wok"
+		"all_ewk"
+		"all_spa"
+		"interface_"
+    }
+}

@@ -1,0 +1,20 @@
+[GameObjectClass]
+ClassParent         = "imp_inf_default_rifleman"
+
+[Properties]
+//AnimationName		= "z6gunner"
+
+GeometryName        = "imp_bf3_flametrooper"
+GeometryLowRes      = "imp_bf3_flametrooper"
+FirstPerson         = "IMP\impstrp;imp_1st_stormtrooper"
+
+SkeletonName            = "swbfiii"
+
+WEAPONSECTION = 1
+WeaponName         = "imp_weap_inf_flamethrower_model"
+WeaponAmmo         = 1
+
+WEAPONSECTION = 2
+WeaponName         = "com_weap_inf_therm"
+WeaponAmmo         = 1
+WeaponChannel      = 1

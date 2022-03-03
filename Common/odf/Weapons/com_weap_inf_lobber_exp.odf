@@ -1,0 +1,38 @@
+[ExplosionClass]
+ClassLabel          = "explosion"
+
+[Properties]
+Damage 		  = "500.0"
+
+DamageRadiusInner = "2.5"
+DamageRadiusOuter = "4.0"
+
+Push 		  = "5.0"
+PushRadiusInner   = "3.0"
+PushRadiusOuter   = "3.0"
+
+Shake 		  = "0.5"
+ShakeLength	  = "0.60"
+ShakeRadiusInner  = "8.0" 
+ShakeRadiusOuter  = "12.0"
+
+Effect 		  = "com_sfx_concussiveblast_exp"
+
+//imp_sfx_weap_concussionr_exp - sonic exp?
+//imp_sfx_weap_stun - Shield Impact
+//com_sfx_concussiveblast_exp - purple/blue sonic (very bright)
+//com_sfx_weap_redbolt_exp_md
+
+WaterEffect 	  = "com_sfx_watersplash_lg"
+
+LightColor 	  = "92 136 250 100"
+LightRadius 	  = "14.0"
+LightDuration 	  = "1.0"
+
+VehicleScale        = "1.5"
+PersonScale         = "1.0"
+DroidScale          = "1.0"
+BuildingScale       = "1.5"
+AnimalScale         = "1.0"
+
+SoundProperty	= "com_weap_rocket_small_exp"

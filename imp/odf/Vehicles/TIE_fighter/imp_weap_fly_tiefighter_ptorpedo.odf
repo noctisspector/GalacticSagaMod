@@ -1,0 +1,10 @@
+[WeaponClass]
+ClassParent     = "com_weap_veh_fly_torpedo"
+
+[Properties]
+
+
+OrdnanceName    = "imp_weap_fly_tiefighter_ptorpedo_ord"
+
+FireSound       = "imp_weap_fly_tiefighter_ptorpedo_fire"
+FireSoundStop   = "0"

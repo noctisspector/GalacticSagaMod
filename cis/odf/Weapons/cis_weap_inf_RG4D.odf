@@ -1,0 +1,29 @@
+[WeaponClass]
+ClassParent         = "com_weap_inf_lightpistol_base"
+GeometryName        = "cis_weap_inf_rg4d.msh"
+
+[Properties]
+GeometryName        = "cis_weap_inf_rg4d"
+HighResGeometry         = "cis_weap_inf_rg4d"
+OrdnanceName        = "cis_weap_inf_RG4D_ord"
+FirePointName       = "hp_fire"
+
+HUDtag              = "cis_weap_inf_rg4d"
+
+//******************************************************
+//***************   SOUND       ****************
+//******************************************************
+
+
+
+FireSound           = "com_weap_inf_dl44_fire"
+ReloadSound         = "com_weap_inf_reload_med"
+ChangeModeSound     = "com_weap_inf_equip_med"
+FireEmptySound      = "com_weap_inf_ammo_empty"
+WeaponChangeSound   = "com_weap_inf_equip_med"
+JumpSound           = "com_weap_inf_rifle_mvt_jump"
+LandSound           = "com_weap_inf_rifle_mvt_land"
+RollSound           = "com_weap_inf_rifle_mvt_roll"
+//ProneSound          = "com_weap_inf_rifle_mvt_lie"
+SquatSound          = "com_weap_inf_rifle_mvt_squat"
+//StandSound          = "com_weap_inf_rifle_mvt_getup"

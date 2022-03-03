@@ -1,0 +1,23 @@
+[WeaponClass]
+ClassParent     	= "com_weap_veh_laser"
+
+[Properties]
+OrdnanceName 			= "cis_weap_inf_crabdroid_cannon_ord"
+
+InstantPlayFireAnim 	= 1
+OffhandWeapon 		= 1
+
+ScoreForMedalsType = 1
+
+SalvoCount          = "1"
+ShotsPerSalvo       = "2"
+SalvoDelay          = "0.0"
+InitialSalvoDelay   = "0.0"
+SalvoTime           = "0.0"
+ShotDelay           = "0.2"
+
+FireSound       		= "cis_weap_hover_stap_cannon_fire"
+
+MinRange		= "0"
+OptimalRange		= "100"
+MaxRange		= "250"

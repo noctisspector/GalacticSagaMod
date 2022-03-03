@@ -1,0 +1,13 @@
+[OrdnanceClass]
+ClassParent     	= "com_weap_inf_shotgun_heavy_base_ord"
+
+[Properties]
+
+LaserTexture		= "laser_texture_purple"
+LaserGlowColor		= "97 2 205 150"
+LightColor              = "97 2 205 150"
+
+EndLaserGlowColor       = "97 2 205 150"
+EndLightColor           = "97 2 205 150"
+
+ExplosionName = "com_weap_inf_general_exp_BLUE"

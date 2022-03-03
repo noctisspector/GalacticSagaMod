@@ -1,0 +1,37 @@
+[OrdnanceClass]
+ClassLabel 		= "shell"
+
+[Properties]
+
+TrailEffect		= "com_sfx_weap_rockettrail_green"
+
+//new_sfx_weap_emptrail - light blue trail
+//new_sfx_weap_assaultc_trail - dark blue trail
+//imp_sfx_weap_concussionr_ord - blue rocket trail
+//com_sfx_weap_rockettrail_gold
+
+LightColor              = "61 252 56 100"
+LightRadius             = "1.0"
+
+ImpactEffectWater   = "com_sfx_watersplash_sm"
+
+ExplosionExpire		= "com_weap_inf_radiation_exp"
+ExplosionImpact		= "com_weap_inf_radiation_exp"
+
+Velocity 		= "230.0"
+Gravity			= "1.2"
+Rebound			= "0.35"
+Friction		= "1.0"
+LifeSpan		= "20.0"
+
+Damage 			= "120.0"  A negative value means that no change is applied.
+
+VehicleScale        = "3.0"
+PersonScale         = "1.0"
+DroidScale          = "1.0"
+AnimalScale         = "1.0"
+BuildingScale       = "1.5"
+
+OrdnanceSound       = "com_weap_inf_ord_hum_rocket"
+
+BonusAmplification  = "0.25"				//how much more damage will be done when team_bonus_blaster_amplication is on

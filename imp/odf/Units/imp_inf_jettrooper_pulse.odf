@@ -1,0 +1,13 @@
+[GameObjectClass]
+ClassParent         = "imp_inf_default_jettrooper"
+
+[Properties]
+GeometryName        = "imp_bf3_jettrooper"
+GeometryLowRes      = "imp_bf3_jettrooper"
+FirstPerson         = "IMP\impstrp;imp_1st_stormtrooper"
+
+SkeletonName            = "swbfiii"
+
+WEAPONSECTION = 1
+WeaponName         = "imp_weap_inf_DLT20A"
+WeaponAmmo         = 0

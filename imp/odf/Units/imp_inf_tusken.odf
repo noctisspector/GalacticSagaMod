@@ -1,0 +1,42 @@
+[GameObjectClass]
+ClassParent         = "imp_inf_default_rifleman"
+
+[Properties]
+GeometryName        = "tat_inf_tusken"
+GeometryLowRes      = "tat_inf_tusken"
+FirstPerson         = "IMP\impstrp;imp_1st_stormtrooper"
+
+MaxHealth           	= 550.0
+
+WEAPONSECTION = 1
+WeaponName1         = "imp_weap_inf_cycler"
+WeaponAmmo1         = 0
+
+WEAPONSECTION = 2
+WeaponName2         = "com_weap_inf_frag"
+WeaponAmmo2         = 2
+WeaponChannel2      = 1
+
+//SOUND
+HurtSound	          = "tusken_hurt"
+DeathSound                = "tusken_die"
+//LeftFootstepSound       = "soldierstepleft"
+//RightFootstepSound      = "soldierstepright"
+AcquiredTargetSound       = "tusken_chatter"
+HidingSound               = "tusken_chatter"
+ApproachingTargetSound    = "tusken_chatter"
+FleeSound                 = "tusken_chatter"
+PreparingForDamageSound   = "tusken_chatter"
+HeardEnemySound           = "tusken_chatter"
+//WaterWadingSound        = "com_inf_wading"
+//ShockFadeOutTime        = "0.8"
+//ShockFadeInTime         = "2.0"
+
+
+VOUnitType                = 173
+
+
+VOSound = "raider_inf_chatter_AcquiredTarget    AcquiredTarget"
+VOSound = "raider_inf_chatter_NearbyFriendlySlaughter      NearbyFriendlySlaughter"
+VOSound = "raider_inf_chatter_KillingSpree4      KillingSpree4"
+VOSound = "raider_inf_chatter_Grenade      Grenade"

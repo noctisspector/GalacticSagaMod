@@ -1,0 +1,19 @@
+[GameObjectClass]
+ClassParent         = "all_inf_default"
+
+[Properties]
+WEAPONSECTION = 1
+WeaponName         = "all_weap_inf_scattergun"
+WeaponAmmo         = 0
+
+WEAPONSECTION = 2
+WeaponName         = "com_weap_inf_MPLlauncher"
+WeaponAmmo         = 4
+//WeaponChannel      = 1
+
+WEAPONSECTION = 3
+WeaponName         = "com_weap_inf_powerup"
+WeaponAmmo         = 4
+WeaponChannel      = 1
+
+

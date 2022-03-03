@@ -1,0 +1,42 @@
+[WeaponClass]
+ClassParent         = "com_weap_inf_sniperrifle_base"
+GeometryName        = "mnd_weap_inf_boba_rifle.msh"
+
+[Properties]
+GeometryName        = "mnd_weap_inf_boba_rifle"
+HighResGeometry     = "mnd_weap_inf_boba_rifle"
+OrdnanceName        = "imp_weap_inf_EE3_ord"
+FirePointName       = "hp_fire"
+
+SalvoCount          = "3"
+ShotsPerSalvo       = "1"
+SalvoDelay          = "0.08"
+InitialSalvoDelay   = "0.0"
+
+HeatPerShot         = "0.15"
+HeatRecoverRate     = "0.37"
+
+KickStrength        = "1.0"
+
+ShotDelay           = "0.145"
+
+HUDtag              = "mnd_weap_inf_boba_rifle"
+
+//******************************************************
+//***************   SOUND       ****************
+//******************************************************
+
+FireSound           = "com_weap_inf_ee3_fire"
+FireEmptySound      = "com_weap_inf_ammo_empty"
+FireLoopSound       = ""
+ReloadSound         = "com_weap_inf_reload_med"
+ChargeSound         = ""
+ChargeSoundPitch    = ""
+ChangeModeSound     = "com_weap_inf_equip_med"
+WeaponChangeSound   = "com_weap_inf_equip_med"
+JumpSound           = "com_weap_inf_rifle_mvt_jump"
+LandSound           = "com_weap_inf_rifle_mvt_land"
+RollSound           = "com_weap_inf_rifle_mvt_roll"
+//ProneSound          = "com_weap_inf_rifle_mvt_lie"
+SquatSound          = "com_weap_inf_rifle_mvt_squat"
+//StandSound          = "com_weap_inf_rifle_mvt_getup"

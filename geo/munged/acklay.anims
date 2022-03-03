@@ -1,0 +1,26 @@
+ucft
+{
+	ANIM
+	{
+		"acklay_sabre_standalert_idle_emote_full"
+		"acklay_sabre_standalert_runbackward_full"
+		"acklay_sabre_standalert_runforward_full"
+		"acklay_sabre_standalert_walkbackward_full"
+		"acklay_sabre_standalert_walkforward_full"
+		"acklay_sabre_stand_attack1a_full"
+		"acklay_sabre_stand_attack1b_full"
+		"acklay_sabre_stand_attack1c_full"
+		"acklay_sabre_stand_death_backward_full"
+		"acklay_sabre_stand_hitback"
+		"acklay_sabre_stand_hitfront"
+		"acklay_sabre_stand_hitleft"
+		"acklay_sabre_stand_hitright"
+		"acklay_sabre_stand_idle_emote_full"
+		"acklay_sabre_stand_runbackward_full"
+		"acklay_sabre_stand_runforward_full"
+		"acklay_sabre_stand_turnleft_full"
+		"acklay_sabre_stand_turnright_full"
+		"acklay_sabre_stand_walkbackward_full"
+		"acklay_sabre_stand_walkforward_full"
+	}
+}

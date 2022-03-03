@@ -1,0 +1,64 @@
+[GameObjectClass]
+ClassParent         = "res_inf_default"
+
+[Properties]
+WEAPONSECTION = 1
+WeaponName         = "res_weap_inf_A180"
+WeaponAmmo         = 0
+
+WEAPONSECTION = 2
+WeaponName         = "res_weap_inf_GLIE44"
+WeaponAmmo         = 0
+
+WEAPONSECTION = 3
+WeaponName         = "com_weap_inf_probe"
+WeaponAmmo         = 2
+WeaponChannel	   = 1
+
+
+
+// general VO - Some female VO unavailable
+HurtSound               = "all_inf_com_chatter_wound_female"
+DeathSound              = "all_inf_com_chatter_death_female"
+DamageRegionSound       = "allfemalechoke"
+ChokeSound              = "allfemaleforcechoke"
+AcquiredTargetSound     = ""
+HidingSound             = ""
+ApproachingTargetSound  = ""
+FleeSound               = ""
+// PreparingForDamageSound = ""
+HeardEnemySound         = ""
+
+// squad command VO - No female VO available
+SCFieldMoveOutSound     = ""
+SCFieldHoldSound        = ""
+SCFieldFollowSound      = ""
+SCDriverGetInSound      = ""
+SCDriverGetOutSound     = ""
+SCPassengerMoveOutSound = ""
+SCPassengerStopSound    = ""
+SCPassengerGetInSound   = ""
+SCPassengerGetOutSound  = ""
+SCGunnerAllClearSound   = ""
+SCGunnerSteadySound     = ""
+SCGunnerGetInSound      = ""
+SCGunnerGetOutSound     = ""
+SCResponseYessirSound   = ""
+SCResponseNosirSound    = ""
+
+// AIsquad command VO - No female VO available
+AISCFieldMoveOutSound       = ""
+AISCFieldHoldSound          = ""
+AISCFieldFollowSound        = ""
+AISCDriverGetInSound        = ""
+AISCDriverGetOutSound       = ""
+AISCPassengerMoveOutSound   = ""
+AISCPassengerStopSound      = ""
+AISCPassengerGetInSound     = ""
+AISCPassengerGetOutSound    = ""
+AISCGunnerAllClearSound     = ""
+AISCGunnerSteadySound       = ""
+AISCGunnerGetInSound        = ""
+AISCGunnerGetOutSound       = ""
+AISCResponseYessirSound     = ""
+AISCResponseNosirSound      = ""

@@ -1,0 +1,40 @@
+[WeaponClass]
+ClassParent         = "com_weap_inf_lobber"
+GeometryName        = "PlasmaCannon.msh"
+
+[Properties]
+GeometryName        = "PlasmaCannon"
+HighResGeometry     = "PlasmaCannon"
+
+HUDtag              = "PlasmaCannon"
+
+//************************************************
+//*******************   SOUND    *****************
+//************************************************
+
+MuzzleFlash         = "small_muzzle_flash"
+MuzzleFlashEffect		= "gunkit_blue"
+FlashColor          = "80 80 255 255"     
+FlashLength         = 0.025               
+FlashColor          = "100 100 255 255"   
+FlashLength         = 0.025               
+FlashLightColor     = "220 220 255 175"   
+FlashLightRadius    = "2.0"               
+FlashLightDuration  = "0.25"              
+Discharge           = "small_smoke_effect"
+
+FireSound           = "com_weap_inf_e5s_fire"
+FireEmptySound      = "com_weap_inf_ammo_empty"
+FireLoopSound       = ""
+ReloadSound         = "com_weap_inf_reload_lg"
+ChargeSound         = "rep_weap_inf_rocket_launcher_tracking"
+ChargeSoundPitch    = "0.0"
+ChangeModeSound     = "com_weap_inf_equip_lg"
+WeaponChangeSound   = "com_weap_inf_equip_lg"
+JumpSound           = "com_weap_inf_bazooka_mvt_jump"
+LandSound           = "com_weap_inf_bazooka_mvt_land"
+RollSound           = "com_weap_inf_bazooka_mvt_roll"
+//ProneSound          = "com_weap_inf_bazooka_mvt_lie"
+SquatSound          = "com_weap_inf_bazooka_mvt_squat"
+//StandSound          = "com_weap_inf_bazooka_mvt_getup"
+

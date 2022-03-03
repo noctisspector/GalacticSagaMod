@@ -1,0 +1,33 @@
+[OrdnanceClass]
+ClassLabel          = "sticky"
+
+[Properties]
+GeometryName        = "V1_det"
+ExplosionTrigger        = "com_weap_inf_therm_exp"
+ExplosionDeath          = "com_weap_inf_therm_exp"
+ExplosionExpire         = "com_weap_inf_therm_exp"
+LightColor          = "252 67 67 150"
+LightRadius         = "4.0"
+
+ImpactEffectWater   = "com_sfx_watersplash_sm"
+//ImpactEffect        = "com_sfx_explosion_lg"
+TrailEffect         = "com_sfx_mineblink_red"
+
+LifeSpan            = "2.5"
+Velocity            = "15.0"
+Gravity             = "1.25"
+Rebound             = "0.2"
+Friction            = "2.0"
+
+StickPerson         = 0
+StickAnimal         = 0
+StickDroid          = 0
+StickVehicle        = 1
+StickBuilding       = 1
+StickBuildingDead   = 0
+StickBuildingUnbuilt= 0
+StickTerrain        = 0
+
+CollisionOtherSound     = "com_weap_inf_grenade_bounce"
+CollisionWaterSound     = "imp_inf_trooper_land_water"
+CollisionFoliageSound   = ""

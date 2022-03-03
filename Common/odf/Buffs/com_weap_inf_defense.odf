@@ -1,0 +1,8 @@
+[WeaponClass]
+ClassParent          = "com_weap_inf_buff"
+
+[Properties]
+OrdnanceName        = "com_weap_inf_defense_ord"
+//HUDTag              = "hud_rep_weap_defense_buff_icon"
+HUDTag              = "hud_rep_defense_buff"
+

@@ -1,0 +1,19 @@
+[GameObjectClass]
+ClassParent         = "rep_inf_default_medic"
+
+[Properties]
+GeometryName        = "rep_inf_ep3trooper_hd_white"
+GeometryLowRes      = "rep_inf_ep3trooper_hd_white"
+
+
+FirstPerson         = "REP\reptroop;rep_1st_trooper"
+
+SkeletonName            = "swbfiii"
+
+AnimatedAddon = "pack" 
+GeometryAddon = "rep_addon_backpack" 
+AddonAttachJoint = "bone_ribcage"
+
+WEAPONSECTION = 1
+WeaponName         = "rep_weap_inf_Valken38"
+WeaponAmmo         = 0

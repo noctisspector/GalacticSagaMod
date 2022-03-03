@@ -1,0 +1,9 @@
+[GameObjectClass]
+ClassParent         = "all_inf_default_spy"
+
+[Properties]
+GeometryName        = "all_inf_bothanspy"
+GeometryLowRes      = "all_inf_bothanspy"
+FirstPerson     = "all\alltroop;all_1st_trooper"
+
+SkeletonName            = "swbfiii"

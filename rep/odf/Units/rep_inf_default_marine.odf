@@ -1,0 +1,23 @@
+[GameObjectClass]
+ClassParent         = "rep_inf_default"
+
+
+[Properties]
+
+//MaxSpeed                = 6.0
+//MaxStrafeSpeed          = 4.5
+
+WEAPONSECTION = 1
+WeaponName         = "rep_weap_inf_DC15A"
+WeaponAmmo         = 0
+
+WEAPONSECTION = 2
+WeaponName         = "rep_weap_inf_launcher"
+WeaponAmmo         = 5
+
+WEAPONSECTION = 3
+WeaponName         = "com_weap_inf_frag"
+WeaponAmmo         = 2
+WeaponChannel      = 1
+
+VOUnitType        	= 121

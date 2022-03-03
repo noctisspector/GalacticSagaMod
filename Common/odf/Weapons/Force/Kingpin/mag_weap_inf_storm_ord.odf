@@ -1,0 +1,48 @@
+[OrdnanceClass]
+
+ClassLabel      = "emitterordnance"
+
+[Properties]
+Explosion	    = "mag_weap_inf_storm_exp"
+
+ImpactEffectWater   = "com_sfx_watersplash_ord"
+ConeLength			= "15"
+ConeAngle			= "360"
+FirstRadius			= "0.0"
+MaxTargets			= "50"  // Max number of targets to hit. Chaining is off so the damage will be split between the number of targets
+NoChaining			= "1"   // No chaining - all bolts coming from the attacker
+ApplyOnOwnerIfOnOthers = "0"
+PlayEffectOnOwner = "com_sfx_buff_mag"
+//OrdnanceSound         = "com_weap_launcher_energy_dumbfire"
+AffectFriends                   = "1"
+
+
+Damage              = "30"  // This is the min damage. Even if the initial damage is split between the number of targets, it will never go below this number for each target
+MaxDamage           = "100" // This is the max damage
+JumpDeduction       = "0"  // No jump deduction. This is for chaining only
+DamageThreshold     = "0"  // Always do damage (no threshold)
+MaxJumpDistance     = "0"  // No max jump distance because the chaining is off
+
+VehicleScale        = "0.0"
+ShieldScale         = "1.0"
+PersonScale         = "1.0"
+AnimalScale         = "1.0"
+DroidScale          = "1.0"
+BuildingScale       = "0.0"
+
+SmolderDamageRate = "0" // default is 0.  the damage rate for smoldering targets
+
+SmolderEffectTimer = "5.0"
+
+SmolderEffect = "com_sfx_inf_damage_electricity"
+SmolderBone = "bone_ribcage"
+
+SmolderEffect = "com_sfx_inf_damage_electricity"
+SmolderBone = "bone_pelvis"
+
+Push                = "12.0"
+
+SmolderVanishDeath = "0"
+
+
+

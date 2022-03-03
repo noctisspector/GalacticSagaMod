@@ -1,0 +1,6 @@
+[GameObjectClass]       
+ClassLabel          = "cloth"
+
+[Properties]
+attachedmesh    = "com_inf_Jedi_Master_B"
+priority = 1.0

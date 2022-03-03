@@ -1,0 +1,11 @@
+[GameObjectClass]
+ClassParent         = "rep_inf_default_cody"
+
+[Properties]
+GeometryName        = "rep_inf_ep3cody"
+GeometryLowRes      = "rep_inf_ep3cody"
+
+
+FirstPerson         = "REP\reptroop;rep_1st_trooper"
+
+//SkeletonName            = "swbfiii"

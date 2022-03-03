@@ -1,0 +1,134 @@
+[WeaponClass]
+ClassLabel 		= "cannon"
+
+[Properties]
+ScoreForMedalsType = 1
+//MedalsTypeToLock = 1
+
+AnimationBank   = "rifle"
+
+//***********************************************
+//************* TARGET & RANGE VALUES  **********
+//***********************************************
+
+
+
+TargetEnemy     = "1"
+TargetNeutral   = "0"
+TargetFriendly  = "0"
+
+TargetPerson    = "1"
+TargetAnimal    = "1"
+TargetDroid     = "1"
+TargetVehicle   = "1"
+TargetBuilding  = "1"
+
+MinRange        = "0"
+OptimalRange    = "24"
+MaxRange        = "64"
+
+LockOnRange     = "40.0"
+LockTime        = "0.4"
+lockOnAngle     = "1.0"
+
+ZoomMin         = "2.5"
+ZoomMax         = "2.5"
+ZoomRate        = "0.0"
+
+YawSpread       = "1.4"
+PitchSpread     = "1.4"
+
+SpreadPerShot       = "0.5"
+SpreadRecoverRate   = "0.1"
+SpreadThreshold     = "3.0"
+SpreadLimit         = "2.9"
+
+StandStillSpread    = "0.0"
+StandMoveSpread     = "0.0"
+CrouchStillSpread   = "0.0"
+CrouchMoveSpread    = "0.0"
+ProneStillSpread    = "0.0"
+ProneMoveSpread     = "0.0"
+
+HeatPerShot         = "0.0"
+HeatRecoverRate     = "0.5"
+HeatThreshold       = "0.2"
+
+KickSpread      = "0.0"
+SpreadRecover       = "5.0"
+
+KickStrength        = "2.0"
+KickBuildup     = "60.0"
+
+//***********************************************
+//*********** WEAPON PERFORMANCE VALUES *********
+//***********************************************
+
+HUDtag              = "com_weap_inf_torpedo"
+
+RoundsPerClip       = "60"
+ReloadTime          = "2.5"
+ShotDelay           = "0.065"
+TriggerSingle       = "0"
+
+DisplayRefire 	    = "0"
+
+SalvoCount          = "1"
+SalvoDelay          = "0.0"
+InitialSalvoDelay   = "0.0"
+SalvoTime           = "0.0"
+
+WarmUpTime 		= 0.23
+CoolDownTime 		= 0.12
+
+WarmUpSound         = "com_weap_inf_chargeup_fire"
+WarmUpSoundStartPitch   = 1.0
+WarmUpSoundFadeInTime   = 0.0
+WarmUpSoundFadeOutTime  = 0.0
+
+RecoilLengthLight   = "0.1"
+RecoilLengthHeavy   = "0.1"
+RecoilStrengthLight = "1.0"
+RecoilStrengthHeavy = "0.2"
+RecoilDecayLight    = "0.0"
+RecoilDecayHeavy    = "0.0"
+
+
+//***********************************************
+//***********  HUD & CONTROLLER VALUES  *********
+//***********************************************
+
+MuzzleFlash         = "small_muzzle_flash"
+MuzzleFlashEffect		= "gunkit_red"
+FlashColor          = "255 80 80 255"
+FlashLength         = 0.025
+FlashColor          = "255 100 100 255"
+FlashLength         = 0.025
+FlashLightColor     = "255 220 220 175"
+FlashLightRadius    = "2.0"
+FlashLightDuration  = "0.25"
+Discharge           = "small_smoke_effect"
+
+RecoilLengthLight   = "0.1"
+RecoilLengthHeavy   = "0.1"
+RecoilStrengthLight = "1.0"
+RecoilStrengthHeavy = "0.2"
+RecoilDecayLight    = "0.0"
+RecoilDecayHeavy    = "0.0"
+
+
+
+//YawSpread       = "0.4"
+//PitchSpread     = "0.4"
+
+//HeatPerShot         = "0.0"
+//HeatRecoverRate     = "0.5"
+//HeatThreshold       = "0.2"
+
+//KickBuildup     = "60.0"
+
+//RoundsPerClip       = "30"
+//ReloadTime          = "1.6"
+
+//ShotDelay           = "0.16"
+

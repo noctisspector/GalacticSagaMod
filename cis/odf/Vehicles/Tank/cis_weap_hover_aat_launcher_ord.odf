@@ -1,0 +1,5 @@
+[OrdnanceClass]
+ClassParent = "com_weap_veh_recoilless_base_ord"
+
+[Properties]
+ExplosionName = "cis_weap_hover_aat_launcher_exp"

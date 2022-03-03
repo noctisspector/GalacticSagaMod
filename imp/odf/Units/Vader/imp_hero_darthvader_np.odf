@@ -1,0 +1,8 @@
+[GameObjectClass]
+ClassParent             = "imp_hero_darthvader"
+
+[Properties]
+PointsToUnlock          = 0
+
+
+

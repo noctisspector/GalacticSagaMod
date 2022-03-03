@@ -1,0 +1,21 @@
+ucft
+{
+	ANIM
+	{
+		"attack1"
+		"attack2"
+		"attack3"
+		"death01"
+		"idle"
+		"idle_leftup"
+		"idle_rightup"
+		"idle_to_leftfoot"
+		"idle_to_rightfoot"
+		"leftfoot_to_idle"
+		"rightfoot_to_idle"
+		"turnl"
+		"turnr"
+		"walk_leftfoot_rightfoot"
+		"walk_rightfoot_leftfoot"
+	}
+}

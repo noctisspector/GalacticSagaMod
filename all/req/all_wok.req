@@ -1,0 +1,11 @@
+ucft
+{
+    REQN
+    {
+        "class"
+		"all_inf_wookie_warrior"
+		"all_inf_wookie_gunner"
+		"all_inf_wookie_sapper"
+		"all_inf_trando"
+    }
+}

@@ -1,0 +1,130 @@
+[GameObjectClass]
+ClassParent     	= "cis_inf_default_rifleman"
+
+
+[Properties]
+UnitType            	= "trooper"
+AnimationName		= "cis_walk_dwarfspider"
+GeometryName        	= "cis_walk_dwarfspider"
+GeometryLowRes      	= "cis_walk_dwarfspider"
+SkeletonName            = "cis_walk_dwarfspider"
+SkeletonLowRes          = "cis_walk_dwarfspider"
+
+CHUNKSECTION            = "CHUNK1"
+ChunkGeometryName       = "cis_dwarfspider_chunk_1"
+ChunkNodeName           = "dummyroot"
+ChunkTerrainCollisions	= "45"
+ChunkTerrainEffect      = "dirtspray"
+ChunkPhysics            = "FULL"
+ChunkOmega				= "0.0 1.0 0.0"
+ChunkSpeed				= 1.0
+ChunkUpFactor           = 10.5
+ChunkLinearDamping      = 0.010
+ChunkAngularDamping     = 0.040
+ChunkTrailEffect		= "com_sfx_chunksmolder"
+
+
+CHUNKSECTION            = "CHUNK2"
+ChunkGeometryName       = "cis_dwarfspider_chunk_2"
+ChunkNodeName           = "dummyroot"
+ChunkTerrainCollisions	= "45"
+ChunkTerrainEffect      = "dirtspray"
+ChunkPhysics            = "FULL"
+ChunkOmega				= "-1.57 0.0 1.57"
+ChunkSpeed				= 3.5
+ChunkUpFactor           = 1.5
+ChunkLinearDamping      = 0.010
+ChunkAngularDamping     = 0.040
+ChunkTrailEffect		= "com_sfx_chunksmolder"
+
+
+CHUNKSECTION            = "CHUNK3"
+ChunkGeometryName       = "cis_dwarfspider_chunk_3"
+ChunkNodeName           = "dummyroot"
+ChunkTerrainCollisions	= "45"
+ChunkTerrainEffect      = "dirtspray"
+ChunkPhysics            = "FULL"
+ChunkOmega				= "1.57 0 1.5" // final axis rotation x y z 1.57 = 90 degrees
+ChunkSpeed				= 2.5
+ChunkUpFactor           = 0.5
+ChunkLinearDamping      = 0.010
+ChunkAngularDamping     = 0.000
+ChunkTrailEffect		= "com_sfx_chunksmolder"
+ChunkBounciness 		= 0.45
+ChunkStickiness 		= 0.0
+
+
+CHUNKSECTION            = "CHUNK4"
+ChunkGeometryName       = "cis_dwarfspider_chunk_4"
+ChunkNodeName           = "dummyroot"
+ChunkTerrainCollisions	= "45"
+ChunkTerrainEffect      = "dirtspray"
+ChunkPhysics            = "FULL"
+ChunkOmega				= "2.0 0.0 0.0"
+ChunkSpeed				= 2.75
+ChunkUpFactor           = .75
+ChunkLinearDamping      = 0.010
+ChunkAngularDamping     = 0.040
+ChunkTrailEffect		= "com_sfx_chunksmolder"
+
+
+CHUNKSECTION            = "CHUNK5"
+ChunkGeometryName       = "cis_dwarfspider_chunk_5"
+ChunkNodeName           = "dummyroot"
+ChunkTerrainCollisions	= "45"
+ChunkTerrainEffect      = "dirtspray"
+ChunkPhysics            = "FULL"
+ChunkOmega				= "-2.0 0.0 0.0"
+ChunkSpeed				= 3.0
+ChunkUpFactor           = 1.75
+ChunkLinearDamping      = 0.010
+ChunkAngularDamping     = 0.040
+ChunkTrailEffect		= "com_sfx_chunksmolder"
+
+
+CHUNKSECTION			= "CHUNK6"
+ChunkGeometryName		= "cis_dwarfspider_chunk_6"
+ChunkNodeName			= "dummyroot"
+ChunkTerrainCollisions	= "45"
+ChunkTerrainEffect      = "dirtspray"
+ChunkPhysics            = "FULL"
+ChunkOmega				= "0.0 0.0 3.14"
+ChunkSpeed				= 8
+ChunkUpFactor           = 2.0
+//ChunkLinearDamping      = 0.010
+ChunkAngularDamping     = 0.040
+ChunkTrailEffect		= "com_sfx_chunksmolder"
+
+LegPairCount		= "2"
+
+WalkerLegPair		= "front_legs"
+
+LegBoneTopLeft		= "bone_fl_upperarm"
+LegBoneTopRight		= "bone_fr_upperarm"
+
+LegBoneLeft			= "bone_fl_lowerarm"
+LegBoneRight		= "bone_fr_lowerarm"
+
+
+FootBoneLeft		= "bone_fl_foot"
+FootBoneRight		= "bone_fr_foot"
+
+TerrainLeft			= "p_foot1"
+TerrainRight		= "p_foot2"
+
+
+
+
+WalkerLegPair		= "back_legs"
+
+LegBoneLeft			= "bone_bl_lowerarm"
+LegBoneRight		= "bone_br_lowerarm"
+
+LegBoneTopLeft		= "bone_bl_upperarm"
+LegBoneTopRight		= "bone_br_upperarm"
+
+TerrainLeft			= "p_foot3"
+TerrainRight		= "p_foot4"
+
+FootBoneLeft		= "bone_bl_foot"
+FootBoneRight		= "bone_fr_foot"

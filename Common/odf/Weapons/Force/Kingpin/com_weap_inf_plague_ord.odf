@@ -1,0 +1,44 @@
+[OrdnanceClass]
+
+ClassParent      = "emitterordnance"
+
+[Properties]
+ImpactEffectWater   = "com_sfx_watersplash_ord"
+
+Radius             = "7" // sphere used for finding the targets
+ConeLength          = "0" // cone not used for finding the targets
+
+ConeAngle           = "120"
+FirstRadius         = "0.0"
+MaxTargets          = "16"  // Max number of targets to hit. Chaining is off so the damage will be split between the number of targets
+NoChaining          = "1"   // No chaining - all bolts coming from the attacker
+ApplyOnOwnerIfOnOthers = "0"
+PlayEffectOnOwner = "com_sfx_buff_plague"
+//OrdnanceSound         = "com_weap_launcher_energy_dumbfire"
+
+Damage              = "100"  // This is the min damage. Even if the initial damage is split between the number of targets, it will never go below this number for each target
+MaxDamage           = "100" // This is the max damage
+JumpDeduction       = "0"  // No jump deduction. This is for chaining only
+DamageThreshold     = "0"  // Always do damage (no threshold)
+MaxJumpDistance     = "0"  // No max jump distance because the chaining is off
+
+VehicleScale        = "0.0"
+ShieldScale         = "1.0"
+PersonScale         = "1.0"
+AnimalScale         = "1.0"
+DroidScale          = "1.0"
+BuildingScale       = "0.0"
+
+SmolderDamageRate = "10.0" // default is 0.  the damage rate for smoldering targets
+
+SmolderEffectTimer = "10.0"
+
+SmolderEffect = "com_sfx_buffed_plague"
+SmolderBone = "bone_head"
+
+SmolderEffect = "com_sfx_buffed_plague"
+SmolderBone = "bone_pelvis"
+
+SmolderVanishDeath = "0"
+
+

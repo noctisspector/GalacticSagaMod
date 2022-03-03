@@ -1,0 +1,11 @@
+[GameObjectClass]
+ClassParent             = "com_jedi_default"
+
+[Properties]
+EnergyBar               = 90.0     
+EnergyRestore           = 30.0      
+EnergyRestoreIdle       = 45.0      
+EnergyDrainSprint       = 15.0      
+EnergyMinSprint         = 20.0      
+EnergyCostJump          = 0.0     
+EnergyCostRoll          = 25.0

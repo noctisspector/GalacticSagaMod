@@ -1,0 +1,9 @@
+[GameObjectClass]
+ClassParent         = "tfo_inf_default_sniper"
+
+[Properties]
+GeometryName        = "fo_new_inf_trooper_sniper"
+GeometryLowRes      = "fo_new_inf_trooper_sniper"
+FirstPerson         = "IMP\impstrp;imp_1st_stormtrooper"
+
+//SkeletonName            = "swbfiii"

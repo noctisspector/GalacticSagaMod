@@ -1,0 +1,9 @@
+[GameObjectClass]
+ClassParent         = "imp_inf_default_pilot"
+
+[Properties]
+GeometryName        = "emp_inf_tiepilot"
+GeometryLowRes      = "emp_inf_tiepilot"
+FirstPerson         = "IMP\impstrp;imp_1st_stormtrooper"
+
+//SkeletonName            = "swbfiii"

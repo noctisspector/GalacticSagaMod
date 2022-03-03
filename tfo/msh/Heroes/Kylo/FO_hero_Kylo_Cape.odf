@@ -1,0 +1,5 @@
+[GameObjectClass]       
+ClassLabel          = "cloth"
+
+[Properties]
+attachedmesh	= "FO_hero_Kylo_TLJ"

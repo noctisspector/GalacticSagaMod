@@ -1,0 +1,8 @@
+[OrdnanceClass]
+ClassParent     	= "com_weap_inf_shotgun_base_ord"
+
+[Properties]
+
+LaserTexture		= "laser_texture_gold"
+LaserGlowColor		= "224 224 160 100"
+LightColor              = "224 224 160 100"

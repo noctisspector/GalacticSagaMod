@@ -1,0 +1,28 @@
+[OrdnanceClass]
+ClassParent     	= "com_weap_inf_rifle_base_ord"
+
+[Properties]
+
+ExplosionExpire		= "com_weap_inf_explmg_exp"
+ExplosionImpact		= "com_weap_inf_explmg_exp"
+
+LaserLength         	= "8"
+LaserWidth          	= "0.28"
+GlowLength          	= "8"
+BlurLength          	= "0"
+
+LifeSpan            	= "3.0"
+Velocity            	= "180.0"
+Gravity             	= "1.0"
+Rebound             	= "0.0"
+
+MaxDamage           	= "1"
+DamageTransitionDelay   = "0.2"     
+DamageTransitionPeriod  = "0.1"    
+DamageFinalDamage       = "-1"  
+
+VehicleScale        	= "1.0"
+ShieldScale         	= "1.0"
+PersonScale         	= "1.0"
+DroidScale          	= "1.0"
+BuildingScale       	= "0.8"

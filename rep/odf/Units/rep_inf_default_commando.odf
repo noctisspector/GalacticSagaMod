@@ -1,0 +1,23 @@
+[GameObjectClass]
+ClassParent         = "rep_inf_default"
+
+[Properties]
+
+PointsToUnlock          = 12
+
+MaxHealth           	= 800.0
+
+WEAPONSECTION = 1
+WeaponName         = "rep_weap_inf_DC17_rifle"
+WeaponAmmo         = 0
+
+WEAPONSECTION = 2
+WeaponName         = "rep_weap_inf_DC17_sniper"
+WeaponAmmo         = 0
+
+WEAPONSECTION = 3
+WeaponName         = "rep_weap_inf_DC17_g"
+WeaponAmmo         = 0
+
+VOUnitType           = 42
+

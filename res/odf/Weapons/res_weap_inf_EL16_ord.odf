@@ -1,0 +1,13 @@
+[OrdnanceClass]
+ClassParent     	= "com_weap_inf_smg_base_ord"
+
+[Properties]
+
+LaserTexture		= "laser_texture_blue"
+LaserGlowColor		= "3 3 253 150"
+LightColor              = "3 3 253 150"
+
+EndLaserGlowColor       = "3 3 253 150"
+EndLightColor           = "3 3 253 150"
+
+ExplosionName = "com_weap_inf_general_exp_BLUE"

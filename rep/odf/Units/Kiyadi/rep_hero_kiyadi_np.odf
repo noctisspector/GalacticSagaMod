@@ -1,0 +1,9 @@
+[GameObjectClass]
+ClassParent             = "rep_hero_kiyadi"
+
+[Properties]
+
+PointsToUnlock          = 0
+
+
+

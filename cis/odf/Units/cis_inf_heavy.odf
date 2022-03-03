@@ -1,0 +1,13 @@
+[GameObjectClass]
+ClassParent     	= "cis_inf_default_heavy"
+
+
+[Properties]
+UnitType            	= "trooper"
+
+GeometryName        	= "cis_inf_b1_battledroid"
+GeometryLowRes      	= "cis_inf_b1_battledroid"
+SkeletonName            = "bdroid"
+SkeletonLowRes          = "bdroidlz"
+
+FirstPerson             = "CIS\cisbdrd;cis_1st_bdroid"

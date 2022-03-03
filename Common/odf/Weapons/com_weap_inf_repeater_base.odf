@@ -1,0 +1,33 @@
+[WeaponClass]
+ClassParent         = "com_weap_inf_rifle_base"
+
+
+[Properties]
+
+YawSpread       = "0.3"
+PitchSpread     = "0.25"
+
+SpreadPerShot       = "0.3"
+SpreadRecoverRate   = "1.0"
+SpreadThreshold     = "3.0"
+SpreadLimit         = "1.3"
+
+HeatPerShot         = "0.03"
+HeatRecoverRate     = "0.13"
+HeatThreshold       = "0.5"
+
+
+
+KickStrength        = "3.5"
+KickBuildup     = "200.0"
+
+ShotDelay           = "0.1"
+
+WarmUpSoundFadeOutTime  = 0.0
+
+RecoilLengthLight   = "0.1"
+RecoilLengthHeavy   = "0.1"
+RecoilStrengthLight = "1.0"
+RecoilStrengthHeavy = "0.2"
+RecoilDecayLight    = "0.0"
+RecoilDecayHeavy    = "0.0"

@@ -1,0 +1,10 @@
+[OrdnanceClass]
+ClassParent     = "com_weap_veh_fly_multilasers_minigun_ord"
+
+[Properties]
+ExplosionName = "all_weap_fly_ywing_turret_cannon_exp"
+//ImpactEffect 	= "com_sfx_weap_shiplaser_exp_lg""
+
+LaserTexture        	= "laser_texture_red"
+LaserGlowColor      	= "254 6 18 200"
+LightColor          	= "254 6 18 200"

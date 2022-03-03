@@ -1,0 +1,18 @@
+[GameObjectClass]
+ClassParent         = "res_inf_default"
+
+[Properties]
+WEAPONSECTION = 1
+WeaponName         = "res_weap_inf_GLIE44"
+WeaponAmmo         = 0
+
+WEAPONSECTION = 2
+WeaponName         = "com_weap_inf_repair"
+WeaponAmmo         = 0
+
+WEAPONSECTION = 3
+WeaponName         = "com_weap_inf_powerup"
+WeaponAmmo         = 4
+WeaponChannel      = 1
+
+

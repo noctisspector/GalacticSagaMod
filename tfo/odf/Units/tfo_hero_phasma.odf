@@ -1,0 +1,9 @@
+[GameObjectClass]
+ClassParent         = "tfo_hero_default_phasma"
+
+[Properties]
+GeometryName        = "FO_hero_Phasma"
+GeometryLowRes      = "FO_hero_Phasma"
+FirstPerson         = "IMP\impstrp;imp_1st_stormtrooper"
+
+//SkeletonName            = "swbfiii"

@@ -1,0 +1,15 @@
+[GameObjectClass]
+ClassParent         = "imp_inf_default_spy"
+
+[Properties]
+//AnimationName		= "z6gunner"
+
+GeometryName        = "imp_inf_bf3scouttrooper_storm"
+GeometryLowRes      = "imp_inf_bf3scouttrooper_storm"
+FirstPerson         = "IMP\impstrp;imp_1st_stormtrooper"
+
+SkeletonName            = "swbfiii"
+
+WEAPONSECTION = 1
+WeaponName         = "imp_weap_inf_DLT20"
+WeaponAmmo         = 0

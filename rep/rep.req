@@ -1,0 +1,21 @@
+ucft
+{
+    REQN
+    {
+        "lvl"
+        "rep_all"
+		"rep_eli"
+		"rep_gcw_eli"
+		"rep_hover_fightertank"
+		"rep_walk_atte"
+        "rep_walk_atte_nospawn"
+		"rep_walk_oneman_atst"
+		"interface_"
+		"rep_hero_jinn"
+		"rep_nab"
+		"rep_yoda"
+		"rep_hero_aalya_mod"
+		"rep_spa"
+    }
+
+}

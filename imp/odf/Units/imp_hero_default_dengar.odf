@@ -1,0 +1,25 @@
+[GameObjectClass]
+ClassParent         = "imp_inf_default"
+
+[Properties]
+
+PointsToUnlock          = 10
+
+MaxHealth           	= 800.0
+
+WEAPONSECTION = 1
+WeaponName         = "imp_weap_inf_valken38"
+WeaponAmmo         = 0
+
+WEAPONSECTION = 2
+WeaponName         = "com_weap_inf_MPLlauncher"
+WeaponAmmo         = 0
+
+WEAPONSECTION = 3
+WeaponName         = "com_weap_inf_sonicg"
+WeaponAmmo         = 3
+WeaponChannel      = 1
+
+
+
+VOUnitType           = 42

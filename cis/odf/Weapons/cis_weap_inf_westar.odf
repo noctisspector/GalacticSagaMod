@@ -1,0 +1,29 @@
+[WeaponClass]
+ClassParent         = "com_weap_inf_lightpistol_base"
+GeometryName        = "westar34.msh"
+
+[Properties]
+GeometryName        = "westar34"
+HighResGeometry         = "westar34"
+OrdnanceName        = "cis_weap_inf_westar_ord"
+FirePointName       = "hp_fire"
+
+HUDtag              = "westar34"
+
+//******************************************************
+//***************   SOUND       ****************
+//******************************************************
+
+
+
+FireSound           = "com_weap_inf_fett_fire"
+ReloadSound         = "com_weap_inf_reload_med"
+ChangeModeSound     = "com_weap_inf_equip_med"
+FireEmptySound      = "com_weap_inf_ammo_empty"
+WeaponChangeSound   = "com_weap_inf_equip_med"
+JumpSound           = "com_weap_inf_rifle_mvt_jump"
+LandSound           = "com_weap_inf_rifle_mvt_land"
+RollSound           = "com_weap_inf_rifle_mvt_roll"
+//ProneSound          = "com_weap_inf_rifle_mvt_lie"
+SquatSound          = "com_weap_inf_rifle_mvt_squat"
+//StandSound          = "com_weap_inf_rifle_mvt_getup"

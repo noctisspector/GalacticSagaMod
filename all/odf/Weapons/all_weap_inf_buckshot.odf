@@ -1,0 +1,34 @@
+[WeaponClass]
+ClassParent         = "com_weap_inf_shotgun_base"
+GeometryName        = "acp_array_gun.msh"
+
+[Properties]
+GeometryName        = "acp_array_gun"
+HighResGeometry     = "acp_array_gun"
+OrdnanceName        = "all_weap_inf_buckshot_ord"
+FirePointName       = "hp_fire"
+
+MuzzleFlashEffect		= "gunkit_yellow"
+FlashColor 		= "224 224 160 100"
+FlashLightColor 	= "224 224 160 100"
+
+HUDtag              = "acp_array_gun"
+
+//******************************************************
+//***************   SOUND       ****************
+//******************************************************
+
+FireSound           = "com_weap_inf_powersniper2_fire"
+FireEmptySound      = "com_weap_inf_ammo_empty"
+FireLoopSound       = ""
+ReloadSound         = "com_weap_inf_reload_med"
+ChargeSound         = ""
+ChargeSoundPitch    = ""
+ChangeModeSound     = "com_weap_inf_equip_med"
+WeaponChangeSound   = "com_weap_inf_equip_med"
+JumpSound           = "com_weap_inf_rifle_mvt_jump"
+LandSound           = "com_weap_inf_rifle_mvt_land"
+RollSound           = "com_weap_inf_rifle_mvt_roll"
+//ProneSound          = "com_weap_inf_rifle_mvt_lie"
+SquatSound          = "com_weap_inf_rifle_mvt_squat"
+//StandSound          = "com_weap_inf_rifle_mvt_getup"

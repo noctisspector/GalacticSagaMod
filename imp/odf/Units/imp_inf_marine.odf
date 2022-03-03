@@ -1,0 +1,9 @@
+[GameObjectClass]
+ClassParent         = "imp_inf_default_marine"
+
+[Properties]
+GeometryName        = "imp_bf3_commander"
+GeometryLowRes      = "imp_bf3_commander"
+FirstPerson         = "IMP\impstrp;imp_1st_stormtrooper"
+
+SkeletonName            = "swbfiii"

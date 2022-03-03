@@ -1,0 +1,12 @@
+[GameObjectClass]
+ClassParent         = "res_inf_default"
+
+[Properties]
+WEAPONSECTION = 1
+WeaponName         = "res_weap_inf_EL16"
+WeaponAmmo         = 0
+
+WEAPONSECTION = 2
+WeaponName         = "com_weap_inf_V1det"
+WeaponAmmo         = 3
+WeaponChannel      = 1

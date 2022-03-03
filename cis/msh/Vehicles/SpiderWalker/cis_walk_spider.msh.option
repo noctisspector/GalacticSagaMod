@@ -1,0 +1,1 @@
+-keep turret_y_1 turret_x_1 turret_y_2 turret_x_2 -nocollision  -bump CIS_SpiderWalker

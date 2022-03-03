@@ -1,0 +1,9 @@
+[GameObjectClass]
+ClassParent         = "rep_inf_default_rocketeer"
+
+[Properties]
+GeometryName        = "rep_inf_feluciatrooper"
+GeometryLowRes      = "rep_inf_feluciatrooper"
+FirstPerson         = "REP\reptroop;rep_1st_trooper"
+
+//SkeletonName            = "swbfiii"

@@ -1,0 +1,16 @@
+[OrdnanceClass]
+ClassParent     	= "com_weap_inf_smg_base_ord"
+
+[Properties]
+
+Velocity            	= "1000.0"
+
+LaserLength         	= "0"
+LaserWidth          	= "0.0"
+GlowLength          	= "0"
+BlurLength          	= "0"
+
+MaxDamage           	= "106"
+DamageTransitionDelay   = "0.05"
+DamageTransitionPeriod  = "0.08"
+DamageFinalDamage       = "93"

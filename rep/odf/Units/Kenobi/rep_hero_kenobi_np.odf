@@ -1,0 +1,11 @@
+[GameObjectClass]
+ClassParent             = "rep_hero_kenobi"
+
+[Properties]
+
+PointsToUnlock          = 0
+
+
+
+
+
