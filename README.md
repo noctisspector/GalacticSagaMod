@@ -1,7 +1,7 @@
 # GalacticSagaMod
 
 This is the source of the "SIDE" files for the Galactic Saga Mod. I am not working much on this mod anymore, so feel free to use any code or assets. 
-There is a list of credits for some of the assets near the bottom, but I wasn't keeping of which assets belong to whom. Mod link:
+There is a list of credits for some of the assets near the bottom, but I wasn't keeping track of which assets belong to whom. Mod link:
 
 https://www.moddb.com/mods/galactic-saga
 
